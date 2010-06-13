@@ -1,0 +1,9 @@
+#summary DeuTex
+
+= DeuTex =
+
+DeuTex is an old but useful command line utility for manipulating .wad data files for the various games based on the Doom engine.  It is used in Blasphemer to compile the data into a format usable by game engines.
+
+Ubuntu users can "sudo apt-get install deutex".
+
+Other users may refer to http://www.teaser.fr/~amajorel/deutex to get the software.
