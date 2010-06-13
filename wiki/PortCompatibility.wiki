@@ -1,0 +1,27 @@
+#summary Port compatibility list.
+
+= Port Compatibility =
+
+In order to play Blasphemer, you'll need a Heretic engine.  Several options are available, but not all of them will provide a satisfactory experience.
+
+== Latest known compatibility details ==
+
+Blasphemer has been found to work with minor issues on the following engines:
+  * ZDoom                - Might not have correct color effects
+  * Vavoom               - Does not have correct invulnerability colors
+  * Heretic+             - Will not have correct messages
+
+Blasphemer has been found to be functional on the following engines, with some issues:
+  * Doomsday             - Some sound do not sound correct, doesn't have correct messages or invulnerability color.
+
+Blasphemer has been found to have unacceptable problems on the following engines:
+  * ReMood               - Prone to crashes (not Blasphemer specific)
+
+The following ports do not have required features to support Blasphemer:
+  * Chocolate-Heretic    - No limit removal
+  * HHeretic             - Sound issues, no limit removal
+  * Eternity             - Incomplete support of Heretic features
+
+We have no information on running Blasphemer under the following ports:
+  * Legacy
+  * WHeretic
