@@ -1,0 +1,119 @@
+i AA00 DeuTex 4.4.902
+i AA05 argv[1] "-iwad"
+i AA05 argv[2] "-make"
+i AA05 argv[3] "blasphem.wad"
+i AA31 Building an iwad
+i CM01 Composing IWAD blasphem.wad from ./wadinfo.txt
+i WR19 Reading WAD ./heretic.wad:	(3 entries)
+i WW01 Creating iwad blasphem.wad
+i WR19 Reading WAD ./levels/e1m3.wad:	(11 entries)
+i WR19 Reading WAD ./levels/e1m7.wad:	(13 entries)
+i WR19 Reading WAD ./levels/e2m1.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/dm1.wad:	(11 entries)
+i WR19 Reading WAD ./levels/dm07.wad:	(11 entries)
+i WR19 Reading WAD ./levels/dm10.wad:	(11 entries)
+i WR19 Reading WAD ./levels/dm15.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i WR19 Reading WAD ./levels/ph.wad:	(11 entries)
+i PL05 Palette is Heretic
+i CM30 Making lumps
+w PC10 GIF support may go away in the future
+i CM50 Making TEXTURE1
+w TX38 Texture SW2OFF: width 192 not a power of 2
+w TX38 Texture SW2ON: width 192 not a power of 2
+i TX44 Read 100 textures from ./textures/texture1.txt
+i CM55 Making TEXTURE2
+w CM56 Can't find TEXTURE2 in main WAD
+i TX44 Read 167 textures from ./textures/texture2.txt
+i CM41 Making PNAMES
+i CM60 Making sounds
+w SC14 ./sounds/amb1.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/amb10.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/amb11.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/amb2.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/amb3.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/amb4.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/amb5.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/amb6.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/amb7.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/amb8.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/amb9.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/artiup.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/artiuse.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/blssht.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/bowsht.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/chat.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/dorcls.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/dormov.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/doropn.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/gldhit.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/gloop.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/hrnhit.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/impat2.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/itemup.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/keyup.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/lobsht.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/mumpai.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/mumsit.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/newpod.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/plrdth.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/plroof.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/plrpai.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/podexp.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/pstart.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/pstop.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/respawn.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/snkatk.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/stfpow.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/stnmov.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/switch.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/telept.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/waterfl.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/wind.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/wizact.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/wizatk.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/wizdth.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/wizpai.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+w SC14 ./sounds/wpnup.wav: sample rate != 11025 Hz, won't work on Doom < 1.4
+i CM70 Making graphics
+i CM75 Making sprites
+i CM80 Making patches
+i CM85 Making flats
+i WW28 blasphem.wad: wad is complete, 2236 entries, 9306428 bytes
+i AA99 Normal exit

@@ -1,0 +1,1793 @@
+# Blasphemer - DeuTex Instruction file
+# (Also detailed credits)
+# Additional Credits:
+# Leilei - Blank .WAD / Placeholders
+# Stilgar - Placeholder Map, Monster placeholder
+
+[lumps]
+PLAYPAL  # Stilgar
+COLORMAP # Stilgar
+TINTTAB  # Stilgar
+LOADING  # * PH *
+TITLE    # Jute Gyte
+HELP1    # * PH *  
+HELP2    # * PH *
+CREDIT   # * PH * 
+E2END    # * PH *
+E2PAL    # * PH *
+FINAL1   # * PH *
+FINAL2   # * PH *
+ENDTEXT  # Stilgar
+DEMO1    # * PH *
+DEMO2 DEMO1   # * PH *
+DEMO3 DEMO1   # * PH *
+GENMIDI  # * PH *
+SNDCURVE # ~ AutoGenerate (Stilgar) ~
+DMXGUS   # * PH *
+GFRAG    # * PH *
+AUTOPAGE # GreyGhost
+LANGUAGE # Stilgar 
+EXTENDED # Stilgar
+BLASPHEM # Empty tag lump
+MUS_E1M1 BLAS15  # Jute Gyte
+MUS_E1M2 BLAS04X  # Jute Gyte
+MUS_E1M3 BLAS01X  # Jute Gyte
+MUS_E1M4 BLAS07X  # Jute Gyte
+MUS_E1M5 BLAS11  # Jute Gyte
+MUS_E1M6 BLAS09X  # Jute Gyte
+MUS_E1M7 BLAS05X  # Jute Gyte
+MUS_E1M8 BLAS07  # Jute Gyte
+MUS_E1M9 BLAS11X  # Jute Gyte
+MUS_E2M1 BLAS06  # Jute Gyte
+MUS_E2M2 BLAS08X  # Jute Gyte
+MUS_E2M3 BLAS09  # Jute Gyte
+MUS_E2M4 BLAS10X  # Jute Gyte
+MUS_E2M6 BLAS13X  # Jute Gyte
+MUS_E2M7 BLAS17  # Jute Gyte
+MUS_E2M8 BLAS18X  # Jute Gyte
+MUS_E2M9 BLAS12X  # Jute Gyte
+MUS_E3M2 BLAS19  # Jute Gyte
+MUS_E3M3 BLAS20X  # Jute Gyte
+MUS_TITL BLAS21  # Jute Gyte
+MUS_CPTD BLAS22X  # Jute Gyte
+MUS_INTR BLAS14X  # Jute Gyte
+
+[levels]
+E1M3      # Snarboo
+E1M7      # Ryathaen
+E2M1      # Owen "Sarge Baldy" Lloyd (Bugfixed)
+E1M1 PH
+E1M2 PH
+E1M4 PH
+E1M5 PH
+E1M6 PH
+E1M8 PH
+E1M9 PH
+E2M2 PH
+E2M3 PH
+E2M4 PH
+E2M5 PH
+E2M6 PH
+E2M7 PH
+E2M8 PH
+E2M9 PH
+E3M1 PH
+E3M2 PH
+E3M3 PH
+E3M4 PH
+E3M5 PH
+E3M6 PH
+E3M7 PH
+E3M8 PH
+E3M9 PH
+E4M1 DM1 # Jute Gyte
+E4M2 DM07 # Rellik (Conversion by Jute)
+E4M3 DM10 # Rellik (Conversion by Jute)
+E4M4 DM15 # Hellbent (Conversion by Jute)
+E4M5 PH
+E4M6 PH
+E4M7 PH
+E4M8 PH
+E4M9 PH
+E5M1 PH
+E5M2 PH
+E5M3 PH
+E5M4 PH
+E5M5 PH
+E5M6 PH
+E5M7 PH
+E5M8 PH
+E5M9 PH
+
+[texture1]
+TEXTURE1
+
+[texture2]
+TEXTURE2
+
+[sounds]
+AMB1     # Jute Gyte
+AMB10    # Jute Gyte
+AMB11    # Jute Gyte
+AMB2     # Jute Gyte
+AMB3     # Jute Gyte
+AMB4     # Jute Gyte
+AMB5     # Jute Gyte
+AMB6     # Jute Gyte
+AMB7     # Jute Gyte
+AMB8     # Jute Gyte
+AMB9     # Jute Gyte
+ARTIUP   # Jute Gyte
+ARTIUSE  # Jute Gyte
+BLSHIT   # * PLACE HOLDER *
+BLSSHT   # Jute Gyte
+BOUNCE   # * PLACE HOLDER *
+BOWSHT   # Jute Gyte
+BSTACT   # * PLACE HOLDER *
+BSTATK   # * PLACE HOLDER *
+BSTDTH   # * PLACE HOLDER *
+BSTPAI   # * PLACE HOLDER *
+BSTSIT   # * PLACE HOLDER *
+BURN     # * PLACE HOLDER *
+CHAT     # Jute Gyte
+CHICACT  # * PLACE HOLDER *
+CHICATK  # * PLACE HOLDER *
+CHICDTH  # * PLACE HOLDER *
+CHICPAI  # * PLACE HOLDER *
+CHICPK1  # * PLACE HOLDER *
+CHICPK2  # * PLACE HOLDER *
+CHICPK3  # * PLACE HOLDER *
+CLKACT   # * PLACE HOLDER *
+CLKATK   # * PLACE HOLDER *
+CLKDTH   # * PLACE HOLDER *
+CLKPAI   # * PLACE HOLDER *
+CLKSIT   # * PLACE HOLDER *
+DORCLS   # Jute Gyte
+DORMOV   # Jute Gyte
+DOROPN   # Jute Gyte
+GIBDTH   # * PLACE HOLDER *
+GLDHIT   # Jute
+GLOOP    # Jute Gyte
+GNTACT   # * PLACE HOLDER *
+GNTFUL   # * PLACE HOLDER *
+GNTHIT   # * PLACE HOLDER *
+GNTPOW   # * PLACE HOLDER *
+GNTUSE   # * PLACE HOLDER *
+HEDACT   # * PLACE HOLDER *
+HEDAT1   # * PLACE HOLDER *
+HEDAT2   # * PLACE HOLDER *
+HEDAT3   # * PLACE HOLDER *
+HEDDTH   # * PLACE HOLDER *
+HEDPAI   # * PLACE HOLDER *
+HEDSIT   # * PLACE HOLDER *
+HRNHIT   # Jute Gyte
+HRNPOW   # * PLACE HOLDER *
+HRNSHT   # * PLACE HOLDER *
+IMPAT1   # * PLACE HOLDER *
+IMPAT2   # Jute
+IMPDTH   # * PLACE HOLDER *
+IMPPAI   # * PLACE HOLDER *
+IMPSIT   # * PLACE HOLDER *
+ITEMUP   # Jute Gyte
+KEYUP    # Jute Gyte
+KGTAT2   # * PLACE HOLDER *
+KGTATK   # * PLACE HOLDER *
+KGTDTH   # * PLACE HOLDER *
+KGTPAI   # * PLACE HOLDER *
+KGTSIT   # * PLACE HOLDER *
+LOBHIT   # * PLACE HOLDER *
+LOBPOW   # * PLACE HOLDER *
+LOBSHT   # Jute Gyte
+MINACT   # * PLACE HOLDER *
+MINAT1   # * PLACE HOLDER *
+MINAT2   # * PLACE HOLDER *
+MINAT3   # * PLACE HOLDER *
+MINDTH   # * PLACE HOLDER *
+MINPAI   # * PLACE HOLDER *
+MINSIT   # * PLACE HOLDER *
+MUMAT1   # * PLACE HOLDER *
+MUMAT2   # * PLACE HOLDER *
+MUMDTH   # * PLACE HOLDER *
+MUMHED   # * PLACE HOLDER *
+MUMPAI   # Jute Gyte
+MUMSIT   # Jute Gyte
+NEWPOD   # Jute
+PHOHIT   # * PLACE HOLDER *
+PHOPOW   # * PLACE HOLDER *
+PHOSHT   # * PLACE HOLDER *
+PLRCDTH  # * PLACE HOLDER *
+PLRDTH   # RottKing
+PLROOF   # RottKing
+PLRPAI   # RottKing
+PLRWDTH  # * PLACE HOLDER *
+PODEXP   # Jute
+PSTART   # Jute Gyte
+PSTOP    # Jute Gyte
+RAMPHIT  # * PLACE HOLDER *
+RAMRAIN  # * PLACE HOLDER *
+RESPAWN  # Jute Gyte
+RIPSLOP  # * PLACE HOLDER *
+SBTACT   # * PLACE HOLDER *
+SBTDTH   # * PLACE HOLDER *
+SBTPAI   # * PLACE HOLDER *
+SNKACT   # * PLACE HOLDER *
+SNKATK   # Jute Gyte
+SNKDTH   # * PLACE HOLDER *
+SNKPAI   # * PLACE HOLDER *
+SNKSIT   # * PLACE HOLDER *
+SORACT   # * PLACE HOLDER *
+SORATK   # * PLACE HOLDER *
+SORDBON  # * PLACE HOLDER *
+SORDEXP  # * PLACE HOLDER *
+SORDSPH  # * PLACE HOLDER *
+SORPAI   # * PLACE HOLDER *
+SORRISE  # * PLACE HOLDER *
+SORSIT   # * PLACE HOLDER *
+SORZAP   # * PLACE HOLDER *
+STFCRK   # * PLACE HOLDER *
+STFHIT   # * PLACE HOLDER *
+STFPOW   # Jute
+STNMOV   # Jute Gyte
+SWITCH   # Jute Gyte
+TELEPT   # Jute Gyte
+WATERFL  # Jute Gyte
+WIND     # Jute Gyte
+WIZACT   # * PLACE HOLDER *
+WIZATK   # Jute Gyte
+WIZDTH   # * PLACE HOLDER *
+WIZPAI   # * PLACE HOLDER *
+WIZSIT   # * PLACE HOLDER *
+WPNUP    # Jute Gyte
+
+[graphics]
+ADVISOR  -260 -15 # Stilgar
+IN_X     0 0 # * PH *  
+IN_YAH   0 0 # * PH * 
+MAPE1    0 0 # * PH *
+MAPE2    0 0 # * PH *   
+MAPE3    0 0 # * PH *   
+FACEA0   0 0 # * PH *
+FACEA1   0 0 # * PH *
+FACEA2   0 0 # * PH *
+FACEA3   0 0 # * PH *
+FACEB0   0 0 # * PH *
+FACEB1   0 0 # * PH *
+FACEB2   0 0 # * PH *
+FACEB3   0 0 # * PH *
+LIFEGEM0 0 0 # * PH *  
+LIFEGEM1 0 0 # * PH *  
+LIFEGEM2 0 0 # * PH *  
+LIFEGEM3 0 0 # * PH *  
+BARBACK  0 0 # Stilgar
+CHAINBAC 0 0 # Stilgar
+STATBAR  0 0 # Stilgar
+LIFEBAR  0 0 # Stilgar 
+INVBAR   0 0 # Stilgar 
+ARTIBOX  0 0 # Stilgar
+CHAIN    0 0 # Stilgar
+BLACKSQ  2 1 # Stilgar
+ARMCLEAR 0 2 # Stilgar
+LTFACE   0 0 # * PH *  
+RTFACE   -17 0 # * PH *   
+LTFCTOP  0 1 # Stilgar
+RTFCTOP  0 0 # * PH *   
+SELECTBO 0 29 # Stilgar   
+USEARTIA 0 0 # * PH *   
+USEARTIB 0 0 # * PH *   
+USEARTIC 0 0 # * PH *   
+USEARTID 0 0 # * PH *   
+USEARTIE 0 0 # * PH *   
+INVGEML1 0 0 # * PH *  
+INVGEMR1 0 0 # * PH *  
+INVGEML2 0 0 # * PH *  
+INVGEMR2 0 0 # * PH *  
+BKEYICON 0 0 # Stilgar
+GKEYICON 0 0 # Stilgar 
+YKEYICON 0 0 # Stilgar
+IN0      0 0 # Stilgar  
+IN1      0 0 # Stilgar 
+IN2      0 0 # Stilgar 
+IN3      0 0 # Stilgar 
+IN4      0 0 # Stilgar 
+IN5      0 0 # Stilgar 
+IN6      0 0 # Stilgar 
+IN7      0 0 # Stilgar 
+IN8      0 0 # Stilgar 
+IN9      0 0 # Stilgar
+NEGNUM   0 0 # Stilgar
+LAME     0 0 # * PH *  
+SMALLIN0 1 0 # Stilgar
+SMALLIN1 1 0 # Stilgar  
+SMALLIN2 1 0 # Stilgar  
+SMALLIN3 1 0 # Stilgar  
+SMALLIN4 1 0 # Stilgar  
+SMALLIN5 1 0 # Stilgar  
+SMALLIN6 1 0 # Stilgar  
+SMALLIN7 1 0 # Stilgar  
+SMALLIN8 1 0 # Stilgar  
+SMALLIN9 1 0 # Stilgar  
+INAMGLD  0 0 # Stilgar 
+INAMBOW  0 0 # Stilgar  
+INAMBST  0 0 # Stilgar 
+INAMRAM  0 0 # Stilgar 
+INAMPNX  0 0 # Stilgar 
+INAMLOB  0 0 # Stilgar 
+BORDL    0 0 # * PH *
+BORDR    0 0 # * PH *
+BORDT    0 0 # * PH *
+BORDB    0 0 # * PH *
+BORDTL   0 0 # * PH *
+BORDTR   0 0 # * PH *
+BORDBL   0 0 # * PH *
+BORDBR   0 0 # * PH *
+SPINBK0  0 0 # * PH *   
+SPINBK1  0 0 # * PH *   
+SPINBK2  0 0 # * PH *   
+SPINBK3  0 0 # * PH *   
+SPINBK4  0 0 # * PH *   
+SPINBK5  0 0 # * PH *   
+SPINBK6  0 0 # * PH *   
+SPINBK7  0 0 # * PH *   
+SPINBK8  0 0 # * PH *   
+SPINBK9  0 0 # * PH *   
+SPINBK10 0 0 # * PH *   
+SPINBK11 0 0 # * PH *   
+SPINBK12 0 0 # * PH *   
+SPINBK13 0 0 # * PH *   
+SPINBK14 0 0 # * PH *   
+SPINBK15 0 0 # * PH * 
+SPFLY0   0 0 # * PH *   
+SPFLY1   0 0 # * PH *   
+SPFLY2   0 0 # * PH *   
+SPFLY3   0 0 # * PH *   
+SPFLY4   0 0 # * PH *   
+SPFLY5   0 0 # * PH *   
+SPFLY6   0 0 # * PH *   
+SPFLY7   0 0 # * PH *   
+SPFLY8   0 0 # * PH *   
+SPFLY9   0 0 # * PH *   
+SPFLY10  0 0 # * PH *   
+SPFLY11  0 0 # * PH *   
+SPFLY12  0 0 # * PH *   
+SPFLY13  0 0 # * PH *   
+SPFLY14  0 0 # * PH *   
+SPFLY15  0 0 # * PH *   
+GOD1     0 0 # * (Blank) *
+GOD2     0 0 # * (Blank) *
+M_HTIC   0 0 # Jute Gyte
+M_SLCTR1 10 -1 # Stilgar 
+M_SLCTR2 10 -1 # Stilgar
+M_SKL00  0 0 # * PH *
+M_SKL01  0 0 # * PH *   
+M_SKL02  0 0 # * PH *   
+M_SKL03  0 0 # * PH *   
+M_SKL04  0 0 # * PH *   
+M_SKL05  0 0 # * PH *   
+M_SKL06  0 0 # * PH *   
+M_SKL07  0 0 # * PH *   
+M_SKL08  0 0 # * PH *   
+M_SKL09  0 0 # * PH *   
+M_SKL10  0 0 # * PH *   
+M_SKL11  0 0 # * PH *   
+M_SKL12  0 0 # * PH *   
+M_SKL13  0 0 # * PH *   
+M_SKL14  0 0 # * PH *   
+M_SKL15  0 0 # * PH *   
+M_SKL16  0 0 # * PH *   
+M_SKL17  0 0 # * PH * 
+M_SLDLT  0 0 # * PH *
+M_SLDMD1 0 0 # * PH *   
+M_SLDMD2 0 0 # * PH *   
+M_SLDRT  0 0 # * PH *
+M_SLDKB  0 0 # * PH * 
+M_FSLOT  0 0 # * PH *  
+PAUSED   0 0 # * PH *
+FONTA_S  0 0 # * Marker *
+FONTA01  0 0 # Mechadon
+FONTA02  0 0 # Mechadon
+FONTA03  0 0 # Mechadon
+FONTA04  0 0 # Mechadon
+FONTA05  0 0 # Mechadon
+FONTA06  0 0 # Mechadon
+FONTA07  0 0 # Mechadon
+FONTA08  0 0 # Mechadon
+FONTA09  0 0 # Mechadon
+FONTA10  0 0 # Mechadon
+FONTA11  0 0 # Mechadon
+FONTA12  0 0 # Mechadon
+FONTA13  0 0 # Mechadon
+FONTA14  0 0 # Mechadon
+FONTA15  0 0 # Mechadon
+FONTA16  0 0 # Mechadon
+FONTA17  0 0 # Mechadon
+FONTA18  0 0 # Mechadon
+FONTA19  0 0 # Mechadon
+FONTA20  0 0 # Mechadon
+FONTA21  0 0 # Mechadon
+FONTA22  0 0 # Mechadon
+FONTA23  0 0 # Mechadon
+FONTA24  0 0 # Mechadon
+FONTA25  0 0 # Mechadon
+FONTA26  0 0 # Mechadon
+FONTA27  0 0 # Mechadon
+FONTA28  0 0 # Mechadon
+FONTA29  0 0 # Mechadon
+FONTA30  0 0 # Mechadon
+FONTA31  0 0 # Mechadon
+FONTA32  0 0 # Mechadon
+FONTA33 0 0  # Mechadon
+FONTA34 0 0  # Mechadon
+FONTA35 0 0  # Mechadon
+FONTA36 0 0  # Mechadon
+FONTA37 0 0  # Mechadon 
+FONTA38 0 0  # Mechadon
+FONTA39  0 0 # Mechadon 
+FONTA40  0 0 # Mechadon
+FONTA41  0 0 # Mechadon
+FONTA42  0 0 # Mechadon
+FONTA43  0 0 # Mechadon
+FONTA44  0 0 # Mechadon
+FONTA45  0 0 # Mechadon
+FONTA46  0 0 # Mechadon
+FONTA47  0 0 # Mechadon
+FONTA48  0 0 # Mechadon
+FONTA49  0 0 # Mechadon
+FONTA50  0 0 # Mechadon
+FONTA51  0 0 # Mechadon
+FONTA52  0 0 # Mechadon
+FONTA53  0 0 # Mechadon
+FONTA54  0 0 # Mechadon
+FONTA55  0 0 # Mechadon
+FONTA56  0 0 # Mechadon
+FONTA57  0 0 # Mechadon
+FONTA58  0 0 # Mechadon
+FONTA59  0 0 # Mechadon
+FONTA_E  0 0 # * Marker *
+FONTB_S  0 0 # * Marker *
+FONTB01  0 0 # Mechadon
+FONTB02  0 0 # Mechadon
+FONTB03  0 0 # Mechadon
+FONTB04  0 0 # Mechadon
+FONTB05  0 0 # Mechadon
+FONTB06  0 0 # * PH *
+FONTB07  0 0 # Mechadon
+FONTB08  0 0 # * PH *
+FONTB09  0 0 # * PH *
+FONTB10  0 0 # * PH *
+FONTB11  0 0 # * PH *
+FONTB12  0 0 # Mechadon
+FONTB13  0 0 # Mechadon
+FONTB14  0 0 # Mechadon
+FONTB15  0 0 # Mechadon
+FONTB16  0 0 # Mechadon
+FONTB17  0 0 # Mechadon
+FONTB18  0 0 # Mechadon
+FONTB19  0 0 # Mechadon
+FONTB20  0 0 # Mechadon
+FONTB21  0 0 # Mechadon
+FONTB22  0 0 # Mechadon
+FONTB23  0 0 # Mechadon
+FONTB24  0 0 # Mechadon
+FONTB25  0 0 # Mechadon
+FONTB26  0 0 # Mechadon
+FONTB27  0 0 # * PH *
+FONTB28  0 0 # * PH *
+FONTB29  0 0 # * PH *
+FONTB30  0 0 # * PH *
+FONTB31  0 0 # Mechadon
+FONTB32  0 0 # * PH *
+FONTB33  0 0 # Mechadon
+FONTB34  0 0 # Mechadon
+FONTB35  0 0 # Mechadon
+FONTB36  0 0 # Mechadon
+FONTB37  0 0 # Mechadon
+FONTB38  0 0 # Mechadon
+FONTB39  0 0 # Mechadon
+FONTB40  0 0 # Mechadon
+FONTB41  0 0 # Mechadon
+FONTB42  0 0 # Mechadon
+FONTB43  0 0 # Mechadon
+FONTB44  0 0 # Mechadon
+FONTB45  0 0 # Mechadon
+FONTB46  0 0 # Mechadon
+FONTB47  0 0 # Mechadon
+FONTB48  0 0 # Mechadon
+FONTB49  0 0 # Mechadon
+FONTB50  0 0 # Mechadon
+FONTB51  0 0 # Mechadon
+FONTB52  0 0 # Mechadon
+FONTB53  0 0 # Mechadon
+FONTB54  0 0 # Mechadon
+FONTB55  0 0 # Mechadon
+FONTB56  0 0 # Mechadon
+FONTB57  0 0 # Mechadon
+FONTB58  0 0 # Mechadon
+FONTB_E  0 0 # * Marker *
+
+[flats]
+FLAT500   # Stilgar
+FLAT501   # Stilgar (Extra)
+FLAT502   # Stilgar
+FLAT503   # Stilgar
+FLAT504   # Stilgar
+FLAT505   # Stilgar (Extra)
+FLAT506   # Stilgar
+FLAT507   # Stilgar
+FLAT508   # Stilgar
+FLAT509   # Stilgar
+FLAT510   # Stilgar
+FLAT513   # Stilgar
+FLAT512   # Espi (FreeDoom) (Edit by Stilgar)
+FLAT516   # Stilgar
+FLAT517   # Stilgar
+FLAT520   # Stilgar
+FLAT521   # Stilgar
+FLAT522   # Stilgar
+FLAT523   # Stilgar
+FLOOR00   # Stilgar
+FLOOR01   # Stilgar
+FLOOR03   # Stilgar
+FLOOR04   # Esselfortium
+FLOOR05   # Stilgar
+FLOOR06   # Stilgar
+FLOOR07   # Stilgar
+FLOOR08   # Stilgar
+FLOOR09   # Esselfortium (Recolored)
+FLOOR10   # Stilgar
+FLOOR11   # Stilgar
+FLOOR12   # Stilgar
+FLOOR16   # Stilgar
+FLOOR17   # Airraid (FreeDoom) (Recolored)
+FLOOR18   # Stilgar
+FLOOR19   # Stilgar
+FLOOR20   # Stilgar
+FLOOR21   # Stilgar
+FLOOR22   # Stilgar
+FLOOR23   # Stilgar
+FLOOR24   # Stilgar
+FLOOR25   # Stilgar
+FLOOR26   # Stilgar
+FLOOR27   # Esselfortium
+FLOOR28   # Esselfortium
+FLOOR29   # Esselfortium (Edit by Stilgar)
+FLOOR30   # Esselfortium (Edit by Stilgar)
+FLATHUH1  # Mellow (FreeDoom)
+FLATHUH2  # Mellow (FreeDoom)
+FLATHUH3  # Mellow (FreeDoom)
+FLATHUH4  # Mellow (FreeDoom)
+FLTLAVA1  # Stilgar
+FLTLAVA2  # Stilgar
+FLTLAVA3  # Stilgar
+FLTLAVA4  # Stilgar
+FLTSLUD1  # Stilgar
+FLTSLUD2  # Stilgar
+FLTSLUD3  # Stilgar
+FLTWAWA1  # Stilgar
+FLTWAWA2  # Stilgar
+FLTWAWA3  # Stilgar
+F_SKY1    # Stilgar
+FCSTL1    # Stilgar (Extra)
+FCSTL2    # Stilgar (Extra)
+FRTHRCK   # Stilgar (Extra)
+FLCHESS1  # Stilgar (Extra)
+FLCHESS2  # Stilgar (Extra)
+FGROUND1  # Stilgar (Extra)
+FGROUND2  # Stilgar (Extra)
+FGROUND3  # Stilgar (Extra)
+FGROUND4  # Stilgar (Extra)
+FLXTR001  # Stilgar (Extra)
+FLXTR002  # Stilgar (Extra)
+FLXTR003  # Stilgar (Extra)
+FLXTR004  # Stilgar (Extra)
+FLXTR005  # Stilgar (Extra)
+FLXTR006  # Stilgar (Extra)
+FLXTR007  # Stilgar (Extra)
+FLXTR008  # Stilgar (Extra)
+FLXTR009  # Stilgar (Extra)
+FLXTR010  # Stilgar (Extra)
+FLXTR011  # Stilgar (Extra)
+FLXTR012  # Stilgar (Extra)
+FLXTR013  # Stilgar (Extra)
+FLXTR014  # Stilgar (Extra)
+FLXTR015  # Stilgar (Extra)
+FLXTR016  # Stilgar (Extra)
+FLXTR017  # Stilgar (Extra)
+FLXTR018  # Stilgar (Extra)
+FLXTR019  # Stilgar (Extra)
+FLXTR020  # Stilgar (Extra)
+FLXTR021  # Stilgar (Extra)
+FLXTR022  # Stilgar (Extra)
+FLXTR023  # Stilgar (Extra)
+FLXTR024  # Stilgar (Extra)
+FLXTR025  # Stilgar (Extra)
+FLXTR026  # Stilgar (Extra)
+FLXTR027  # Stilgar (Extra)
+FLXTR028  # Stilgar (Extra)
+FLXTR029  # Stilgar (Extra)
+FLXTR030  # Stilgar (Extra)
+FLCRAT01  # Stilgar (Extra)
+FLGUTS1   # Stilgar (Extra)
+FLGUTS2   # Stilgar (Extra)
+FLGUTS3   # Stilgar (Extra)
+FLMETL01  # Stilgar (Extra)
+FLMETL02  # Stilgar (Extra)
+FLPENTA1  # Stilgar (Extra)
+FLPENTA2  # Stilgar (Extra)
+FLPENTA3  # Stilgar (Extra)
+FLPENTA4  # Stilgar (Extra)
+FLRUFF01  # Stilgar (Extra)
+FLRUFF02  # Stilgar (Extra)
+FLRUFF03  # Stilgar (Extra)
+FLSKULL1  # Espi (Freedoom, recolor)
+FLSKULL2  # Espi (Freedoom)
+FLSNOW    # Stilgar (Extra)
+FLWHICE   # Stilgar (Extra)
+BRIKBRF2  # Esselfortium (Extra)
+BRIKDKF1  # Esselfortium (Extra)
+BRIKDKF2  # Esselfortium (Extra)
+BRIKGRF1  # Esselfortium (Extra)
+BRIKGRF2  # Esselfortium (Extra)
+BRIKWDF1  # Esselfortium (Extra)
+BRIKWDF2  # Esselfortium (Extra)
+BRIKWDF3  # Esselfortium (Extra)
+DIRTSL01  # Esselfortium (Extra)
+DIRTSL02  # Esselfortium (Extra)
+FLGOTHSL  # Esselfortium (Sized, Extra)
+GRASFAD1  # Esselfortium (Extra)
+GRASFAD2  # Esselfortium (Extra)
+GRASFAD3  # Esselfortium (Extra)
+GRASSLF1  # Esselfortium (Extra)
+MARBDKF1  # Esselfortium (Extra)
+MARBDKF2  # Esselfortium (Extra)
+MARBDKF3  # Esselfortium (Extra Edit)
+MARBTLF1  # Esselfortium (Extra)
+MARBTLF2  # Esselfortium (Extra)
+MARBTLF3  # Esselfortium (Extra)
+MARBTLF4  # Esselfortium (Extra)
+METLSLF1  # Esselfortium (Extra)
+METLSLF2  # Esselfortium (Extra)
+METLSLF3  # Esselfortium (Extra)
+METLSLF4  # Esselfortium (Extra)
+METLSLF5  # Esselfortium (Extra Edit)
+STONBRF2  # Esselfortium (Extra)
+STONBRF3  # Esselfortium (Extra)
+STONBRF4  # Esselfortium (Extra)
+STONGYF2  # Esselfortium (Extra)
+STONGYF3  # Esselfortium (Extra)
+STONGYF4  # Esselfortium (Extra)
+SUPPMTF1  # Esselfortium (Extra)
+SUPPMTF2  # Esselfortium (Extra)
+WOODSLF0  # Esselfortium (Extra)
+WOODSLF1  # Esselfortium (Extra)
+WOODSLF2  # Esselfortium (Extra)
+WOODSLF3  # Esselfortium (Extra)
+WOODSLF4  # Esselfortium (Extra)
+WOODSLF5  # Esselfortium (Extra)
+WOODSLF6  # Esselfortium (Extra)
+WOODSLF7  # Esselfortium (Extra)
+WOODSLF8  # Esselfortium (Extra)
+WOODSLF9  # Esselfortium (Extra)
+FLTFLWW1  # Stilgar
+FLTFLWW2  # Stilgar
+FLTFLWW3  # Stilgar
+FLTTELE1  # Stilgar
+FLTTELE2  # Stilgar
+FLTTELE3  # Stilgar
+FLTTELE4  # Stilgar
+
+[patches]
+SKY1      # Stilgar
+SKY2      # Stilgar
+SKY3      # Stilgar
+PATA00    # Stilgar (NEW SIZE)
+PATA01    # Stilgar (NEW SIZE)
+PATA02    # Stilgar (NEW SIZE)
+PATA03    # Stilgar (NEW SIZE)
+PATA04    # Stilgar (NEW SIZE)
+PATA05    # Stilgar (NEW SIZE)
+PATA06    # Stilgar (NEW SIZE)
+WALL00    # Stilgar
+WALL01    # Stilgar
+WALL02    # Stilgar
+WALL04    # Stilgar
+WALL05    # Stilgar
+WALL06    # Stilgar
+WALL07    # Stilgar
+WALL08    # Stilgar
+WALL10    # Stilgar
+WALL12    # Esselfortium (Modded)
+WALL14    # Stilgar
+WALL15    # Stilgar
+WALL16    # Stilgar
+WALL17    # Stilgar
+WALL18    # Stilgar
+WALL19    # Stilgar
+WALL20    # Stilgar
+WALL21    # Stilgar
+WALL24    # Stilgar
+WALL26    # Stilgar
+WALL25    # Stilgar
+WALL27    # Stilgar
+WALL28    # Stilgar
+WALL30    # Stilgar
+WALL32    # Stilgar
+WALL34    # Stilgar
+WALL35    # Stilgar
+WALL37    # Stilgar
+WALL38    # Stilgar
+WALL40    # Stilgar
+WALL41    # Stilgar
+WALL42    # Stilgar
+WALL44    # Stilgar
+WALL45    # Stilgar
+WALL46    # Stilgar
+WALL49    # Stilgar
+WALL50    # Esselfortium (Modded)
+WALL51    # Stilgar
+WALL52    # Stilgar
+WALL53    # Stilgar
+WALL54    # Stilgar
+WALL55    # Stilgar
+WALL56    # Stilgar
+WALL57    # Stilgar
+WALL59    # Stilgar
+WALL60    # Stilgar
+WALL62    # Stilgar
+WALL63    # Esselfortium (Edit by Stilgar)
+WALL64    # Esselfortium (Edit by Stilgar)
+WALL500   # Warfare
+WALL501   # Stilgar
+WALL502   # Stilgar
+WALL503   # Stilgar
+WALL504   # Stilgar
+WALL505   # Stilgar
+WALL506   # Stilgar
+WALL508   # Stilgar
+WALL509   # Stilgar
+WALL510   # Stilgar
+WALL511   # Stilgar
+WALL512   # Stilgar
+WALL515   # Stilgar
+WALL516   # Stilgar (NEW SIZE)
+WALL517   # Stilgar (NEW SIZE)
+WALL519   # Stilgar (NEW SIZE)
+WALL520   # Stilgar (NEW SIZE)
+WALL522   # Stilgar (NEW SIZE)
+WALL523   # Stilgar (NEW SIZE)
+WALL524   # Stilgar
+WALL525   # Stilgar
+WALL526   # Stilgar
+WALL527   # Stilgar
+WALL528   # Stilgar
+WALL529   # Stilgar
+WALL530   # Stilgar
+WLLLVFL1  # Stilgar
+WLLLVFL2  # Stilgar
+WLLLVFL3  # Stilgar
+DORBLU1   # Stilgar (Extra)
+DORGRN1   # Stilgar (Extra)
+DORYEL1   # Stilgar (Extra)
+PFENCE01  # Stilgar (Extra)
+PFENCE02  # Stilgar (Extra)
+PFENCE03  # Stilgar (Extra)
+PFENCE04  # Stilgar (Extra)
+PPRTCUL1  # Stilgar (Extra)
+PSKULL1   # Stilgar (Extra)
+PSKULL2   # Stilgar (Extra)
+PSKULL3   # Stilgar (Extra)
+PSKULL4   # Stilgar (Extra)
+TNYBRK01  # Stilgar (Extra)
+TNYBRK02  # Stilgar (Extra)
+TNYBRK03  # Stilgar (Extra)
+TNYBRK04  # Stilgar (Extra)
+WINDWA01  # Stilgar (Extra)
+WINDWA02  # Stilgar (Extra)
+WLBLKMT1  # Stilgar (Extra)
+WLBLKMT2  # Stilgar (Extra)
+WLBLKMT3  # Stilgar (Extra)
+WLBRIK01  # Stilgar (Extra)
+WLBRIK02  # Stilgar (Extra)
+WLBRIK03  # Stilgar (Extra)
+WLBRIK04  # Stilgar (Extra)
+WLBRIK05  # Stilgar (Extra)
+WLCRAT01  # Stilgar (Extra)
+WLGORE01  # Stilgar (Extra)
+WLMDMT01  # Stilgar (Extra)
+WLMDMT02  # Stilgar (Extra)
+WLMETL01  # Stilgar (Extra)
+WLMETL02  # Stilgar (Extra)
+WLPLAS01  # Stilgar (Extra)
+WLPLAS02  # Stilgar (Extra)
+WLPLAS03  # Stilgar (Extra)
+WLROCK01  # Stilgar (Extra)
+WLROCK02  # Stilgar (Extra)
+WLROCK03  # Stilgar (Extra)
+WLROCK04  # Stilgar (Extra)
+WLROCK05  # Stilgar (Extra)
+WLROCK06  # Stilgar (Extra)
+WLROCK07  # Stilgar (Extra)
+WLRTHRCK  # Stilgar (Extra)
+WLSKTR01  # Stilgar (Extra)
+WLSKTR02  # Stilgar (Extra)
+WLSKTR03  # Stilgar (Extra)
+WLVINBR1  # Stilgar (Extra)
+WLVINEM1  # Stilgar (Extra)
+WLVINGR1  # Stilgar (Extra)
+WLVINBR2  # Stilgar (Semi-extra)
+WLWOOD1   # Stilgar (Extra)
+WLWOOD2   # Stilgar (Extra)
+WLXTR001  # Stilgar (Extra)
+WLXTR002  # Stilgar (Extra)
+WLXTR003  # Stilgar (Extra)
+WLXTR004  # Stilgar (Extra)
+WLXTR005  # Stilgar (Extra)
+WLXTR006  # Stilgar (Extra)
+WLXTR007  # Stilgar (Extra)
+WLXTR008  # Stilgar (Extra)
+WLXTR009  # Stilgar (Extra)
+WLXTR010  # Stilgar (Extra)
+WLXTR011  # Stilgar (Extra)
+WLXTR012  # Esselfortium (Modded, Extra)
+WLXTR013  # Esselfortium (Modded, Extra)
+WLXTR014  # Stilgar (Extra)
+WLXTR015  # Stilgar (Extra)
+WLXTR016  # Stilgar (Extra)
+WLXTR017  # Stilgar (Extra)
+WLXTR018  # Stilgar (Extra)
+WLXTR019  # Stilgar (Extra)
+WLXTR020  # Esselfortium (Modded, Extra)
+WLXTR021  # Esselfortium (Modded, Extra)
+WLXTR022  # Stilgar (Extra)
+WLXTR023  # Stilgar (Extra)
+WLXTR024  # Stilgar (Extra)
+WLXTR025  # Stilgar (Extra)
+WLXTR026  # Stilgar (Extra)
+WXDOOR01  # Stilgar (Extra)
+WLSTAT01  # Warfare (Semi-Extra)
+WLSTAT02  # Warfare (Extra)
+WLDEAD01  # Fredrik (Freedoom, Modded, Extra)
+BRICKBLU  # Esselfortium (Extra)
+BRICKGRN  # Esselfortium (Extra, recolor)
+BRICKRNG  # Esselfortium (Extra, recolor)
+BRIKBR11  # Esselfortium (Extra)
+BRIKBR12  # Esselfortium (Extra)
+BRIKDK01  # Esselfortium (Extra)
+BRIKDK11  # Esselfortium (Extra)
+BRIKGR01  # Esselfortium (Extra)
+BRIKGR02  # Esselfortium (Extra)
+BRIKGR11  # Esselfortium (Extra)
+BRIKGR12  # Esselfortium (Extra)
+BRIKWD01  # Esselfortium (Extra)
+BRIKWD02  # Esselfortium (Extra)
+BRIKWD03  # Esselfortium (Extra)
+GOTHICSL  # Esselfortium (Sized, Extra)
+LOOSBRK1  # Esselfortium (Extra)
+MARBBR01  # Esselfortium (Extra)
+MARBBR02  # Esselfortium (Extra)
+MARBBR03  # Esselfortium (Modded, Extra)
+MARBBR04  # Esselfortium (Modded, Extra)
+MARBBR05  # Esselfortium (Modded, Extra)
+MARBDK01  # Esselfortium (Extra)
+MARBDK02  # Esselfortium (Extra)
+MARBDK03  # Esselfortium (Extra)
+MARBDK04  # Esselfortium (Extra)
+MARBDK05  # Esselfortium (Extra)
+MARBDK06  # Esselfortium (Extra)
+MBCBRIK1  # Esselfortium (Extra)
+MTRUNE01  # Esselfortium (Extra)
+MTRUNE02  # Esselfortium (Extra)
+MTRUNE03  # Esselfortium (Extra)
+MTRUNE04  # Esselfortium (Extra)
+MTRUNE05  # Esselfortium (Extra)
+MTRUNE06  # Esselfortium (Extra)
+STONBR01  # Esselfortium (Extra)
+STONBR02  # Esselfortium (Extra)
+STONBR03  # Esselfortium (Extra)
+STONBR04  # Esselfortium (Extra)
+STONGY01  # Esselfortium (Extra)
+STONGY02  # Esselfortium (Extra)
+STONGY03  # Esselfortium (Extra)
+STONGY04  # Esselfortium (Extra)
+TSSLGY01  # Esselfortium (Extra)
+TSSLGY02  # Esselfortium (Extra)
+TSSLGY03  # Esselfortium (Extra)
+TSSLGY04  # Esselfortium (Extra)
+TSSLGY05  # Esselfortium (Extra)
+WOODSL01  # Esselfortium (Extra)
+WOODSL02  # Esselfortium (Extra)
+WOODSL03  # Esselfortium (Extra)
+WOODSL04  # Esselfortium (Extra)
+WOODSL05  # Esselfortium (Extra)
+WOODSL06  # Esselfortium (Extra)
+WOODSL07  # Esselfortium (Extra)
+WOODSL08  # Esselfortium (Extra)
+WOODSL09  # Esselfortium (Extra)
+WOODSL10  # Esselfortium (Extra)
+WOODSL11  # Esselfortium (Extra)
+WALL513   # * PLACE HOLDER *
+WALL518   # * PLACE HOLDER *
+WLLWTFL1  # Stilgar
+WLLWTFL2  # Stilgar
+WLLWTFL3  # Stilgar
+
+# Floating Item offsets - 10 above ground seems good
+[sprites]
+BARLA0   16 32 # Warfare
+BRPLA0   15 128 # Stilgar
+MOS1A0   20 26 # Warfare
+MOS2A0   15 29 # Warfare
+STCLA0   19 76 # Warfare
+STCSA0   11 41 # Warfare
+STGLA0   19 68 # Warfare
+STGSA0   11 37 # Warfare
+AMB1A0 6  13   # Stilgar
+AMB1B0 6  13   # Stilgar
+AMB1C0 6  13   # Stilgar
+AMC1A0 7  22   # Stilgar
+AMC2A0 6  22   # Stilgar
+AMC2B0 6  22   # Stilgar
+AMC2C0 6  22   # Stilgar
+AMS1A0 6  12   # Stilgar
+AMS1B0 6  12   # Stilgar
+AMS2A0 11 17   # Stilgar
+AMS2B0 11 17   # Stilgar
+AMM1A0 5  9    # Stilgar
+AMM2A0 6  15   # Stilgar
+AMG1A0 4  10   # Stilgar
+BAGHA0 7  32   # Stilgar
+BLODA0 4  4    # Stilgar
+BLODB0 5  6    # Stilgar
+BLODC0 7  7    # Stilgar
+HCORA0 11 108  # Espi (FreeDoom) (Edit by Stilgar)
+INVUA0 8  32   # Stilgar (WIP)
+INVUB0 8  32   # Stilgar (WIP)
+INVUC0 8  32   # Stilgar (WIP)
+INVUD0 8  32   # Stilgar (WIP)
+PTN1A0 4  25   # Stilgar
+PTN1B0 4  25   # Stilgar
+PTN1C0 4  25   # Stilgar
+PWBKA0 11 33   # Stilgar
+SHD2A0 14 43   # Stilgar
+SHLDA0 15 41   # Stilgar
+SOARA0 23 25   # Stilgar
+SPMPA0 12 28   # Stilgar
+VFBLA0 13 12   # Stilgar
+VFBLB0 12 13   # Stilgar
+VTFBA0 6 6 # Stilgar
+VTFBB0 6 6 # Stilgar
+WBLSA0 11  45   # Eriance
+WBOWA0 21 38   # Stilgar
+WGNTA0 7 25    # Stilgar
+WMCEA0 21 27   # Stilgar
+WPHXA0 15 25   # Stilgar
+WSKLA0 18 45   # Stilgar
+SOARB0 SOARA0 23 25 # Stilgar (Unanimated!)
+SOARC0 SOARA0 23 25 # Stilgar (Unanimated!)
+ACLOA0 0 0  # * PLACE HOLDER *
+ACLOB0 0 0  # * PLACE HOLDER *
+ACLOC0 0 0  # * PLACE HOLDER *
+ACLOD0 0 0  # * PLACE HOLDER *
+ACLOE0 0 0  # * PLACE HOLDER *
+AMB2A0 8 13  # * PLACE HOLDER *
+AMB2B0 8 13  # * PLACE HOLDER *
+AMB2C0 8 13  # * PLACE HOLDER *
+AMG2A0 0 0  # * PLACE HOLDER *
+AMG2B0 0 0  # * PLACE HOLDER *
+AMG2C0 0 0  # * PLACE HOLDER *
+AMP1A0 0 0  # * PLACE HOLDER *
+AMP1B0 0 0  # * PLACE HOLDER *
+AMP1C0 0 0  # * PLACE HOLDER *
+AMP2A0 0 0  # * PLACE HOLDER *
+AMP2B0 0 0  # * PLACE HOLDER *
+AMP2C0 0 0  # * PLACE HOLDER *
+ARTIATLP -7 -5 # Stilgar
+ARTIEGGC 0 0 # * PLACE HOLDER *
+ARTIFBMB 0 0 # * PLACE HOLDER *
+ARTIINVS -2 -1 # Stilgar
+ARTIINVU -5 -4 # Stilgar
+ARTIPTN2 -6 -5   # Stilgar
+ARTIPWBK -4 -3 # Stilgar
+ARTISOAR 0 0 # * PLACE HOLDER *
+ARTISPHL -1 -3 # Stilgar
+ARTITRCH 0 0 # * PLACE HOLDER *
+ATLPA0   12 35 # Stilgar
+ATLPB0   12 35 # Stilgar
+ATLPC0   12 35 # Stilgar
+BEAKA0   0 0 # * PLACE HOLDER *
+#Monsters
+BEASA0 PH_M  24 64 # * PLACE HOLDER *
+BEASB0 PH_M  24 64 # * PLACE HOLDER *
+BEASC0 PH_M  24 64 # * PLACE HOLDER *
+BEASD0 PH_M  24 64 # * PLACE HOLDER *
+BEASE0 PH_M  24 64 # * PLACE HOLDER *
+BEASF0 PH_M  24 64 # * PLACE HOLDER *
+BEASG0 PH_M  24 64 # * PLACE HOLDER *
+BEASH0 PH_M  24 64 # * PLACE HOLDER *
+BEASI0 PH_M  24 64 # * PLACE HOLDER *
+BEASJ0 PH_M  24 64 # * PLACE HOLDER *
+BEASK0 PH_M  24 64 # * PLACE HOLDER *
+BEASL0 PH_M  24 64 # * PLACE HOLDER *
+BEASM0 PH_M  24 64 # * PLACE HOLDER *
+BEASN0 PH_M  24 64 # * PLACE HOLDER *
+BEASO0 PH_M  24 64 # * PLACE HOLDER *
+BEASP0 PH_M  24 64 # * PLACE HOLDER *
+BEASQ0 PH_M  24 64 # * PLACE HOLDER *
+BEASR0 PH_M  24 64 # * PLACE HOLDER *
+BEASS0 PH_M  24 64 # * PLACE HOLDER *
+BEAST0 PH_M  24 64 # * PLACE HOLDER *
+BEASU0 PH_M  24 64 # * PLACE HOLDER *
+BEASV0 PH_M  24 64 # * PLACE HOLDER *
+BEASW0 PH_M  24 64 # * PLACE HOLDER *
+BEASX0 PH_M  24 64 # * PLACE HOLDER *
+BEASY0 PH_M  24 64 # * PLACE HOLDER *
+BEASZ0 PH_M  24 64 # * PLACE HOLDER *
+CHKNA0 PH_M  24 64 # * PLACE HOLDER *
+CHKNB0 PH_M  24 64 # * PLACE HOLDER *
+CHKNC0 PH_M  24 64 # * PLACE HOLDER *
+CHKND0 PH_M  24 64 # * PLACE HOLDER *
+CHKNE0 PH_M  24 64 # * PLACE HOLDER *
+CHKNF0 PH_M  24 64 # * PLACE HOLDER *
+CHKNG0 PH_M  24 64 # * PLACE HOLDER *
+CHKNH0 PH_M  24 64 # * PLACE HOLDER *
+CHKNI0 PH_M  24 64 # * PLACE HOLDER *
+CHKNJ0 PH_M  24 64 # * PLACE HOLDER *
+CHKNK0 PH_M  24 64 # * PLACE HOLDER *
+CHKNL0 PH_M  24 64 # * PLACE HOLDER *
+CHKNM0 PH_M  24 64 # * PLACE HOLDER *
+CHKNN0 PH_M  24 64 # * PLACE HOLDER *
+CHKNO0 PH_M  24 64 # * PLACE HOLDER *
+CHKNP0 PH_M  24 64 # * PLACE HOLDER *
+CHKNQ0 PH_M  24 64 # * PLACE HOLDER *
+CLNKA0 PH_M  24 64 # * PLACE HOLDER *
+CLNKB0 PH_M  24 64 # * PLACE HOLDER *
+CLNKC0 PH_M  24 64 # * PLACE HOLDER *
+CLNKD0 PH_M  24 64 # * PLACE HOLDER *
+CLNKE0 PH_M  24 64 # * PLACE HOLDER *
+CLNKF0 PH_M  24 64 # * PLACE HOLDER *
+CLNKG0 PH_M  24 64 # * PLACE HOLDER *
+CLNKH0 PH_M  24 64 # * PLACE HOLDER *
+CLNKI0 PH_M  24 64 # * PLACE HOLDER *
+CLNKJ0 PH_M  24 64 # * PLACE HOLDER *
+CLNKK0 PH_M  24 64 # * PLACE HOLDER *
+CLNKL0 PH_M  24 64 # * PLACE HOLDER *
+CLNKM0 PH_M  24 64 # * PLACE HOLDER *
+CLNKN0 PH_M  24 64 # * PLACE HOLDER *
+CLNKO0 PH_M  24 64 # * PLACE HOLDER *
+HEADA0 PH_M  24 64 # * PH *
+HEADB0 PH_M  24 64 # * PH *
+HEADC0 PH_M  24 64 # * PH *
+HEADD0 PH_M  24 64 # * PH *
+HEADE0 PH_M  24 64 # * PH *
+HEADF0 PH_M  24 64 # * PH *
+HEADG0 PH_M  24 64 # * PH *
+HEADH0 PH_M  24 64 # * PH *
+HEADI0 PH_M  24 64 # * PH *
+IMPXA0 PH_M  24 64 # * PH *
+IMPXB0 PH_M  24 64 # * PH *
+IMPXC0 PH_M  24 64 # * PH *
+IMPXD0 PH_M  24 64 # * PH *
+IMPXE0 PH_M  24 64 # * PH *
+IMPXF0 PH_M  24 64 # * PH *
+IMPXG0 PH_M  24 64 # * PH *
+IMPXH0 PH_M  24 64 # * PH *
+IMPXI0 PH_M  24 64 # * PH *
+IMPXJ0 PH_M  24 64 # * PH *
+IMPXK0 PH_M  24 64 # * PH *
+IMPXL0 PH_M  24 64 # * PH *
+IMPXM0 PH_M  24 64 # * PH *
+IMPXN0 PH_M  24 64 # * PH *
+IMPXO0 PH_M  24 64 # * PH *
+IMPXP0 PH_M  24 64 # * PH *
+IMPXQ0 PH_M  24 64 # * PH *
+IMPXR0 PH_M  24 64 # * PH *
+IMPXS0 PH_M  24 64 # * PH *
+IMPXT0 PH_M  24 64 # * PH *
+IMPXU0 PH_M  24 64 # * PH *
+IMPXV0 PH_M  24 64 # * PH *
+IMPXW0 PH_M  24 64 # * PH *
+IMPXX0 PH_M  24 64 # * PH *
+IMPXY0 PH_M  24 64 # * PH *
+IMPXZ0 PH_M  24 64 # * PH *
+KNIGA0 PH_M  24 64 # * PH *
+KNIGB0 PH_M  24 64 # * PH *
+KNIGC0 PH_M  24 64 # * PH *
+KNIGD0 PH_M  24 64 # * PH *
+KNIGE0 PH_M  24 64 # * PH *
+KNIGF0 PH_M  24 64 # * PH *
+KNIGG0 PH_M  24 64 # * PH *
+KNIGH0 PH_M  24 64 # * PH *
+KNIGI0 PH_M  24 64 # * PH *
+KNIGJ0 PH_M  24 64 # * PH *
+KNIGK0 PH_M  24 64 # * PH *
+KNIGL0 PH_M  24 64 # * PH *
+KNIGM0 PH_M  24 64 # * PH *
+KNIGN0 PH_M  24 64 # * PH *
+KNIGO0 PH_M  24 64 # * PH *
+MNTRA0 PH_M  24 64 # * PH *
+MNTRB0 PH_M  24 64 # * PH *
+MNTRC0 PH_M  24 64 # * PH *
+MNTRD0 PH_M  24 64 # * PH *
+MNTRE0 PH_M  24 64 # * PH *
+MNTRF0 PH_M  24 64 # * PH *
+MNTRG0 PH_M  24 64 # * PH *
+MNTRH0 PH_M  24 64 # * PH *
+MNTRI0 PH_M  24 64 # * PH *
+MNTRJ0 PH_M  24 64 # * PH *
+MNTRK0 PH_M  24 64 # * PH *
+MNTRL0 PH_M  24 64 # * PH *
+MNTRM0 PH_M  24 64 # * PH *
+MNTRN0 PH_M  24 64 # * PH *
+MNTRO0 PH_M  24 64 # * PH *
+MNTRP0 PH_M  24 64 # * PH *
+MNTRQ0 PH_M  24 64 # * PH *
+MNTRR0 PH_M  24 64 # * PH *
+MNTRS0 PH_M  24 64 # * PH *
+MNTRT0 PH_M  24 64 # * PH *
+MNTRU0 PH_M  24 64 # * PH *
+MNTRV0 PH_M  24 64 # * PH *
+MNTRW0 PH_M  24 64 # * PH *
+MNTRX0 PH_M  24 64 # * PH *
+MNTRY0 PH_M  24 64 # * PH *
+MNTRZ0 PH_M  24 64 # * PH *
+MUMMA0 PH_M  24 64 # * PH *
+MUMMB0 PH_M  24 64 # * PH *
+MUMMC0 PH_M  24 64 # * PH *
+MUMMD0 PH_M  24 64 # * PH *
+MUMME0 PH_M  24 64 # * PH *
+MUMMF0 PH_M  24 64 # * PH *
+MUMMG0 PH_M  24 64 # * PH *
+MUMMH0 PH_M  24 64 # * PH *
+MUMMI0 PH_M  24 64 # * PH *
+MUMMJ0 PH_M  24 64 # * PH *
+MUMMK0 PH_M  24 64 # * PH *
+MUMML0 PH_M  24 64 # * PH *
+MUMMM0 PH_M  24 64 # * PH *
+MUMMN0 PH_M  24 64 # * PH *
+MUMMO0 PH_M  24 64 # * PH *
+MUMMP0 PH_M  24 64 # * PH *
+MUMMQ0 PH_M  24 64 # * PH *
+MUMMR0 PH_M  24 64 # * PH *
+MUMMS0 PH_M  24 64 # * PH *
+MUMMT0 PH_M  24 64 # * PH *
+MUMMU0 PH_M  24 64 # * PH *
+MUMMV0 PH_M  24 64 # * PH *
+MUMMW0 PH_M  24 64 # * PH *
+MUMMX0 PH_M  24 64 # * PH *
+MUMMY0 PH_M  24 64 # * PH *
+SNKEA0 PH_M  24 64 # * PH *
+SNKEB0 PH_M  24 64 # * PH *
+SNKEC0 PH_M  24 64 # * PH *
+SNKED0 PH_M  24 64 # * PH *
+SNKEE0 PH_M  24 64 # * PH *
+SNKEF0 PH_M  24 64 # * PH *
+SNKEG0 PH_M  24 64 # * PH *
+SNKEH0 PH_M  24 64 # * PH *
+SNKEI0 PH_M  24 64 # * PH *
+SNKEJ0 PH_M  24 64 # * PH *
+SNKEK0 PH_M  24 64 # * PH *
+SNKEL0 PH_M  24 64 # * PH *
+SNKEM0 PH_M  24 64 # * PH *
+SNKEN0 PH_M  24 64 # * PH *
+SNKEO0 PH_M  24 64 # * PH *
+SNKEP0 PH_M  24 64 # * PH *
+SOR2A0 PH_M  24 64 # * PH *
+SOR2B0 PH_M  24 64 # * PH *
+SOR2C0 PH_M  24 64 # * PH *
+SOR2D0 PH_M  24 64 # * PH *
+SOR2E0 PH_M  24 64 # * PH *
+SOR2F0 PH_M  24 64 # * PH *
+SOR2G0 PH_M  24 64 # * PH *
+SOR2H0 PH_M  24 64 # * PH *
+SOR2I0 PH_M  24 64 # * PH *
+SOR2J0 PH_M  24 64 # * PH *
+SOR2K0 PH_M  24 64 # * PH *
+SOR2L0 PH_M  24 64 # * PH *
+SOR2M0 PH_M  24 64 # * PH *
+SOR2N0 PH_M  24 64 # * PH *
+SOR2O0 PH_M  24 64 # * PH *
+SOR2P0 PH_M  24 64 # * PH *
+SOR2Q0 PH_M  24 64 # * PH *
+SOR2R0 PH_M  24 64 # * PH *
+SOR2S0 PH_M  24 64 # * PH *
+SOR2T0 PH_M  24 64 # * PH *
+SRCRA0 PH_M  24 64 # * PH *
+SRCRB0 PH_M  24 64 # * PH *
+SRCRC0 PH_M  24 64 # * PH *
+SRCRD0 PH_M  24 64 # * PH *
+SRCRE0 PH_M  24 64 # * PH *
+SRCRF0 PH_M  24 64 # * PH *
+SRCRG0 PH_M  24 64 # * PH *
+SRCRH0 PH_M  24 64 # * PH *
+SRCRI0 PH_M  24 64 # * PH *
+SRCRJ0 PH_M  24 64 # * PH *
+SRCRK0 PH_M  24 64 # * PH *
+SRCRL0 PH_M  24 64 # * PH *
+SRCRM0 PH_M  24 64 # * PH *
+SRCRN0 PH_M  24 64 # * PH *
+SRCRO0 PH_M  24 64 # * PH *
+SRCRP0 PH_M  24 64 # * PH *
+SRCRQ0 PH_M  24 64 # * PH *
+SRCRR0 PH_M  24 64 # * PH *
+SRCRS0 PH_M  24 64 # * PH *
+WZRDA0 PH_M  24 64 # * PH *
+WZRDB0 PH_M  24 64 # * PH *
+WZRDC0 PH_M  24 64 # * PH *
+WZRDD0 PH_M  24 64 # * PH *
+WZRDE0 PH_M  24 64 # * PH *
+WZRDF0 PH_M  24 64 # * PH *
+WZRDG0 PH_M  24 64 # * PH *
+WZRDH0 PH_M  24 64 # * PH *
+WZRDI0 PH_M  24 64 # * PH *
+WZRDJ0 PH_M  24 64 # * PH *
+WZRDK0 PH_M  24 64 # * PH *
+WZRDL0 PH_M  24 64 # * PH *
+WZRDM0 PH_M  24 64 # * PH *
+# Weapons
+CRBWA0   0 0 # * PLACE HOLDER *
+CRBWB0   0 0 # * PLACE HOLDER *
+CRBWC0   0 0 # * PLACE HOLDER *
+CRBWD0   0 0 # * PLACE HOLDER *
+CRBWE0   0 0 # * PLACE HOLDER *
+CRBWF0   0 0 # * PLACE HOLDER *
+CRBWG0   0 0 # * PLACE HOLDER *
+CRBWH0   0 0 # * PLACE HOLDER *
+BLSRA0   -103 -84 # Eriance
+BLSRB0   -103 -84 # Eriance
+BLSRC0   -97 -84 # Eriance
+BLSRD0   -89 -73 # Eriance
+BSKLA0   0 0 # * PLACE HOLDER *
+BSKLB0   0 0 # * PLACE HOLDER *
+BSKLC0   0 0 # * PLACE HOLDER *
+BSKLD0   0 0 # * PLACE HOLDER *
+BSKLE0   0 0 # * PLACE HOLDER *
+BSKLF0   0 0 # * PLACE HOLDER *
+CHDLA0   28 60 # Warfare
+CHDLB0   28 60 # Warfare
+CHDLC0   28 60 # Warfare
+AKYYA0   6 25 # Stilgar
+AKYYB0   6 25 # Stilgar
+AKYYC0   6 25 # Stilgar
+AKYYD0   6 25 # Stilgar
+AKYYE0   6 25 # Stilgar
+AKYYF0   6 25 # Stilgar
+AKYYG0   6 25 # Stilgar
+AKYYH0   6 25 # Stilgar
+AKYYI0   6 25 # Stilgar
+AKYYJ0   6 25 # Stilgar
+BKYYA0   6 25 # Stilgar
+BKYYB0   6 25 # Stilgar
+BKYYC0   6 25 # Stilgar
+BKYYD0   6 25 # Stilgar
+BKYYE0   6 25 # Stilgar
+BKYYF0   6 25 # Stilgar
+BKYYG0   6 25 # Stilgar
+BKYYH0   6 25 # Stilgar
+BKYYI0   6 25 # Stilgar
+BKYYJ0   6 25 # Stilgar
+CKYYA0   6 25 # Stilgar
+CKYYB0   6 25 # Stilgar
+CKYYC0   6 25 # Stilgar
+CKYYD0   6 25 # Stilgar
+CKYYE0   6 25 # Stilgar
+CKYYF0   6 25 # Stilgar
+CKYYG0   6 25 # Stilgar
+CKYYH0   6 25 # Stilgar
+CKYYI0   6 25 # Stilgar
+EGGCA0   0 0 # * PLACE HOLDER *
+EGGCB0   0 0 # * PLACE HOLDER *
+EGGCC0   0 0 # * PLACE HOLDER *
+EGGMA0   0 0 # * PLACE HOLDER *
+EGGMB0   0 0 # * PLACE HOLDER *
+EGGMC0   0 0 # * PLACE HOLDER *
+EGGMD0   0 0 # * PLACE HOLDER *
+EGGME0   0 0 # * PLACE HOLDER *
+FBMBA0   13 34 # Stilgar
+FBMBB0   0 0 # * PLACE HOLDER *
+FBMBC0   0 0 # * PLACE HOLDER *
+FBMBD0   0 0 # * PLACE HOLDER *
+FBMBE0 FBMBA0  13 34 # Stilgar
+FDTHA0   0 0 # * PLACE HOLDER *
+FDTHB0   0 0 # * PLACE HOLDER *
+FDTHC0   0 0 # * PLACE HOLDER *
+FDTHD0   0 0 # * PLACE HOLDER *
+FDTHE0   0 0 # * PLACE HOLDER *
+FDTHF0   0 0 # * PLACE HOLDER *
+FDTHG0   0 0 # * PLACE HOLDER *
+FDTHH0   0 0 # * PLACE HOLDER *
+FDTHI0   0 0 # * PLACE HOLDER *
+FDTHJ0   0 0 # * PLACE HOLDER *
+FDTHK0   0 0 # * PLACE HOLDER *
+FDTHL0   0 0 # * PLACE HOLDER *
+FDTHM0   0 0 # * PLACE HOLDER *
+FDTHN0   0 0 # * PLACE HOLDER *
+FDTHO0   0 0 # * PLACE HOLDER *
+FDTHP0   0 0 # * PLACE HOLDER *
+FDTHQ0   0 0 # * PLACE HOLDER *
+FDTHR0   0 0 # * PLACE HOLDER *
+FRB1A0   13 34 # Stilgar
+FRB1B0   0 0 # * PLACE HOLDER *
+FRB1C0   0 0 # * PLACE HOLDER *
+FRB1D0   0 0 # * PLACE HOLDER *
+FRB1E0   0 0 # * PLACE HOLDER *
+FRB1F0   0 0 # * PLACE HOLDER *
+FRB1G0   0 0 # * PLACE HOLDER *
+FRB1H0   0 0 # * PLACE HOLDER *
+FX00A0   0 0 # * PLACE HOLDER *
+FX00B0   0 0 # * PLACE HOLDER *
+FX00C0   0 0 # * PLACE HOLDER *
+FX00D0   0 0 # * PLACE HOLDER *
+FX00E0   0 0 # * PLACE HOLDER *
+FX00F0   0 0 # * PLACE HOLDER *
+FX00G0   0 0 # * PLACE HOLDER *
+FX00H0   9 9 # Leilei
+FX00I0   12 15 # Leilei
+FX00J0   15 18 # Leilei
+FX00K0   22 23 # Leilei
+FX00L0   25 27 # Leilei
+FX00M0   27 29 # Leilei
+FX01A0   0 0 # * PLACE HOLDER *
+FX01B0   0 0 # * PLACE HOLDER *
+FX01C0   0 0 # * PLACE HOLDER *
+FX01D0   0 0 # * PLACE HOLDER *
+FX01E0   0 0 # * PLACE HOLDER *
+FX01F0   0 0 # * PLACE HOLDER *
+FX01G0   0 0 # * PLACE HOLDER *
+FX01H0   0 0 # * PLACE HOLDER *
+FX02A0   0 0 # * PLACE HOLDER *
+FX02B0   0 0 # * PLACE HOLDER *
+FX02C0   0 0 # * PLACE HOLDER *
+FX02D0   0 0 # * PLACE HOLDER *
+FX02E0   0 0 # * PLACE HOLDER *
+FX02F0   0 0 # * PLACE HOLDER *
+FX02G0   0 0 # * PLACE HOLDER *
+FX02H0   0 0 # * PLACE HOLDER *
+FX02I0   0 0 # * PLACE HOLDER *
+FX02J0   0 0 # * PLACE HOLDER *
+FX03A0   0 0 # * PLACE HOLDER *
+FX03B0   0 0 # * PLACE HOLDER *
+FX03C0   11 11 # Leilei
+FX03D0   21 14 # Leilei
+FX03E0   26 12 # Leilei
+FX03F0   0 0 # * PLACE HOLDER *
+FX03G0   0 0 # * PLACE HOLDER *
+FX03H0   11 10 # Leilei
+FX03I0   21 17 # Leilei
+FX03J0   26 8 # Leilei
+FX04A0   0 0 # * PLACE HOLDER *
+FX04B0   0 0 # * PLACE HOLDER *
+FX04C0   0 0 # * PLACE HOLDER *
+FX04D0   0 0 # * PLACE HOLDER *
+FX04E0   0 0 # * PLACE HOLDER *
+FX04F0   0 0 # * PLACE HOLDER *
+FX05A0   0 0 # * PLACE HOLDER *
+FX05B0   0 0 # * PLACE HOLDER *
+FX05C0   0 0 # * PLACE HOLDER *
+FX05D0   0 0 # * PLACE HOLDER *
+FX05E0   0 0 # * PLACE HOLDER *
+FX05F0   0 0 # * PLACE HOLDER *
+FX05G0   0 0 # * PLACE HOLDER *
+FX05H0   0 0 # * PLACE HOLDER *
+FX05I0   0 0 # * PLACE HOLDER *
+FX05J0   0 0 # * PLACE HOLDER *
+FX06A0   0 0 # * PLACE HOLDER *
+FX06B0   0 0 # * PLACE HOLDER *
+FX06C0   0 0 # * PLACE HOLDER *
+FX06D0   0 0 # * PLACE HOLDER *
+FX06E0   0 0 # * PLACE HOLDER *
+FX06F0   0 0 # * PLACE HOLDER *
+FX06G0   0 0 # * PLACE HOLDER *
+FX07A0   0 0 # * PLACE HOLDER *
+FX07B0   0 0 # * PLACE HOLDER *
+FX07C0   0 0 # * PLACE HOLDER *
+FX07D0   0 0 # * PLACE HOLDER *
+FX07E0   0 0 # * PLACE HOLDER *
+FX07F0   0 0 # * PLACE HOLDER *
+FX07G0   0 0 # * PLACE HOLDER *
+FX08A0   0 0 # * PLACE HOLDER *
+FX08B0   0 0 # * PLACE HOLDER *
+FX08C0   0 0 # * PLACE HOLDER *
+FX08D0   0 0 # * PLACE HOLDER *
+FX08E0   0 0 # * PLACE HOLDER *
+FX08F0   0 0 # * PLACE HOLDER *
+FX08G0   0 0 # * PLACE HOLDER *
+FX08H0   0 0 # * PLACE HOLDER *
+FX08I0   0 0 # * PLACE HOLDER *
+FX08J0   0 0 # * PLACE HOLDER *
+FX08K0   0 0 # * PLACE HOLDER *
+FX09A0   0 0 # * PLACE HOLDER *
+FX09B0   0 0 # * PLACE HOLDER *
+FX09C0   0 0 # * PLACE HOLDER *
+FX09D0   0 0 # * PLACE HOLDER *
+FX09E0   0 0 # * PLACE HOLDER *
+FX09F0   0 0 # * PLACE HOLDER *
+FX09G0   0 0 # * PLACE HOLDER *
+FX09H0   0 0 # * PLACE HOLDER *
+FX09I0   0 0 # * PH *
+FX09J0   0 0 # * PLACE HOLDER *
+FX09K0   0 0 # * PLACE HOLDER *
+FX10A0   0 0 # * PLACE HOLDER *
+FX10B0   0 0 # * PLACE HOLDER *
+FX10C0   0 0 # * PLACE HOLDER *
+FX10D0   0 0 # * PLACE HOLDER *
+FX10E0   0 0 # * PLACE HOLDER *
+FX10F0   0 0 # * PLACE HOLDER *
+FX10G0   0 0 # * PLACE HOLDER *
+FX11A0   0 0 # * PLACE HOLDER *
+FX11B0   0 0 # * PLACE HOLDER *
+FX11C0   0 0 # * PLACE HOLDER *
+FX11D0   0 0 # * PLACE HOLDER *
+FX11E0   0 0 # * PLACE HOLDER *
+FX11F0   0 0 # * PLACE HOLDER *
+FX11G0   0 0 # * PLACE HOLDER *
+FX12A0   0 0 # * PLACE HOLDER *
+FX12B0   0 0 # * PLACE HOLDER *
+FX12C0   0 0 # * PLACE HOLDER *
+FX12D0   0 0 # * PLACE HOLDER *
+FX12E0   0 0 # * PLACE HOLDER *
+FX12F0   0 0 # * PLACE HOLDER *
+FX12G0   0 0 # * PLACE HOLDER *
+FX12H0   0 0 # * PLACE HOLDER *
+FX13A0   0 0 # * PLACE HOLDER *
+FX13B0   0 0 # * PLACE HOLDER *
+FX13C0   0 0 # * PLACE HOLDER *
+FX13D0   0 0 # * PLACE HOLDER *
+FX13E0   0 0 # * PLACE HOLDER *
+FX13F0   0 0 # * PLACE HOLDER *
+FX13G0   0 0 # * PLACE HOLDER *
+FX13H0   0 0 # * PLACE HOLDER *
+FX13I0   0 0 # * PLACE HOLDER *
+FX13J0   0 0 # * PLACE HOLDER *
+FX13K0   0 0 # * PLACE HOLDER *
+FX13L0   0 0 # * PLACE HOLDER *
+FX13M0   0 0 # * PLACE HOLDER *
+FX14A0   0 0 # * PLACE HOLDER *
+FX14B0   0 0 # * PLACE HOLDER *
+FX14C0   0 0 # * PLACE HOLDER *
+FX14D0   0 0 # * PLACE HOLDER *
+FX14E0   0 0 # * PLACE HOLDER *
+FX14F0   0 0 # * PLACE HOLDER *
+FX14G0   0 0 # * PLACE HOLDER *
+FX14H0   0 0 # * PLACE HOLDER *
+FX15A0   0 0 # * PLACE HOLDER *
+FX15B0   0 0 # * PLACE HOLDER *
+FX15C0   0 0 # * PLACE HOLDER *
+FX15D0   0 0 # * PLACE HOLDER *
+FX15E0   0 0 # * PLACE HOLDER *
+FX15F0   0 0 # * PLACE HOLDER *
+FX15G0   0 0 # * PLACE HOLDER *
+FX16A0   0 0 # * PLACE HOLDER *
+FX16B0   0 0 # * PLACE HOLDER *
+FX16C0   0 0 # * PLACE HOLDER *
+FX16D0   0 0 # * PLACE HOLDER *
+FX16E0   0 0 # * PLACE HOLDER *
+FX16F0   0 0 # * PLACE HOLDER *
+FX16G0   0 0 # * PLACE HOLDER *
+FX16H0   0 0 # * PH *
+FX16I0   0 0 # * PH *
+FX16J0   0 0 # * PH *
+FX16K0   0 0 # * PH *
+FX16L0   0 0 # * PH *
+FX17A0   9 11 # 40oz
+FX17B0   9 11 # 40oz
+FX17C0   9 11 # 40oz
+FX17D0   9 11 # 40oz
+FX17E0   9 11 # 40oz
+FX17F0   16 15 # 40oz
+FX17G0   16 15 # 40oz
+FX17H0   16 15 # 40oz
+FX17I0   16 15 # 40oz
+FX17J0   16 15 # 40oz
+FX17K0   16 15 # 40oz
+FX17L0   16 15 # 40oz
+FX18A0   0 0 # * PH *
+FX18B0   0 0 # * PH *
+FX18C0   0 0 # * PH *
+FX18D0   0 0 # * PH *
+FX18E0   0 0 # * PH *
+FX18F0   0 0 # * PH *
+FX18G0   0 0 # * PH *
+FX18H0   8 8 # 40oz
+FX18I0   8 8 # 40oz
+FX18J0   8 8 # 40oz
+FX18K0   8 8 # 40oz
+FX18L0   8 8 # 40oz
+FX18M1   4 5 # 40oz
+FX18M8M2 8 5 # 40oz
+FX18M7M3 12 5 # 40oz
+FX18M6M4 8 5 # 40oz
+FX18M5   4 5 # 40oz
+FX18N1 FX18M1   4 5 # 40oz
+FX18N8N2 FX18M8M2 8 5 # 40oz
+FX18N7N3 FX18M7M3 12 5 # 40oz
+FX18N6N4 FX18M6M4 8 5 # 40oz
+FX18N5 FX18M5   4 5 # 40oz
+FX18O0   0 0 # * PH *
+FX18P0   0 0 # * PH *
+FX18Q0   0 0 # * PH *
+FX18R0   0 0 # * PH *
+FX18S0   0 0 # * PH *
+FX20A0   0 0 # * PH *
+FX20B0   0 0 # * PH *
+FX20C0   0 0 # * PH *
+FX20D0   0 0 # * PH *
+FX20E0   0 0 # * PH *
+FX20F0   0 0 # * PH *
+FX20G0   0 0 # * PH *
+FX20H0   0 0 # * PH *
+FX20I0   0 0 # * PH *
+FX21A0   0 0 # * PH *
+FX21B0   0 0 # * PH *
+FX21C0   0 0 # * PH *
+FX21D0   0 0 # * PH *
+FX21E0   0 0 # * PH *
+FX21F0   0 0 # * PH *
+FX21G0   0 0 # * PH *
+FX21H0   0 0 # * PH *
+FX21I0   0 0 # * PH *
+FX22A0   2 9 # Leilei
+FX22B0   6 8 # Leilei
+FX22C0   11 20 # Leilei
+FX22D0   11 30 # Leilei
+FX22E0   12 28 # Leilei
+FX22F0   8 2 # Leilei
+FX22G0   0 0 # * PH *
+FX22H0   0 0 # * PH *
+FX22I0   0 0 # * PH *
+FX23A0   0 0 # * PH *
+FX23B0   0 0 # * PH *
+FX23C0   0 0 # * PH *
+FX23D0   0 0 # * PH *
+FX23E0   0 0 # * PH *
+FX23F0   0 0 # * PH *
+FX23G0   0 0 # * PH *
+FX23H0   0 0 # * PH *
+FX23I0   0 0 # * PH *
+GAUNA0   0 0 # * PH *
+GAUNB0   0 0 # * PH *
+GAUNC0   0 0 # * PH *
+GAUND0   0 0 # * PH *
+GAUNE0   0 0 # * PH *
+GAUNF0   0 0 # * PH *
+GAUNG0   0 0 # * PH *
+GAUNH0   0 0 # * PH *
+GAUNI0   0 0 # * PH *
+GAUNJ0   0 0 # * PH *
+GAUNK0   0 0 # * PH *
+GAUNL0   0 0 # * PH *
+GAUNM0   0 0 # * PH *
+GAUNN0   0 0 # * PH *
+GWNDA0   0 0 # * PH *
+GWNDB0   0 0 # * PH *
+GWNDC0   0 0 # * PH *
+GWNDD0   0 0 # * PH *
+HRODA0   -70 -103 # Eriance
+HRODB0   -70 -103 # Eriance
+HRODC0   -70 -103 # Eriance
+HRODD0   -69 -101 # Eriance
+HRODE0   -72 -92 # Eriance
+HRODF0   -75 -90 # Eriance
+HRODG0   -75 -90 # Eriance
+INVSA0   12 42 # Stilgar
+KFR1A0   20 77 # Warfare & Stilgar
+KFR1B0   20 77 # Warfare & Stilgar
+KFR1C0   20 77 # Warfare & Stilgar
+KFR1D0   20 77 # Warfare & Stilgar
+KFR1E0   20 77 # Warfare & Stilgar
+KFR1F0   20 77 # Warfare & Stilgar
+KFR1G0   20 77 # Warfare & Stilgar
+KFR1H0   20 77 # Warfare & Stilgar
+KGZ1A0   22 61 # Stilgar
+KGZBA0   13 25 # Stilgar
+KGZGA0   13 25 # Stilgar
+KGZYA0   13 25 # Stilgar
+LVASA0   0 0 # * PH *
+LVASB0   0 0 # * PH *
+LVASC0   0 0 # * PH *
+LVASD0   0 0 # * PH *
+LVASE0   0 0 # * PH *
+LVASF0   0 0 # * PH *
+LVASG0   0 0 # * PH *
+LVASH0   0 0 # * PH *
+LVASI0   0 0 # * PH *
+LVASJ0   0 0 # * PH *
+LVASK0   0 0 # * PH *
+MACEA0   0 0 # * PH *
+MACEB0   0 0 # * PH *
+MACEC0   0 0 # * PH *
+MACED0   0 0 # * PH *
+MACEE0   0 0 # * PH *
+MACEF0   0 0 # * PH *
+PHNXA0   0 0 # * PH *
+PHNXB0   0 0 # * PH *
+PHNXC0   0 0 # * PH *
+PHNXD0   0 0 # * PH *
+PLAYA0   0 0 # * PH *
+PLAYB0   0 0 # * PH *
+PLAYC0   0 0 # * PH *
+PLAYD0   0 0 # * PH *
+PLAYE0   0 0 # * PH *
+PLAYF0   0 0 # * PH *
+PLAYG0   0 0 # * PH *
+PLAYH0   0 0 # * PH *
+PLAYI0   0 0 # * PH *
+PLAYJ0   0 0 # * PH *
+PLAYK0   0 0 # * PH *
+PLAYL0   0 0 # * PH *
+PLAYM0   0 0 # * PH *
+PLAYN0   0 0 # * PH *
+PLAYO0   0 0 # * PH *
+PLAYP0   0 0 # * PH *
+PLAYQ0   0 0 # * PH *
+PLAYR0   0 0 # * PH *
+PLAYS0   0 0 # * PH *
+PLAYT0   0 0 # * PH *
+PLAYU0   0 0 # * PH *
+PLAYV0   0 0 # * PH *
+PLAYW0   0 0 # * PH *
+PLAYX0   0 0 # * PH *
+PLAYY0   0 0 # * PH *
+PPODA0   23 40 # Stilgar
+PPODB0   23 40 # Stilgar
+PPODC0   0 0 # * PH *
+PPODD0   0 0 # * PH *
+PPODE0   0 0 # * PH *
+PPODF0   0 0 # * PH *
+PPODG0   0 0 # * PH *
+PPODH0   0 0 # * PH *
+PPODI0   23 40 # Stilgar
+PPODJ0   23 40 # Stilgar
+PPODK0   23 40 # Stilgar
+PPODL0   23 40 # Stilgar
+PPODM0   23 40 # Stilgar
+PPODN0   23 40 # Stilgar
+PPODO0   23 40 # Stilgar
+PPODP0   23 40 # Stilgar
+PTN2A0   8 30 # Stilgar
+PTN2B0   8 30 # Stilgar
+PTN2C0   8 30 # Stilgar
+PUF1A0   0 0 # * PH *
+PUF1B0   0 0 # * PH *
+PUF1C0   0 0 # * PH *
+PUF1D0   0 0 # * PH *
+PUF1E0   0 0 # * PH *
+PUF1F0   0 0 # * PH *
+PUF1G0   0 0 # * PH *
+PUF1H0   0 0 # * PH *
+PUF2A0   7 7   # Stilgar
+PUF2B0   10 10 # Stilgar
+PUF2C0   13 14 # Stilgar
+PUF2D0   14 15 # Stilgar
+PUF2E0   15 16 # Stilgar
+PUF3A0   0 0 # * PH *
+PUF3B0   0 0 # * PH *
+PUF3C0   0 0 # * PH *
+PUF3D0   0 0 # * PH *
+PUF4A0   0 0 # * PH *
+PUF4B0   0 0 # * PH *
+PUF4C0   0 0 # * PH *
+PUF4D0   0 0 # * PH *
+PUF4E0   0 0 # * PH *
+PUF4F0   0 0 # * PH *
+RAXEA0   0 0 # * PH *
+RAXEB0   0 0 # * PH *
+RAXEC0   0 0 # * PH *
+RAXED0   0 0 # * PH *
+RAXEE0   0 0 # * PH *
+SDTHA0   0 0 # * PH *
+SDTHB0   0 0 # * PH *
+SDTHC0   0 0 # * PH *
+SDTHD0   0 0 # * PH *
+SDTHE0   0 0 # * PH *
+SDTHF0   0 0 # * PH *
+SDTHG0   0 0 # * PH *
+SDTHH0   0 0 # * PH *
+SDTHI0   0 0 # * PH *
+SDTHJ0   0 0 # * PH *
+SDTHK0   0 0 # * PH *
+SDTHL0   0 0 # * PH *
+SDTHM0   0 0 # * PH *
+SDTHN0   0 0 # * PH *
+SDTHO0   0 0 # * PH *
+SFFIA0   0 0 # * PH *
+SFFIB0   0 0 # * PH *
+SFFIC0   0 0 # * PH *
+SFFID0   0 0 # * PH *
+SFFIE0   0 0 # * PH *
+SHRDA0   0 0 # * PH *
+SHRDB0   0 0 # * PH *
+SHRDC0   0 0 # * PH *
+SHRDD0   0 0 # * PH *
+SHRDE0   0 0 # * PH *
+SHRDF0   0 0 # * PH *
+SKH1A0   5 75 # Stilgar
+SKH2A0   6 61 # Stilgar
+SKH3A0   6 50 # Stilgar
+SKH4A0   7 36 # Stilgar
+SLDGA0   0 0 # * PH *
+SLDGB0   0 0 # * PH *
+SLDGC0   0 0 # * PH *
+SLDGD0   0 0 # * PH *
+SLDGE0   0 0 # * PH *
+SLDGF0   0 0 # * PH *
+SLDGG0   0 0 # * PH *
+SLDGH0   0 0 # * PH *
+SMPLA0   20 36 # Stilgar
+SNFXA0   0 0 # * PH *
+SNFXB0   0 0 # * PH *
+SNFXC0   0 0 # * PH *
+SNFXD0   0 0 # * PH *
+SNFXE0   0 0 # * PH *
+SNFXF0   0 0 # * PH *
+SNFXG0   0 0 # * PH *
+SNFXH0   0 0 # * PH *
+SNFXI0   0 0 # * PH *
+SNFXJ0   0 0 # * PH *
+SNFXK0   0 0 # * PH *
+SNFXL0   0 0 # * PH *
+SNFXM0   0 0 # * PH *
+SNFXN0   0 0 # * PH *
+SNFXO0   0 0 # * PH *
+SPAXA0   0 0 # * PH *
+SPAXB0   0 0 # * PH *
+SPAXC0   0 0 # * PH *
+SPAXD0   0 0 # * PH *
+SPAXE0   0 0 # * PH *
+SPAXF0   0 0 # * PH *
+SPHLA0   9 31 # Stilgar
+SPSHA0   5 6 # 40oz
+SPSHB0   5 6 # 40oz
+SPSHC0   5 6 # 40oz
+SPSHD0   7 6 # 40oz
+SPSHE0   14 8 # 40oz
+SPSHF0   16 15 # 40oz
+SPSHG0   16 23 # 40oz
+SPSHH0   16 23 # 40oz
+SPSHI0   16 21 # 40oz
+SPSHJ0   16 23 # 40oz
+SPSHK0   16 10 # 40oz
+SRTCA0   7 63 # Stilgar
+SRTCB0   7 63 # Stilgar
+SRTCC0   7 63 # Stilgar
+STFFA0   0 0 # * PH *
+STFFB0   0 0 # * PH *
+STFFC0   0 0 # * PH *
+STFFD0   0 0 # * PH *
+STFFE0   0 0 # * PH *
+STFFF0   0 0 # * PH *
+STFFG0   0 0 # * PH *
+STFFH0   0 0 # * PH *
+TELEA0   0 0 # * PH *
+TELEB0   0 0 # * PH *
+TELEC0   0 0 # * PH *
+TELED0   0 0 # * PH *
+TELEE0   0 0 # * PH *
+TELEF0   0 0 # * PH *
+TELEG0   0 0 # * PH *
+TELEH0   0 0 # * PH *
+TGLTA0   2 2 # Stilgar
+TGLTB0   2 2 # Stilgar
+TGLTC0   3 3 # Stilgar
+TGLTD0   3 3 # Stilgar
+TGLTE0   2 2 # Stilgar
+TGLTF0   2 2 # Stilgar
+TGLTG0   2 2 # Stilgar
+TGLTH0   3 3 # Stilgar
+TGLTI0   3 3 # Stilgar
+TGLTJ0   2 2 # Stilgar
+TRCHA0   0 0 # * PH *
+TRCHB0   0 0 # * PH *
+TRCHC0   0 0 # * PH *
+VLCOA0   16 24 # Warfare
+VLCOB0 VLCOA0  17 24 # Warfare
+VLCOC0 VLCOA0  16 23 # Warfare
+VLCOD0 VLCOA0  15 24 # Warfare
+VLCOE0   16 38 # Warfare
+WTRHA0   5 78 # Stilgar
+WTRHB0   5 78 # Stilgar
+WTRHC0   5 78 # Stilgar
+XPL1A0   0 0 # * PH *
+XPL1B0   0 0 # * PH *
+XPL1C0   0 0 # * PH *
+XPL1D0   0 0 # * PH *
+XPL1E0   0 0 # * PH *
+XPL1F0   0 0 # * PH *
