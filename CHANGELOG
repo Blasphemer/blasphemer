@@ -1,3 +1,6 @@
+0.1.3 > 0.1.3
+* Fix serious palette bug.
+
 0.1.2 > 0.1.3
 + Three deathmatch maps imported from FREEDM
 + New sounds for PODEXP, STFPOW, IMPAT2, GLDHIT, NEWPOD.
