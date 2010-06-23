@@ -1,4 +1,5 @@
 #summary Plan for completion of resources.
+#labels Phase-Requirements,Phase-Implementation
 = Roadmap =
 
 This is a general guideline of what the major goals for each version are.  Contributions of things needed for a later version than the current goal can always be accepted, this is merely a suggestion of priority.
