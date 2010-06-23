@@ -7,6 +7,7 @@ This is a general guideline of what the major goals for each version are.  Contr
 
 == 0.1 - Basic environment ==
   * Full set of textures and flats: Complete
+  * Full set of music tracks: Complete
 
 == 0.2 - DM preparation (Current Goal) ==
   * Full set of weapon graphics: Partial
