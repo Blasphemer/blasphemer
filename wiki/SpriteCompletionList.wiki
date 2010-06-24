@@ -1,0 +1,50 @@
+#summary Sprite completion list
+
+= Sprite Completion List =
+
+_NB: this list has not been finished yet_
+
+  * <font color="#FF0000">Red</font> - Nothing done.  Anything in this slot now is only a placeholder.
+  * <font color="#880000">Dark Red</font> - Something is done but should be replaced or heavily reworked.
+  * <font color="#888800">Yellow</font> - Someone has shown work but nothing was submitted.
+  * <font color="#8800FF">Violet</font> - Some work is done and submitted but is not complete.
+  * <font color="#448800">Yellow-green</font> Work is done, but could benefit from additional refinement.
+  * <font color="#008800">Green</font>  - Work is done, no changes are foreseen.
+  * ? - Might be shuffled to different slot.
+  * ! - Needed for current milestone and is not a green status.
+  * (Who) - Who worked on this, if status is yellow or violet.
+
+
+== Weapon Sprites ==
+ * Weapon 1a: <font color="#FF0000">STFF</font> !
+   * Frame A, normal idle
+   * Frames B-C, normal melee attack 
+   * Frames D-F, empowered idle
+   * Frames G-H, empowered melee attack
+ * Weapon 1b: <font color="#FF0000">GAUN</font> !
+ * Weapon 2: <font color="#FF0000">GWND</font> !
+    * Frame A, idle
+    * Frames B-D, attack
+ * Weapon 2 effect 1: <font color="#448800">PUF2</font>
+    * Frames A-E, energy effect
+ * Weapon 3: <font color="#888800">CRBW</font> ! (NeoWorm)
+    * Frames A-C, idle
+    * Frames D-H, attack
+ * Weapon 4: <font color="#008800">BLSR</font>
+ * Weapon 5: <font color="#008800">HROD</font>
+ * Weapon 5 blood shot: <font color="#8800FF">FX00</font> ! (Leileilol)
+   * <font color="#FF0000">Frames A-B</font>, regular projectile
+   * <font color="#FF0000">Frames C-F</font>, empowered projectile
+   * <font color="#008800">Frames G-M</font>, projectile explosion
+ * Weapon 6: <font color="#FF0000">PHNX</font> !
+ * Weapon 6 fireball pt. 1: <font color="#FF0000">FX04</font> !
+   * Frame A, fireball with angles
+   * Frames B-F, fading smoke puffs
+ * Weapon 6 projectile pt. 2: <font color="#FF0000">FX08</font> !
+   * Frames A-H, magic fireball explosion
+ * Weapon 7: <font color="#FF0000">MACE</font> !
+ * Weapon 7 cannonball: <font color="#FF0000">FX02</font> !
+   * Frames A-B, tiny ball spinning
+   * Frames C-D, medium ball spinning
+   * Frame E, giant bonecrushing ball
+   * Frames F-J, ball impact and dissolution
