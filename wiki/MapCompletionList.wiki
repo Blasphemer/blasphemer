@@ -9,7 +9,7 @@
   * <font color="#8800FF">Violet</font> - Some work is done and submitted but is not complete.
   * <font color="#448800">Yellow-green</font> Work is done, but could benefit from additional refinement.
   * <font color="#008800">Green</font>  - Work is done, no changes are foreseen.
-  * ? - Might be shuffled to different slot.
+  * ~ - Might be shuffled to different slot.
   * ! - Needed for current milestone and is not a green status.
   * (Who) - Who worked on this, if status is yellow or violet.
 
@@ -17,15 +17,15 @@
 ===E1===
   * <font color="#FF0000">E1M1</font>
   * <font color="#FF0000">E1M2</font>
-  * <font color="#448800">E1M3</font> ?
+  * <font color="#448800">E1M3</font> ~
   * <font color="#888800">E1M4</font> (Leileilol)
   * <font color="#FF0000">E1M5</font>
   * <font color="#FF0000">E1M6</font>
-  * <font color="#448800">E1M7</font> ?
+  * <font color="#448800">E1M7</font> ~
   * <font color="#FF0000">E1M8</font>
   * <font color="#FF0000">E1M9</font>
 ===E2===
-  * <font color="#448800">E2M1</font> ?
+  * <font color="#448800">E2M1</font> ~
   * <font color="#FF0000">E2M2</font>
   * <font color="#FF0000">E2M3</font>
   * <font color="#FF0000">E2M4</font>
