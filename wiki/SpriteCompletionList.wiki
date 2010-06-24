@@ -10,7 +10,7 @@ _NB: this list has not been finished yet_
   * <font color="#8800FF">Violet</font> - Some work is done and submitted but is not complete.
   * <font color="#448800">Yellow-green</font> Work is done, but could benefit from additional refinement.
   * <font color="#008800">Green</font>  - Work is done, no changes are foreseen.
-  * ? - Might be shuffled to different slot.
+  * ~ - Might be shuffled to different slot.
   * ! - Needed for current milestone and is not a green status.
   * (Who) - Who worked on this, if status is yellow or violet.
 
