@@ -8,7 +8,7 @@ _NB: this list has not been finished yet_
   * <font color="#880000">Dark Red</font> - Something is done but should be replaced or heavily reworked.
   * <font color="#888800">Yellow</font> - Someone has shown work but nothing was submitted.
   * <font color="#8800FF">Violet</font> - Some work is done and submitted but is not complete.
-  * <font color="#448800">Yellow-green</font> Work is done, but could benefit from additional refinement.
+  * <font color="#0000FF">Blue</font> Work is done, but could benefit from additional refinement.
   * <font color="#008800">Green</font>  - Work is done, no changes are foreseen.
   * ~ - Might be shuffled to different slot.
   * ! - Needed for current milestone and is not a green status.
@@ -25,7 +25,7 @@ _NB: this list has not been finished yet_
  * Weapon 2: <font color="#FF0000">GWND</font> !
     * Frame A, idle
     * Frames B-D, attack
- * Weapon 2 effect 1: <font color="#448800">PUF2</font>
+ * Weapon 2 effect 1: <font color="#0000FF">PUF2</font>
     * Frames A-E, energy effect
  * Weapon 3: <font color="#888800">CRBW</font> ! (NeoWorm)
     * Frames A-C, idle
@@ -48,3 +48,9 @@ _NB: this list has not been finished yet_
    * Frames C-D, medium ball spinning
    * Frame E, giant bonecrushing ball
    * Frames F-J, ball impact and dissolution
+
+== Player Sprites ==
+ * Player sprite: <font color="#FF0000">PLAY</font>
+
+== Monster Sprites ==
+ * Walking grunt (melee, with seeking projectile added for "elite" version): <font color="#FF0000">MUMM</font>
