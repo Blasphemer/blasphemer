@@ -7,7 +7,7 @@
   * <font color="#880000">Dark Red</font> - Something is done but should be replaced or heavily reworked.
   * <font color="#888800">Yellow</font> - Someone has shown work but nothing was submitted.
   * <font color="#8800FF">Violet</font> - Some work is done and submitted but is not complete.
-  * <font color="#448800">Yellow-green</font> Work is done, but could benefit from additional refinement.
+  * <font color="#0000FF">Blue</font> Work is done, but could benefit from additional refinement.
   * <font color="#008800">Green</font>  - Work is done, no changes are foreseen.
   * ! - Needed for current milestone and is not a green status.
   * (Who) - Who worked on this, if status is yellow or violet.
@@ -49,10 +49,10 @@
   * <font color="#008800">FLAT521</font>
   * <font color="#008800">FLAT522</font>
   * <font color="#008800">FLAT523</font>
-  * <font color="#008800">FLATHUH1</font>
-  * <font color="#008800">FLATHUH2</font>
-  * <font color="#008800">FLATHUH3</font>
-  * <font color="#008800">FLATHUH4</font>
+  * <font color="#0000FF">FLATHUH1</font>
+  * <font color="#0000FF">FLATHUH2</font>
+  * <font color="#0000FF">FLATHUH3</font>
+  * <font color="#0000FF">FLATHUH4</font>
   * <font color="#008800">FLCHESS1</font>
   * <font color="#008800">FLCHESS2</font>
   * <font color="#008800">FLCRAT01</font>
