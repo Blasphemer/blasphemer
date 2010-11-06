@@ -48,6 +48,17 @@ _NB: this list has not been finished yet_
    * Frames C-D, medium ball spinning
    * Frame E, giant bonecrushing ball
    * Frames F-J, ball impact and dissolution
+ * Weakling mode weapon: <font color="#FF0000">BEAK</font> !
+
+== Item Sprites ==
+
+ * Armor: <font color="#008800">SHLD</font>
+ * Superior Armor: <font color="#008800">SHL2</font>
+ * Map: <font color="#008800">SPMP</font>
+ * Wings: <font color="#8800FF">SOAR</font> ! (Stilgar)
+ * Carry-on Teleporter: <font color="#0000FF">ATLP</font> !
+ * Extra Ammo Capacity: <font color="#008800">BAGH</font>
+ * Invincibility Powerup: <font color="#8800FF">INVU</font> ! (Stilgar)
 
 == Player Sprites ==
  * Player sprite: <font color="#FF0000">PLAY</font>
