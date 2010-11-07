@@ -68,5 +68,5 @@ _NB: this list has not been finished yet_
  * Flying grunt (melee slam for standard, weak projectile for elite): <font color="#FF0000">IMPX</font>
  * E1 end boss / miniboss 1 (sorcerous attacks): <font color="#FF0000">HEAD</font>
  * E2 end boss / miniboss 2 (high power attacks): <font color="#FF0000">MNTR</font>
- * E3 end boss / final boss (phase 1): <font color="FF0000">SRCR</font>
- * E3 end boss / final boss (phase 2): <font color="FF0000">SOR2</font>
+ * E3 end boss / final boss (phase 1): <font color="#FF0000">SRCR</font>
+ * E3 end boss / final boss (phase 2): <font color="#FF0000">SOR2</font>
