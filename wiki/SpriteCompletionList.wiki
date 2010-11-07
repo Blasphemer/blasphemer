@@ -42,8 +42,8 @@ _NB: this list has not been finished yet_
    * Frames B-F, fading smoke puffs
  * Weapon 6 projectile pt. 2: <font color="#FF0000">FX08</font> !
    * Frames A-H, magic fireball explosion
- * Weapon 7: <font color="#FF0000">MACE</font> !
- * Weapon 7 cannonball: <font color="#FF0000">FX02</font> !
+ * Weapon 7: <font color="#888800">MACE</font> ! (Stilgar)
+ * Weapon 7 cannonball: <font color="#888800">FX02</font> ! (Stilgar)
    * Frames A-B, tiny ball spinning
    * Frames C-D, medium ball spinning
    * Frame E, giant bonecrushing ball
@@ -65,3 +65,8 @@ _NB: this list has not been finished yet_
 
 == Monster Sprites ==
  * Walking grunt (melee, with seeking projectile added for "elite" version): <font color="#FF0000">MUMM</font>
+ * Flying grunt (melee slam for standard, weak projectile for elite): <font color="#FF0000">IMPX</font>
+ * E1 end boss / miniboss 1 (sorcerous attacks): <font color="#FF0000">HEAD</font>
+ * E2 end boss / miniboss 2 (high power attacks): <font color="#FF0000">MNTR</font>
+ * E3 end boss / final boss (phase 1): <font color="FF0000">SRCR</font>
+ * E3 end boss / final boss (phase 2): <font color="FF0000">SOR2</font>
