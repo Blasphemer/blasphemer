@@ -1591,12 +1591,12 @@ LVASH0   0 0 # * PH *
 LVASI0   0 0 # * PH *
 LVASJ0   0 0 # * PH *
 LVASK0   0 0 # * PH *
-MACEA0   0 0 # * PH *
-MACEB0   0 0 # * PH *
-MACEC0   0 0 # * PH *
-MACED0   0 0 # * PH *
-MACEE0   0 0 # * PH *
-MACEF0   0 0 # * PH *
+MACEA0	-109	-100 # Stilgar
+MACEB0	-109	-100 # Stilgar
+MACEC0	-109	-95  # Stilgar
+MACED0	-109	-90  # Stilgar
+MACEE0	-109	-95  # Stilgar
+MACEF0	-109	-100 # Stilgar
 PHNXA0   0 0 # * PH *
 PHNXB0   0 0 # * PH *
 PHNXC0   0 0 # * PH *
