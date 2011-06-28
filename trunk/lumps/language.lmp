@@ -56,3 +56,22 @@ HHUSTR_E4M6 = "noname";
 HHUSTR_E4M7 = "noname";
 HHUSTR_E4M8 = "noname";
 HHUSTR_E4M9 = "noname";
+
+
+// Skibbi's Obituaries
+//Grunts
+OB_MUMMY = "%o was slaughtered by a grunt";
+OB_MUMMYLEADER = "%o pissed off the grunt leader";
+OB_WIZARDHIT = "%o was scourged by the sourcerer";
+OB_BONEKNIGHT = "%o was no match for the jack of all trades"; 
+OB_BONEKNIGHTHIT = "%o was bashed by a jack of all trades";
+OB_HERETICIMP = "%o was burned by a flying grunt";
+OB_HERETICIMPHIT = "%o was ripped by a flying grunt";
+//Bosses
+//OB_IRONLICH
+//OB_IRONLICHHIT 
+
+OB_DSPARIL1 = "%o was no match for gyte's steed";
+OB_DSPARIL1HIT = "%o was bitten by gyte's steed";
+OB_DSPARIL2 = "%o was smote by gyte";
+OB_DPSARIL2HIT = "%o was no match for gyte's melee";
