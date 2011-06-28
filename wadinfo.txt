@@ -53,10 +53,10 @@ MUS_CPTD BLAS22X  # Jute Gyte
 MUS_INTR BLAS14X  # Jute Gyte
 
 [levels]
+E1M1	  # Skibbi
 E1M3      # Snarboo
 E1M7      # Ryathaen
 E2M1      # Owen "Sarge Baldy" Lloyd (Bugfixed)
-E1M1 PH
 E1M2 PH
 E1M4 PH
 E1M5 PH
