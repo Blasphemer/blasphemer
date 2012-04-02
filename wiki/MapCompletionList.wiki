@@ -18,7 +18,7 @@
   * <font color="#FF0000">E1M1</font>
   * <font color="#FF0000">E1M2</font>
   * <font color="#0000FF">E1M3</font> ~
-  * <font color="#888800">E1M4</font> (Leileilol)
+  * <font color="#FF0000">E1M4</font>
   * <font color="#FF0000">E1M5</font>
   * <font color="#FF0000">E1M6</font>
   * <font color="#0000FF">E1M7</font> ~
