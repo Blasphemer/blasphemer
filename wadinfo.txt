@@ -1209,19 +1209,39 @@ SRCRP0 PH_M  24 64 # * PH *
 SRCRQ0 PH_M  24 64 # * PH *
 SRCRR0 PH_M  24 64 # * PH *
 SRCRS0 PH_M  24 64 # * PH *
-WZRDA0 PH_M  24 64 # * PH *
-WZRDB0 PH_M  24 64 # * PH *
-WZRDC0 PH_M  24 64 # * PH *
-WZRDD0 PH_M  24 64 # * PH *
-WZRDE0 PH_M  24 64 # * PH *
-WZRDF0 PH_M  24 64 # * PH *
-WZRDG0 PH_M  24 64 # * PH *
-WZRDH0 PH_M  24 64 # * PH *
-WZRDI0 PH_M  24 64 # * PH *
-WZRDJ0 PH_M  24 64 # * PH *
-WZRDK0 PH_M  24 64 # * PH *
-WZRDL0 PH_M  24 64 # * PH *
-WZRDM0 PH_M  24 64 # * PH *
+WZRDA1	21	58	# Pawel "Nmn" Zarczynski
+WZRDA2A8	25	61	# Pawel "Nmn" Zarczynski
+WZRDA3A7	29	61	# Pawel "Nmn" Zarczynski
+WZRDA4A6	25	61	# Pawel "Nmn" Zarczynski
+WZRDA5	22	60	# Pawel "Nmn" Zarczynski
+WZRDB1	21	56	# Pawel "Nmn" Zarczynski
+WZRDB2B8	25	56	# Pawel "Nmn" Zarczynski
+WZRDB3B7	27	60	# Pawel "Nmn" Zarczynski
+WZRDB4B6	25	60	# Pawel "Nmn" Zarczynski
+WZRDB5	22	56	# Pawel "Nmn" Zarczynski
+WZRDC1	21	58	# Pawel "Nmn" Zarczynski
+WZRDC2C8	25	55	# Pawel "Nmn" Zarczynski
+WZRDC3C7	28	52	# Pawel "Nmn" Zarczynski
+WZRDC4C6	24	54	# Pawel "Nmn" Zarczynski
+WZRDC5	22	58	# Pawel "Nmn" Zarczynski
+WZRDD1	24	62	# Pawel "Nmn" Zarczynski
+WZRDD2D8	27	57	# Pawel "Nmn" Zarczynski
+WZRDD3D7	28	57	# Pawel "Nmn" Zarczynski
+WZRDD4D6	28	58	# Pawel "Nmn" Zarczynski
+WZRDD5	24	58	# Pawel "Nmn" Zarczynski
+WZRDE1	21	48	# Pawel "Nmn" Zarczynski
+WZRDE2E8	25	50	# Pawel "Nmn" Zarczynski
+WZRDE3E7	27	49	# Pawel "Nmn" Zarczynski
+WZRDE4E6	25	50	# Pawel "Nmn" Zarczynski
+WZRDE5	22	51	# Pawel "Nmn" Zarczynski
+WZRDF0	26	50	# Pawel "Nmn" Zarczynski
+WZRDG0	25	50	# Pawel "Nmn" Zarczynski
+WZRDH0	25	48	# Pawel "Nmn" Zarczynski
+WZRDI0	26	41	# Pawel "Nmn" Zarczynski
+WZRDJ0	29	39	# Pawel "Nmn" Zarczynski
+WZRDK0	32	41	# Pawel "Nmn" Zarczynski
+WZRDL0	28	34	# Pawel "Nmn" Zarczynski
+WZRDM0	28	29	# Pawel "Nmn" Zarczynski
 # Weapons
 CRBWA0   -13 -95 # Neoworm
 CRBWB0   -13 -95 # Neoworm
