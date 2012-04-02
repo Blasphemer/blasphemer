@@ -69,7 +69,7 @@ _NB: this list has not been finished yet_
  * "Jack of all trades" enemy (standard and ghostly versions): <font color="#FF0000">KNIG</font>
  * Fast melee enemy: <font color="#FF0000">CLNK</font>
  * Mid-level ranged enemy: <font color="#FF0000">BEAS</font>
- * Mid-level flying enemy (spread shot attack): <font color="#FF0000">WZRD</font>
+ * Mid-level flying enemy (spread shot attack): <font color="#008800">WZRD</font> (NMN)
  * High-HP enemy (stream shot ranged, no melee): <font color="#FF0000">SNKE</font>
  * E1 end boss / miniboss 1 (sorcerous attacks): <font color="#FF0000">HEAD</font>
  * E2 end boss / miniboss 2 (high power attacks): <font color="#FF0000">MNTR</font>
