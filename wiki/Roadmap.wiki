@@ -26,7 +26,7 @@ This is a general guideline of what the major goals for each version are.  Contr
   * 9 deathmatch maps: Partial
 
 == 0.4 - SP "demo" preparation ==
-  * Full set of non-boss monster graphics: None
+  * Full set of non-boss monster graphics: Partial
   * Full set of non-boss monster sounds: Partial
 
 == 0.5 - SP "demo" ==
