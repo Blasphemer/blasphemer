@@ -27,7 +27,7 @@ _NB: this list has not been finished yet_
     * Frames B-D, attack
  * Weapon 2 effect 1: <font color="#0000FF">PUF2</font>
     * Frames A-E, energy effect
- * Weapon 3: <font color="#888800">CRBW</font> ! (NeoWorm)
+ * Weapon 3: <font color="#008800">CRBW</font> (NeoWorm)
     * Frames A-C, idle
     * Frames D-H, attack
  * Weapon 4: <font color="#008800">BLSR</font>
