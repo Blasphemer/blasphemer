@@ -11,11 +11,9 @@ Blasphemer has been found to work with minor issues on the following engines:
   * Vavoom               - Does not have correct invulnerability colors
   * Heretic+             - Will not have correct messages
 
-Blasphemer has been found to be functional on the following engines, with some issues:
-  * Doomsday             - Some sound do not sound correct, doesn't have correct messages or invulnerability color.
-
 Blasphemer has been found to have unacceptable problems on the following engines:
   * ReMood               - Prone to crashes (not Blasphemer specific)
+  * Doomsday             - Does not recognize Blasphemer WAD. (Used to work.)
 
 The following ports do not have required features to support Blasphemer:
   * Chocolate-Heretic    - No limit removal
