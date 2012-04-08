@@ -34,6 +34,7 @@ This is an open content project, and as such, must adhere to strict licensing ru
 
 = Levels =
 
+  * Target map format is standard plus limit removal. Do not use port-specific map features.
   * Episode 1 theme is towns, castles, cathedrals, etc.
   * Episode 2 theme is wastelands and ruins.
   * Episode 3 theme is a warped, alien world.
