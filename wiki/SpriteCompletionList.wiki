@@ -1,11 +1,12 @@
 #summary Sprite completion list
+#labels Graphics,Sprites,Status
 
 = Sprite Completion List =
 
 _NB: this list has not been finished yet_
 
   * <font color="#FF0000">Red</font> - Nothing done.  Anything in this slot now is only a placeholder.
-  * <font color="#880000">Dark Red</font> - Something is done but should be replaced or heavily reworked.
+  * <font color="#882200">Brown</font> - Something is done but should be replaced or heavily reworked.
   * <font color="#888800">Yellow</font> - Someone has shown work but nothing was submitted.
   * <font color="#8800FF">Violet</font> - Some work is done and submitted but is not complete.
   * <font color="#0000FF">Blue</font> Work is done, but could benefit from additional refinement.
@@ -22,7 +23,7 @@ _NB: this list has not been finished yet_
    * Frames D-F, empowered idle
    * Frames G-H, empowered melee attack
  * Weapon 1b: <font color="#FF0000">GAUN</font> !
- * Weapon 2: <font color="#FF0000">GWND</font> !
+ * Weapon 2: <font color="#882200">GWND</font> !
     * Frame A, idle
     * Frames B-D, attack
  * Weapon 2 effect 1: <font color="#0000FF">PUF2</font>
@@ -32,8 +33,8 @@ _NB: this list has not been finished yet_
     * Frames D-H, attack
  * Weapon 4: <font color="#008800">BLSR</font>
  * Weapon 5: <font color="#008800">HROD</font>
- * Weapon 5 blood shot: <font color="#8800FF">FX00</font> ! (Leileilol)
-   * <font color="#FF0000">Frames A-B</font>, regular projectile
+ * Weapon 5 blood shot: <font color="#8800FF">FX00</font> ! (Leileilol & printz)
+   * <font color="#008800">Frames A-B</font>, regular projectile
    * <font color="#FF0000">Frames C-F</font>, empowered projectile
    * <font color="#008800">Frames G-M</font>, projectile explosion
  * Weapon 6: <font color="#FF0000">PHNX</font> !
@@ -42,7 +43,7 @@ _NB: this list has not been finished yet_
    * Frames B-F, fading smoke puffs
  * Weapon 6 projectile pt. 2: <font color="#FF0000">FX08</font> !
    * Frames A-H, magic fireball explosion
- * Weapon 7: <font color="#0000FF">MACE</font> !
+ * Weapon 7: <font color="#882200">MACE</font> !
  * Weapon 7 cannonball: <font color="#888800">FX02</font> ! (Stilgar)
    * Frames A-B, tiny ball spinning
    * Frames C-D, medium ball spinning
