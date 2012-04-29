@@ -5,6 +5,7 @@
 # Stilgar - Placeholder Map, Monster placeholder
 
 [lumps]
+DECORATE # Stilgar
 PLAYPAL  # Stilgar
 COLORMAP # Stilgar
 TINTTAB  # Stilgar
