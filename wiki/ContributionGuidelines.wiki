@@ -31,6 +31,7 @@ This is an open content project, and as such, must adhere to strict licensing ru
   * The shiny-plastic appearance found in some sprites derived from 3D models is NOT desired.  Either hand-edit after rendering, or make the model renders less shiny.
   * We don't use models in the mainline releases, but some ports may support them, so if you make sprites out of models, the models themselves are also worth contributing.  We may make an optional add-on including them if we get any.
   * Monsters should be evil and demonic looking, and the stronger they are, the weirder and more alien they ought to be.
+  * For the most expedient inclusion of graphics, please submit them as a non-transparent .GIF with areas that should be transparent in-game filled with RGB color 0 47 47 (hex 002f2f).  This is the format our DeuTex compilation tool uses and other formats have to be converted by our commit team before inclusion.
 
 = Levels =
 
