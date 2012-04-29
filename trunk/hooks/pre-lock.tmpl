@@ -42,6 +42,8 @@
 REPOS="$1"
 PATH="$2"
 USER="$3"
+COMMENT="$4"
+STEAL="$5"
 
 # If a lock exists and is owned by a different person, don't allow it
 # to be stolen (e.g., with 'svn lock --force ...').
