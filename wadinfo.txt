@@ -138,11 +138,11 @@ CHICPAI  # * PLACE HOLDER *
 CHICPK1  # * PLACE HOLDER *
 CHICPK2  # * PLACE HOLDER *
 CHICPK3  # * PLACE HOLDER *
-CLKACT   # * PLACE HOLDER *
-CLKATK   # * PLACE HOLDER *
-CLKDTH   # * PLACE HOLDER *
-CLKPAI   # * PLACE HOLDER *
-CLKSIT   # * PLACE HOLDER *
+CLKACT   # Artisticdude
+CLKATK   # Artisticdude
+CLKDTH   # Artisticdude
+CLKPAI   # Artisticdude
+CLKSIT   # Artisticdude
 DORCLS   # Jute Gyte
 DORMOV   # Jute Gyte
 DOROPN   # Jute Gyte
@@ -163,7 +163,7 @@ HEDPAI   # * PLACE HOLDER *
 HEDSIT   # * PLACE HOLDER *
 HRNHIT   # Jute Gyte
 HRNPOW   # * PLACE HOLDER *
-HRNSHT   # * PLACE HOLDER *
+HRNSHT   # Artisticdude
 IMPAT1   # * PLACE HOLDER *
 IMPAT2   # Jute
 IMPDTH   # * PLACE HOLDER *
@@ -205,9 +205,9 @@ PODEXP   # Jute
 PSTART   # Jute Gyte
 PSTOP    # Jute Gyte
 RAMPHIT  # * PLACE HOLDER *
-RAMRAIN  # * PLACE HOLDER *
+RAMRAIN  # Artisticdude
 RESPAWN  # Jute Gyte
-RIPSLOP  # * PLACE HOLDER *
+RIPSLOP  # Artisticdude
 SBTACT   # * PLACE HOLDER *
 SBTDTH   # * PLACE HOLDER *
 SBTPAI   # * PLACE HOLDER *
@@ -238,7 +238,7 @@ WIZATK   # Jute Gyte
 WIZDTH   # * PLACE HOLDER *
 WIZPAI   # * PLACE HOLDER *
 WIZSIT   # * PLACE HOLDER *
-WPNUP    # Jute Gyte
+WPNUP    # Artisticdude
 
 [graphics]
 ADVISOR  -260 -15 # Stilgar
