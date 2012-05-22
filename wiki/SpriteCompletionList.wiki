@@ -76,3 +76,22 @@ _NB: this list has not been finished yet_
  * E2 end boss / miniboss 2 (high power attacks): <font color="#FF0000">MNTR</font>
  * E3 end boss / final boss (phase 1): <font color="#FF0000">SRCR</font>
  * E3 end boss / final boss (phase 2): <font color="#FF0000">SOR2</font>
+
+== Decor ==
+Single frame unless otherwise noted.
+ * Barrel: <font color="#008800">BARL</font>
+ * 128-tall Pillar: <font color="#0000FF">BRPL</font>
+ * Large gob of ceiling moss: <font color="#008800">MOS1</font>
+ * Small gob of ceiling moss: <font color="#008800">MOS2</font>
+ * Large stalactite: <font color="#008800">STCL</font>
+ * Small stalactite: <font color="#008800">STCS</font>
+ * Large stalagmite: <font color="#008800">STGL</font>
+ * Small stalagmite: <font color="#008800">STGS</font>
+ * Hanged corpse: <font color="#008800">HCOR</font>
+ * Chandelier: <font color="#0000FF">CHDL</font> (3 frames candle flicker)
+ * Big floor brazier: <font color="#0000FF">KFR1</font> (8 frames flame burning)
+ * Locked door markers: <font color="#008800">KGZ1, KGZB, KGZG, KGZY</font>
+ * Hanging skulls: <font color="#008800">SKH1, SKH2, SKH3, SKH4</font>
+ * Small statue thing: <font color="#0000FF">SMPL</font>
+ * Torch on a stick: <font color="#008800">SRTC</font> (3 frames burning>
+ * Torch on the wall: <font color="#008800">WTRH</font> (3 frames burning>
