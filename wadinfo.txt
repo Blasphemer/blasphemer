@@ -30,28 +30,28 @@ AUTOPAGE # GreyGhost
 LANGUAGE # Stilgar 
 EXTENDED # Stilgar
 BLASPHEM # Empty tag lump
-MUS_E1M1 BLAS15  # Jute Gyte
-MUS_E1M2 BLAS04X  # Jute Gyte
-MUS_E1M3 BLAS01X  # Jute Gyte
-MUS_E1M4 BLAS07X  # Jute Gyte
-MUS_E1M5 BLAS11  # Jute Gyte
-MUS_E1M6 BLAS09X  # Jute Gyte
-MUS_E1M7 BLAS05X  # Jute Gyte
-MUS_E1M8 BLAS07  # Jute Gyte
-MUS_E1M9 BLAS11X  # Jute Gyte
-MUS_E2M1 BLAS06  # Jute Gyte
-MUS_E2M2 BLAS08X  # Jute Gyte
-MUS_E2M3 BLAS09  # Jute Gyte
-MUS_E2M4 BLAS10X  # Jute Gyte
-MUS_E2M6 BLAS13X  # Jute Gyte
-MUS_E2M7 BLAS17  # Jute Gyte
-MUS_E2M8 BLAS18X  # Jute Gyte
-MUS_E2M9 BLAS12X  # Jute Gyte
-MUS_E3M2 BLAS19  # Jute Gyte
+MUS_E1M1 BLAS01X  # Jute Gyte
+MUS_E1M2 BLAS02  # Jute Gyte
+MUS_E1M3 BLAS03  # Jute Gyte
+MUS_E1M4 BLAS04X  # Jute Gyte
+MUS_E1M5 BLAS05X  # Jute Gyte
+MUS_E1M6 BLAS06  # Jute Gyte
+MUS_E1M7 BLAS07X  # Jute Gyte
+MUS_E1M8 BLAS08X  # Jute Gyte
+MUS_E1M9 BLAS09X  # Jute Gyte
+MUS_E2M1 BLAS10X  # Jute Gyte
+MUS_E2M2 BLAS11X  # Jute Gyte
+MUS_E2M3 BLAS12X  # Jute Gyte
+MUS_E2M4 BLAS13X  # Jute Gyte
+MUS_E2M6 BLAS15  # Jute Gyte
+MUS_E2M7 BLAS16  # Jute Gyte
+MUS_E2M8 BLAS17  # Jute Gyte
+MUS_E2M9 BLAS18X  # Jute Gyte
+MUS_E3M2 BLAS19X  # Jute Gyte
 MUS_E3M3 BLAS20X  # Jute Gyte
 MUS_TITL BLAS21  # Jute Gyte
-MUS_CPTD BLAS22X  # Jute Gyte
-MUS_INTR BLAS14X  # Jute Gyte
+MUS_CPTD BLAS22X  # Jute Gyte (Episode complete music)
+MUS_INTR BLAS14X  # Jute Gyte (Level complete music)
 
 [levels]
 E1M3      # Snarboo
