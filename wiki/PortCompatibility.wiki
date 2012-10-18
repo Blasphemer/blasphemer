@@ -19,6 +19,7 @@ The following ports do not have required features to support Blasphemer:
   * Chocolate-Heretic    - No limit removal
   * HHeretic             - Sound issues, no limit removal
   * Eternity             - Incomplete support of Heretic features
+  * PrBoom               - Not a Heretic port
 
 We have no information on running Blasphemer under the following ports:
   * Legacy
