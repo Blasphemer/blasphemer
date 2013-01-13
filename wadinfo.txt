@@ -1585,10 +1585,10 @@ GAUNK0   0 0 # * PH *
 GAUNL0   0 0 # * PH *
 GAUNM0   0 0 # * PH *
 GAUNN0   0 0 # * PH *
-GWNDA0   -142 -126 # Clebardman
-GWNDB0   -142 -125 # Clebardman
-GWNDC0   -142 -119 # Clebardman
-GWNDD0   -142 -126 # Clebardman
+GWNDA0   -140 -96 # Blox
+GWNDB0   -139 -87 # Blox
+GWNDC0   -136 -78 # Blox
+GWNDD0   -132 -72 # Blox
 HRODA0   -70 -103 # Eriance
 HRODB0   -70 -103 # Eriance
 HRODC0   -70 -103 # Eriance
