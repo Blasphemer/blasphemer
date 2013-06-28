@@ -21,8 +21,8 @@ The following ports do not have required features to support Blasphemer:
   * Eternity             - Incomplete support of Heretic features
 
 We have no information on running Blasphemer under the following ports, but will be investigated soon:
-  * Legacy
-  * WHeretic
+  * Legacy (Only tested partially).
+  * WHeretic (Doesn't seem to load for me).
 
 Blasphemer is planned to have support for the following ports in the future if it proves feasible, but currently does not:
 
