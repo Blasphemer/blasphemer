@@ -21,7 +21,7 @@ The following ports do not have required features to support Blasphemer:
   * Eternity             - Incomplete support of Heretic features
 
 We have no information on running Blasphemer under the following ports, but will be investigated soon:
-  * Legacy (Only tested partially as a wad not an IWAD). Wand sound seems to play very quietly).
+  * Legacy (Only tested partially as a wad not an IWAD). Wand sound seems to play very quietly in comparison to other ports.
   * WHeretic (Doesn't seem to load for me as a wad). Haven't tested as an IWAD yet.
 
 Blasphemer is planned to have support for the following ports in the future if it proves feasible, but currently does not:
