@@ -50,9 +50,9 @@
   * <font color="#0000FF">E4M2</font>
   * <font color="#0000FF">E4M3</font>
   * <font color="#0000FF">E4M4</font>
-  * <font color="#FF0000">E4M5</font>
-  * <font color="#FF0000">E4M6</font>
-  * <font color="#FF0000">E4M7</font>
+  * <font color="#888800">E4M5</font>Springy
+  * <font color="#888800">E4M6</font>Springy
+  * <font color="#888800">E4M7</font>Springy
   * <font color="#FF0000">E4M8</font>
   * <font color="#FF0000">E4M9</font>
 ===E5===
