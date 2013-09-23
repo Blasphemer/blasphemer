@@ -14,7 +14,7 @@ This is a general guideline of what the major goals for each version are.  Contr
     * Still needed: Weapons 1a, 1b, 2, 6, 7
   * Full set of weapon sounds: Partial
   * Full set of environment/decoration sprites: Partial
-    * Still needed: Lava balls from volcano, complete sprites for exploding pod
+    * Still needed: Lava balls from volcano (has been some work done but needs improvement), complete sprites for exploding pod
   * Full set of ambient and environmental sounds: Partial
     * Still needed: Volcano sounds
 
