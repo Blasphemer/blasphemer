@@ -15,7 +15,7 @@
 
 == SP Slots ==
 ===E1===
-  * <font color="#FF0000">E1M1</font>
+  *  <font color="#888800">E1M1</font>Cacowad
   * <font color="#FF0000">E1M2</font>
   * <font color="#0000FF">E1M3</font> ~
   * <font color="#FF0000">E1M4</font>
