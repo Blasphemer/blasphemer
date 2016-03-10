@@ -6,8 +6,9 @@ Those interested in contributing should check the "Wiki" and "Issues" sections f
 
 It is preferable to handle bug reports via the "Issues" section of this site rather than forum posts elsewhere.
 
-Forum: http://teamhellspawn.com/phpBB2/viewforum.php?f=15
-IRC: irc.zandronum.com #Blasphemer
+Forum: http://teamhellspawn.com/phpBB2/viewforum.php?f=15  
+IRC: irc.zandronum.com #Blasphemer  
+Doomworld thread: https://www.doomworld.com/vb/freedoom/70732-blasphemer-discussion/
 
 Screenshots:
 
