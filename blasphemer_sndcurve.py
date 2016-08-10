@@ -9,7 +9,7 @@ Volume = 127
 Fader = 0
 
 # Prepare the output file, if we can't, skip the main loop.
-with open('sndcurve.lmp', 'w') as OutFile:
+with open('lumps/sndcurve.lmp', 'w') as OutFile:
     # Loop out each byte
     # This could probably be done neater with "or" statements...
     # However, I'm less than sure how complex if/and/or works in Python!
