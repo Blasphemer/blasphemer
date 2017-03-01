@@ -54,37 +54,37 @@ MUS_CPTD BLAS22X  # Jute Gyte (Episode complete music)
 MUS_INTR BLAS14X  # Jute Gyte (Level complete music)
 
 [levels]
-E1M1	  # Angry Saint
-E1M2  	  # Cacowad
-E1M3      # SFoZ911
-E1M4      # Steve Parker
-E1M5      # Snarboo
-E1M6      # Philippe lesire
-E1M7      # Ryathaen
-E1M8      # Brad Kiefer
-E1M9 PH
-E2M1      # Owen "Sarge Baldy" Lloyd (Bugfixed)
-E2M2      # Chris Lutz
-E2M3      # Samian and Cacowad
-E2M4      # Ryathaen
-E2M5      # Brad Kiefer
-E2M6      # Brad Kiefer
-E2M7      # Cacowad
-E2M8      # Cacowad
-E2M9 PH
-E3M1 PH
-E3M2 PH
-E3M3 PH
+E1M1 dm11     # Protox
+E1M2 dm12     # Protox
+E1M3 dm13     # Protox
+E1M4 dm14     # Protox
+E1M5 dm15     # Protox
+E1M6 dm16     # Protox
+E1M7 dm17     # Original by Jute, edited by Protox
+E1M8 dm18     # Original by Rellik, edited by Protox
+E1M9 dm19     # Original by Protox, edited by Cacowad
+E2M1 dm21     # Cacowad
+E2M2 dm22     # Cacowad
+E2M3 dm23     # Cacowad
+E2M4 dm24     # Cacowad
+E2M5 dm25     # Cacowad
+E2M6 dm26     # Cacowad
+E2M7 dm27     # Cacowad
+E2M8 dm28     # Cacowad
+E2M9 dm29     # Original by Rellik, edited by Cacowad
+E3M1 dm31     # Protox
+E3M2 dm32     # Protox
+E3M3 dm33     # Protox
 E3M4 PH
 E3M5 PH
 E3M6 PH
 E3M7 PH
 E3M8 PH
 E3M9 PH
-E4M1 DM1 # Jute Gyte
-E4M2 DM2 # Rellik (Conversion by Jute)
-E4M3 DM3 # Rellik (Conversion by Jute)
-E4M4 DM4 # Hellbent (Conversion by Jute)
+E4M1 PH
+E4M2 PH
+E4M3 PH
+E4M4 PH
 E4M5 PH
 E4M6 PH
 E4M7 PH
