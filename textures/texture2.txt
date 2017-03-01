@@ -391,6 +391,6 @@ WOODSL11        128     128
 *       WOODSL11        0       0
 WALL531        64     128
 *       WALL531        0       0
-WLCRA01        64     128
-*       WLCRA01        0       0
+WLCRAT01        64     128
+*       WLCRAT01        0       0
 ; End

@@ -1137,7 +1137,6 @@ HEADB2B8  24 64 # Nightfang (FreeDoom)
 HEADB3B7  24 64 # Nightfang (FreeDoom)
 HEADB4B6  24 64 # Nightfang (FreeDoom)
 HEADB5  24 64 # Nightfang (FreeDoom)
-HEADB0  24 64 # Nightfang (FreeDoom)
 HEADC0  24 64 # Nightfang (FreeDoom)
 HEADD0  24 64 # Nightfang (FreeDoom)
 HEADE0  24 64 # Nightfang (FreeDoom)
@@ -1146,39 +1145,38 @@ HEADG0  24 64 # Nightfang (FreeDoom)
 HEADH0  24 64 # Nightfang (FreeDoom)
 HEADI0  24 64 # Nightfang (FreeDoom)
 IMPXA1  24 64 # Cwolf
-IMPXA2A8  24 64 # Cwolf
-IMPXA3A7  24 64 # Cwolf
-IMPXA4A6  24 64 # Cwolf
+IMPXA8A2  24 64 # Cwolf
+IMPXA7A3  24 64 # Cwolf
+IMPXA6A4  24 64 # Cwolf
 IMPXA5  24 64 # Cwolf
-IMPXB1  24 64 # Cwolf
-IMPXB2B8  24 64 # Cwolf
-IMPXB3B7  24 64 # Cwolf
-IMPXB4B6  24 64 # Cwolf
+IMPXB8B2  24 64 # Cwolf
+IMPXB7B3  24 64 # Cwolf
+IMPXB6B4  24 64 # Cwolf
 IMPXB5  24 64 # Cwolf
 IMPXC1  24 64 # Cwolf
-IMPXC2C8  24 64 # Cwolf
-IMPXC3C7  24 64 # Cwolf
-IMPXC4C6  24 64 # Cwolf
+IMPXC8C2  24 64 # Cwolf
+IMPXC7C3  24 64 # Cwolf
+IMPXC6C4  24 64 # Cwolf
 IMPXC5  24 64 # Cwolf
 IMPXD1  24 64 # Cwolf
-IMPXD2D8  24 64 # Cwolf
-IMPXD3D7  24 64 # Cwolf
-IMPXD4D6  24 64 # Cwolf
+IMPXD8D2  24 64 # Cwolf
+IMPXD7D3  24 64 # Cwolf
+IMPXD6D4  24 64 # Cwolf
 IMPXD5  24 64 # Cwolf
 IMPXE1  24 64 # Cwolf
-IMPXE2E8  24 64 # Cwolf
-IMPXE3E7  24 64 # Cwolf
-IMPXE4E6  24 64 # Cwolf
+IMPXE8E2  24 64 # Cwolf
+IMPXE7E3  24 64 # Cwolf
+IMPXE6E4  24 64 # Cwolf
 IMPXE5  24 64 # Cwolf
 IMPXF1  24 64 # Cwolf
-IMPXF2F8  24 64 # Cwolf
-IMPXF3F7  24 64 # Cwolf
-IMPXF4F6  24 64 # Cwolf
+IMPXF8F2  24 64 # Cwolf
+IMPXF7F3  24 64 # Cwolf
+IMPXF6F4  24 64 # Cwolf
 IMPXF5  24 64 # Cwolf
 IMPXG1  24 64 # Cwolf
-IMPXG2G8  24 64 # Cwolf
-IMPXG3G7  24 64 # Cwolf
-IMPXG4G6  24 64 # Cwolf
+IMPXG8G2  24 64 # Cwolf
+IMPXG7G3  24 64 # Cwolf
+IMPXG6G4  24 64 # Cwolf
 IMPXG5  24 64 # Cwolf
 IMPXH0  24 64 # Cwolf
 IMPXI0  24 64 # Cwolf
@@ -1556,19 +1554,19 @@ FDTHP0   0 0 # * PLACE HOLDER *
 FDTHQ0   0 0 # * PLACE HOLDER *
 FDTHR0   0 0 # * PLACE HOLDER *
 FRB1A1   13 34 # Espi
-FRB1A2A8   13 34 # Espi
-FRB1A3A7   13 34 # Espi
-FRB1A4A6   13 34 # Espi
+FRB1A8A2   13 34 # Espi
+FRB1A7A3   13 34 # Espi
+FRB1A6A4   13 34 # Espi
 FRB1A5   13 34 # Espi
 FRB1B1   13 34 # Espi
-FRB1B2B8   13 34 # Espi
-FRB1B3B7   13 34 # Espi
-FRB1B4B6   13 34 # Espi
+FRB1B8B2   13 34 # Espi
+FRB1B7B3   13 34 # Espi
+FRB1B6B4   13 34 # Espi
 FRB1B5   13 34 # Espi
 FRB1C1   13 34 # Espi
-FRB1C2C8   13 34 # Espi
-FRB1C3C7   13 34 # Espi
-FRB1C4C6   13 34 # Espi
+FRB1C8C2   13 34 # Espi
+FRB1C7C3   13 34 # Espi
+FRB1C6C4   13 34 # Espi
 FRB1C5   13 34 # Espi
 FRB1D0   0 0 # Espi
 FRB1E0   0 0 # Espi
@@ -1624,7 +1622,11 @@ FX03G0   0 0 # * PLACE HOLDER *
 FX03H0   11 10 # Leilei
 FX03I0   21 17 # Leilei
 FX03J0   26 8 # Leilei
-FX04A0   0 0 # * PLACE HOLDER *
+FX04A1   0 0 # Eriance
+FX04A2A8   0 0 # Eriance
+FX04A3A7   0 0 # Eriance
+FX04A4A6   0 0 # Eriance
+FX04A5   0 0 # Eriance
 FX04B0   0 0 # * PLACE HOLDER *
 FX04C0   0 0 # * PLACE HOLDER *
 FX04D0   0 0 # * PLACE HOLDER *
@@ -1897,7 +1899,6 @@ PHNXA0   0 0 # Eriance
 PHNXB0   0 0 # Eriance
 PHNXC0   0 0 # Eriance
 PHNXD0   0 0 # Eriance
-
 PLAYA1  24 64 # Reinaldo "Horror Movie Guy"
 PLAYA2A8  24 64 # Reinaldo "Horror Movie Guy"
 PLAYA3A7  24 64 # Reinaldo "Horror Movie Guy"
@@ -1933,32 +1934,32 @@ PLAYG2G8  24 64 # Reinaldo "Horror Movie Guy"
 PLAYG3G7  24 64 # Reinaldo "Horror Movie Guy"
 PLAYG4G6  24 64 # Reinaldo "Horror Movie Guy"
 PLAYG5  24 64 # Reinaldo "Horror Movie Guy"
-PLAYH0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYI0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYJ0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYK0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYL0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYM0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYN0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYO0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYP0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYQ0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYR0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYS0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYT0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYU0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYV0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYW0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYX0   0 0 # Reinaldo "Horror Movie Guy"
-PLAYY0   0 0 # Reinaldo "Horror Movie Guy"
+PLAYH0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYI0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYJ0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYK0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYL0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYM0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYN0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYO0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYP0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYQ0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYR0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYS0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYT0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYU0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYV0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYW0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYX0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYY0   24 64 # Reinaldo "Horror Movie Guy"
 PPODA0   23 40 # Stilgar
 PPODB0   23 40 # Stilgar
-PPODC0   0 0 # (FreeDoom Team)
-PPODD0   0 0 # (FreeDoom Team)
-PPODE0   0 0 # (FreeDoom Team)
-PPODF0   0 0 # (FreeDoom Team)
-PPODG0   0 0 # Stilgar
-PPODH0   0 0 # Stilgar
+PPODC0   23 40 # (FreeDoom Team)
+PPODD0   23 40 # (FreeDoom Team)
+PPODE0   23 40 # (FreeDoom Team)
+PPODF0   23 40 # (FreeDoom Team)
+PPODG0   23 40 # Stilgar
+PPODH0   23 40 # Stilgar
 PPODI0   23 40 # Stilgar
 PPODJ0   23 40 # Stilgar
 PPODK0   23 40 # Stilgar
@@ -2003,9 +2004,9 @@ RAXEB2B8   0 0 # BigProjectAlone
 RAXEB3B7   0 0 # BigProjectAlone 
 RAXEB4B6   0 0 # BigProjectAlone 
 RAXEB5   0 0 # BigProjectAlone 
-FX15C0   0 0 # BigProjectAlone
-FX15D0   0 0 # BigProjectAlone
-FX15E0   0 0 # BigProjectAlone
+RAXEC0   0 0 # BigProjectAlone
+RAXED0   0 0 # BigProjectAlone
+RAXEE0   0 0 # BigProjectAlone
 SDTHA0   0 0 # * PLACE HOLDER *
 SDTHB0   0 0 # * PLACE HOLDER *
 SDTHC0   0 0 # * PLACE HOLDER *
