@@ -1,3 +1,40 @@
+0.1.4 > 0.1.5
++ Angry Saint's "Death of the Blasphemer" map (currently E1M1)
++ Cacowad's "Grim awakening" map (currently E1M2)
++ SFoZ911's "Town of Aquafort" map (currently E1M3)
++ Steve Parker's "The Sewers" map (currently E1M4)
+* Snarboo's "forgotten Stronghld" moved to E1M5
++ Philippe Lesire's "Khazad-dum" map (currently E1M6)
++ Paul Corfiatis's "Lucifer Spell" map (currently E1M7)
++ Brad Kiefer's "Bravado" map (currently E1M8)
++ Chris Lutz's "Torture" map (currently E2M2)
++ Samian and Cacowad's "Evil Ruins" map (currently E2M3)
+* Ryathaen "White citadel" moved to E2M4
++ Brad Kiefer's "Breeze" map (currently E2M5)
++ Brad Kiefer's "Brave" map (currently E2M6)
++ Cacowad's "Fiery domus" map (currently E2M7)
++ Cacowad's "Obsidian fort" map (currently E2M8)
++ Graphics for torch.
+* Added missing hud graphics: flight artifact, chaos device, morph ovum.
++ Graphics for Sabreclaw, Weredragon, Lich, Knight, Golem, Imp, Ophidian.
++ Graphics for Phoenix staff, Firemace, Staff.
+* New wand replacement by Blox.
++ Placeholder lava splash.
++ Placeholder big ammo for wand, lesser and big ammo for Phoenix staff.
++ Filled missing Gasbag's frames.
++ Graphics for player (barring morphed).
++ Sounds: STFHIT, BLSSHT, PHOSHT, PHOPOW, RAMPHIT, RAMRAIN, BOUNCE, HRNSHT, 
+  STFCRK, IMPAT1, IMPDTH, IMPPAI, IMPSIT, PHOHIT, HRNSHT, MUMPAI, MUMSIT, MUMDTH, 
+  MUMAT1, MUMHED, HRNPOW, WIZSIT, HEDAT1, HEDAT2, HEDAT3, LOBHIT, BLSHIT, LOBPOW,
+  BSTACT, BSTDTH, BSTPAI, BSTSIT, BURN, CHICACT, CHICATK, CHICDTH, CHICPAI, 
+  CHICPK1, CHICPK2, CHICPK3, GIBDTH, HEDACT, HEDDTH, HEDPAI, HEDSIT, PLRCDTH, 
+  PLRWDTH, RIPSLOP.
+* new playpal, colormap and tinttab.
++ Dummy multiplayer portraits.
++ New flats.
++ Two new textures.
+* Updated texture2 lump.
+
 0.1.3b > 0.1.4
 * Darker, swampier FLTSLUD*
 
