@@ -966,7 +966,7 @@ VTFBA0 6 6 # Stilgar
 VTFBB0 6 6 # Stilgar
 WBLSA0 11  45   # Eriance
 WBOWA0 21 38   # Stilgar
-WGNTA0 7 25    # Eriance
+WGNTA0 15 52    # Eriance
 WMCEA0 21 27   # Eriance
 WPHXA0 15 25   # Eriance
 WSKLA0 18 45   # Stilgar
@@ -980,18 +980,18 @@ ACLOE0 0 0  # * PLACE HOLDER *
 AMB2A0 8 13  # * PLACE HOLDER *
 AMB2B0 8 13  # * PLACE HOLDER *
 AMB2C0 8 13  # * PLACE HOLDER *
-AMG2A0 0 0  # * PLACE HOLDER *
-AMG2B0 0 0  # * PLACE HOLDER *
-AMG2C0 0 0  # * PLACE HOLDER *
-AMP1A0 0 0  # * PLACE HOLDER *
-AMP1B0 0 0  # * PLACE HOLDER *
-AMP1C0 0 0  # * PLACE HOLDER *
-AMP2A0 0 0  # * PLACE HOLDER *
-AMP2B0 0 0  # * PLACE HOLDER *
-AMP2C0 0 0  # * PLACE HOLDER *
-ARTIATLP -7 -5 # Stilgar
-ARTIEGGC 0 0 # * PLACE HOLDER *
-ARTIFBMB 0 0 # * PLACE HOLDER *
+AMG2A0 8 13  # * PLACE HOLDER *
+AMG2B0 8 13  # * PLACE HOLDER *
+AMG2C0 8 13  # * PLACE HOLDER *
+AMP1A0 6 13  # * PLACE HOLDER *
+AMP1B0 6 13  # * PLACE HOLDER *
+AMP1C0 6 13  # * PLACE HOLDER *
+AMP2A0 8 13  # * PLACE HOLDER *
+AMP2B0 8 13  # * PLACE HOLDER *
+AMP2C0 8 13  # * PLACE HOLDER *
+ARTIATLP -2 -2 # Stilgar
+ARTIEGGC -8 -5 # * PLACE HOLDER *
+ARTIFBMB -4 -4 # * PLACE HOLDER *
 ARTIINVS -2 -1 # Stilgar
 ARTIINVU -5 -4 # Stilgar
 ARTIPTN2 -6 -5   # Stilgar
@@ -1004,68 +1004,68 @@ ATLPB0   12 35 # Stilgar
 ATLPC0   12 35 # Stilgar
 BEAKA0   0 0 # * PLACE HOLDER *
 #Monsters
-BEASA1  24 64 # Scuba Steve
+BEASA1  28 64 # Scuba Steve
 BEASA2A8  24 64 # Scuba Steve
 BEASA3A7  24 64 # Scuba Steve
-BEASA4A6  24 64 # Scuba Steve
-BEASA5  24 64 # Scuba Steve
-BEASB1  24 64 # Scuba Steve
-BEASB2B8  24 64 # Scuba Steve
-BEASB3B7  24 64 # Scuba Steve
-BEASB4B6  24 64 # Scuba Steve
-BEASB5  24 64 # Scuba Steve
-BEASC1  24 64 # Scuba Steve
-BEASC2C8  24 64 # Scuba Steve
-BEASC3C7  24 64 # Scuba Steve
-BEASC4C6  24 64 # Scuba Steve
-BEASC5  24 64 # Scuba Steve
-BEASD1  24 64 # Scuba Steve
+BEASA4A6  36 64 # Scuba Steve
+BEASA5  28 64 # Scuba Steve
+BEASB1  28 64 # Scuba Steve
+BEASB2B8  36 64 # Scuba Steve
+BEASB3B7  36 64 # Scuba Steve
+BEASB4B6  36 64 # Scuba Steve
+BEASB5  28 64 # Scuba Steve
+BEASC1  28 64 # Scuba Steve
+BEASC2C8  36 64 # Scuba Steve
+BEASC3C7  36 64 # Scuba Steve
+BEASC4C6  36 64 # Scuba Steve
+BEASC5  28 64 # Scuba Steve
+BEASD1  28 64 # Scuba Steve
 BEASD2D8  24 64 # Scuba Steve
 BEASD3D7  24 64 # Scuba Steve
-BEASD4D6  24 64 # Scuba Steve
-BEASD5  24 64 # Scuba Steve
-BEASE1  24 64 # Scuba Steve
-BEASE2E8  24 64 # Scuba Steve
-BEASE3E7  24 64 # Scuba Steve
-BEASE4E6  24 64 # Scuba Steve
-BEASE5  24 64 # Scuba Steve
-BEASF1  24 64 # Scuba Steve
-BEASF2F8  24 64 # Scuba Steve
-BEASF3F7  24 64 # Scuba Steve
-BEASF4F6  24 64 # Scuba Steve
-BEASF5  24 64 # Scuba Steve
-BEASG1  24 64 # Scuba Steve (FreeDoom)
+BEASD4D6  36 64 # Scuba Steve
+BEASD5  28 64 # Scuba Steve
+BEASE1  28 64 # Scuba Steve
+BEASE2E8  36 64 # Scuba Steve
+BEASE3E7  36 64 # Scuba Steve
+BEASE4E6  36 64 # Scuba Steve
+BEASE5  28 64 # Scuba Steve
+BEASF1  28 64 # Scuba Steve
+BEASF2F8  36 64 # Scuba Steve
+BEASF3F7  36 64 # Scuba Steve
+BEASF4F6  36 64 # Scuba Steve
+BEASF5  28 64 # Scuba Steve
+BEASG1  28 64 # Scuba Steve (FreeDoom)
 BEASG2G8  24 64 # Scuba Steve (FreeDoom)
 BEASG3G7  24 64 # Scuba Steve (FreeDoom)
-BEASG4G6  24 64 # Scuba Steve (FreeDoom)
-BEASG5  24 64 # Scuba Steve (FreeDoom)
-BEASH1  24 64 # Scuba Steve (FreeDoom)
+BEASG4G6  36 64 # Scuba Steve (FreeDoom)
+BEASG5  28 64 # Scuba Steve (FreeDoom)
+BEASH1  28 64 # Scuba Steve (FreeDoom)
 BEASH2H8  24 64 # Scuba Steve (FreeDoom)
 BEASH3H7  24 64 # Scuba Steve (FreeDoom)
-BEASH4H6  24 64 # Scuba Steve (FreeDoom)
-BEASH5  24 64 # Scuba Steve (FreeDoom)
-BEASI1  24 64 # Scuba Steve (FreeDoom)
+BEASH4H6  36 64 # Scuba Steve (FreeDoom)
+BEASH5  28 64 # Scuba Steve (FreeDoom)
+BEASI1  28 64 # Scuba Steve (FreeDoom)
 BEASI2I8  24 64 # Scuba Steve (FreeDoom)
 BEASI3I7  24 64 # Scuba Steve (FreeDoom)
-BEASI4I6  24 64 # Scuba Steve (FreeDoom)
-BEASI5  24 64 # Scuba Steve
-BEASJ0  24 64 # Scuba Steve
-BEASK0  24 64 # Scuba Steve
-BEASL0  24 64 # Scuba Steve
-BEASM0  24 64 # Scuba Steve
-BEASN0  24 64 # Scuba Steve
-BEASO0  24 64 # Scuba Steve
-BEASP0  24 64 # Scuba Steve
-BEASQ0  24 64 # Scuba Steve
-BEASR0  24 64 # Scuba Steve
-BEASS0  24 64 # Scuba Steve
-BEAST0  24 64 # Scuba Steve
-BEASU0  24 64 # Scuba Steve
-BEASV0  24 64 # Scuba Steve
-BEASW0  24 64 # Scuba Steve
-BEASX0  24 64 # Scuba Steve
-BEASY0  24 64 # Scuba Steve
-BEASZ0  24 64 # Scuba Steve
+BEASI4I6  36 64 # Scuba Steve (FreeDoom)
+BEASI5  28 64 # Scuba Steve
+BEASJ0  28 64 # Scuba Steve
+BEASK0  28 64 # Scuba Steve
+BEASL0  28 64 # Scuba Steve
+BEASM0  28 64 # Scuba Steve
+BEASN0  28 64 # Scuba Steve
+BEASO0  28 64 # Scuba Steve
+BEASP0  28 64 # Scuba Steve
+BEASQ0  28 64 # Scuba Steve
+BEASR0  28 64 # Scuba Steve
+BEASS0  28 64 # Scuba Steve
+BEAST0  28 64 # Scuba Steve
+BEASU0  28 64 # Scuba Steve
+BEASV0  28 64 # Scuba Steve
+BEASW0  28 64 # Scuba Steve
+BEASX0  28 64 # Scuba Steve
+BEASY0  28 64 # Scuba Steve
+BEASZ0  28 64 # Scuba Steve
 CHKNA0 PH_M  24 64 # * PLACE HOLDER *
 CHKNB0 PH_M  24 64 # * PLACE HOLDER *
 CHKNC0 PH_M  24 64 # * PLACE HOLDER *
@@ -1083,70 +1083,70 @@ CHKNN0 PH  24 64 # * PLACE HOLDER *
 CHKNO0 PH  24 64 # * PLACE HOLDER *
 CHKNP0 PH  24 64 # * PLACE HOLDER *
 CHKNQ0 PH  24 64 # * PLACE HOLDER *
-CLNKA1  24 64 # BigProjectAlone
-CLNKA2A8  24 64 # BigProjectAlone
-CLNKA3A7  24 64 # BigProjectAlone
-CLNKA4A6  24 64 # BigProjectAlone
-CLNKA5  24 64 # BigProjectAlone
-CLNKB1  24 64 # BigProjectAlone
-CLNKB2B8  24 64 # BigProjectAlone
-CLNKB3B7  24 64 # BigProjectAlone
-CLNKB4B6  24 64 # BigProjectAlone
-CLNKB5  24 64 # BigProjectAlone
-CLNKC1  24 64 # BigProjectAlone
-CLNKC2C8  24 64 # BigProjectAlone
-CLNKC3C7  24 64 # BigProjectAlone
-CLNKC4C6  24 64 # BigProjectAlone
+CLNKA1  40 69 # BigProjectAlone
+CLNKA2A8  30 70 # BigProjectAlone
+CLNKA3A7  29 70 # BigProjectAlone
+CLNKA4A6  25 70 # BigProjectAlone
+CLNKA5  37 67 # BigProjectAlone
+CLNKB1  24 69 # BigProjectAlone
+CLNKB2B8  30 65 # BigProjectAlone
+CLNKB3B7  29 65 # BigProjectAlone
+CLNKB4B6  28 64 # BigProjectAlone
+CLNKB5  24 69 # BigProjectAlone
+CLNKC1  39 68 # BigProjectAlone
+CLNKC2C8  30 67 # BigProjectAlone
+CLNKC3C7  28 67 # BigProjectAlone
+CLNKC4C6  26 64 # BigProjectAlone
 CLNKC5  24 64 # BigProjectAlone
-CLNKD1  24 64 # BigProjectAlone
-CLNKD2D8  24 64 # BigProjectAlone
-CLNKD3D7  24 64 # BigProjectAlone
-CLNKD4D6  24 64 # BigProjectAlone
-CLNKD5  24 64 # BigProjectAlone
-CLNKE1  24 64 # BigProjectAlone
+CLNKD1  37 70 # BigProjectAlone
+CLNKD2D8  30 67 # BigProjectAlone
+CLNKD3D7  23 65 # BigProjectAlone
+CLNKD4D6  27 66 # BigProjectAlone
+CLNKD5  37 67 # BigProjectAlone
+CLNKE1  44 67 # BigProjectAlone
 CLNKE2E8  24 64 # BigProjectAlone
-CLNKE3E7  24 64 # BigProjectAlone
-CLNKE4E6  24 64 # BigProjectAlone
-CLNKE5  24 64 # BigProjectAlone
-CLNKF1  24 64 # BigProjectAlone
-CLNKF2F8  24 64 # BigProjectAlone
-CLNKF3F7  24 64 # BigProjectAlone
-CLNKF4F6  24 64 # BigProjectAlone
-CLNKF5  24 64 # BigProjectAlone
-CLNKG1  24 64 # BigProjectAlone
-CLNKG2G8  24 64 # BigProjectAlone
-CLNKG3G7  24 64 # BigProjectAlone
-CLNKG4G6  24 64 # BigProjectAlone
-CLNKG5  24 64 # BigProjectAlone
+CLNKE3E7  26 64 # BigProjectAlone
+CLNKE4E6  29 66 # BigProjectAlone
+CLNKE5  38 68 # BigProjectAlone
+CLNKF1  37 69 # BigProjectAlone
+CLNKF2F8  31 70 # BigProjectAlone
+CLNKF3F7  37 68 # BigProjectAlone
+CLNKF4F6  26 67 # BigProjectAlone
+CLNKF5  37 69 # BigProjectAlone
+CLNKG1  39 69 # BigProjectAlone
+CLNKG2G8  29 69 # BigProjectAlone
+CLNKG3G7  30 68 # BigProjectAlone
+CLNKG4G6  27 66 # BigProjectAlone
+CLNKG5  37 69 # BigProjectAlone
 CLNKH1  24 64 # BigProjectAlone
-CLNKH2H8  24 64 # BigProjectAlone
-CLNKH3H7  24 64 # BigProjectAlone
-CLNKH4H6  24 64 # BigProjectAlone
-CLNKH5  24 64 # BigProjectAlone
-CLNKI0  24 64 # BigProjectAlone
-CLNKJ0  24 64 # BigProjectAlone
-CLNKK0  24 64 # BigProjectAlone
-CLNKL0  24 64 # BigProjectAlone
-CLNKM0  24 64 # BigProjectAlone
-CLNKN0  24 64 # BigProjectAlone
-CLNKO0  24 64 # BigProjectAlone
-HEADA1  24 64 # Nightfang (FreeDoom)
-HEADA2A8  24 64 # Nightfang (FreeDoom)
-HEADA3A7  24 64 # Nightfang (FreeDoom)
-HEADA4A6  24 64 # Nightfang (FreeDoom)
-HEADA5  24 64 # Nightfang (FreeDoom)
-HEADB1  24 64 # Nightfang (FreeDoom)
-HEADB2B8  24 64 # Nightfang (FreeDoom)
-HEADB3B7  24 64 # Nightfang (FreeDoom)
-HEADB4B6  24 64 # Nightfang (FreeDoom)
-HEADB5  24 64 # Nightfang (FreeDoom)
-HEADC0  24 64 # Nightfang (FreeDoom)
-HEADD0  24 64 # Nightfang (FreeDoom)
-HEADE0  24 64 # Nightfang (FreeDoom)
-HEADF0  24 64 # Nightfang (FreeDoom)
-HEADG0  24 64 # Nightfang (FreeDoom)
-HEADH0  24 64 # Nightfang (FreeDoom)
-HEADI0  24 64 # Nightfang (FreeDoom)
+CLNKH2H8  30 67 # BigProjectAlone
+CLNKH3H7  23 65 # BigProjectAlone
+CLNKH4H6  27 66 # BigProjectAlone
+CLNKH5  37 67 # BigProjectAlone
+CLNKI0  35 60 # BigProjectAlone
+CLNKJ0  39 69 # BigProjectAlone
+CLNKK0  43 67 # BigProjectAlone
+CLNKL0  44 67 # BigProjectAlone
+CLNKM0  39 45 # BigProjectAlone
+CLNKN0  39 38 # BigProjectAlone
+CLNKO0  39 38 # BigProjectAlone
+HEADA1  30 84 # Nightfang (FreeDoom)
+HEADA2A8  27 84 # Nightfang (FreeDoom)
+HEADA3A7  26 83 # Nightfang (FreeDoom)
+HEADA4A6  28 83 # Nightfang (FreeDoom)
+HEADA5  28 83 # Nightfang (FreeDoom)
+HEADB1  59 75 # Nightfang (FreeDoom)
+HEADB2B8  29 75 # Nightfang (FreeDoom)
+HEADB3B7  58 76 # Nightfang (FreeDoom)
+HEADB4B6  28 75 # Nightfang (FreeDoom)
+HEADB5  28 79 # Nightfang (FreeDoom)
+HEADC0  29 76 # Nightfang (FreeDoom)
+HEADD0  29 69 # Nightfang (FreeDoom)
+HEADE0  29 59 # Nightfang (FreeDoom)
+HEADF0  29 53 # Nightfang (FreeDoom)
+HEADG0  29 50 # Nightfang (FreeDoom)
+HEADH0  29 38 # Nightfang (FreeDoom)
+HEADI0  27 38 # Nightfang (FreeDoom)
 IMPXA1  24 64 # Cwolf
 IMPXA8A2  24 64 # Cwolf
 IMPXA7A3  24 64 # Cwolf
@@ -1182,96 +1182,96 @@ IMPXG8G2  24 64 # Cwolf
 IMPXG7G3  24 64 # Cwolf
 IMPXG6G4  24 64 # Cwolf
 IMPXG5  24 64 # Cwolf
-IMPXH0  24 64 # Cwolf
-IMPXI0  24 64 # Cwolf
-IMPXJ0  24 64 # Cwolf
-IMPXK0  24 64 # Cwolf
-IMPXL0  24 64 # Cwolf
-IMPXM0  24 64 # Cwolf
-IMPXN0  24 64 # Cwolf
-IMPXO0  24 64 # Cwolf
-IMPXP0  24 64 # Cwolf
-IMPXQ0  24 64 # Cwolf
-IMPXR0  24 64 # Cwolf
-IMPXS0  24 64 # Cwolf
-IMPXT0  24 64 # Cwolf
-IMPXU0  24 64 # Cwolf
-IMPXV0  24 64 # Cwolf
-IMPXW0  24 64 # Cwolf
-IMPXX0  24 64 # Cwolf
-IMPXY0  24 64 # Cwolf
-IMPXZ0  24 64 # Cwolf
-KNIGA1  24 64 # Leileilol (FreeDoom)
-KNIGA2  24 64 # Leileilol (FreeDoom)
-KNIGA3  24 64 # Leileilol (FreeDoom)
-KNIGA4  24 64 # Leileilol (FreeDoom)
-KNIGA5  24 64 # Leileilol (FreeDoom)
-KNIGA6  24 64 # Leileilol (FreeDoom)
-KNIGA7  24 64 # Leileilol (FreeDoom)
-KNIGA8  24 64 # Leileilol (FreeDoom)
-KNIGB1  24 64 # Leileilol (FreeDoom)
-KNIGB2  24 64 # Leileilol (FreeDoom)
-KNIGB3  24 64 # Leileilol (FreeDoom)
-KNIGB4  24 64 # Leileilol (FreeDoom)
-KNIGB5  24 64 # Leileilol (FreeDoom)
-KNIGB6  24 64 # Leileilol (FreeDoom)
-KNIGB7  24 64 # Leileilol (FreeDoom)
-KNIGB8  24 64 # Leileilol (FreeDoom)
-KNIGC1  24 64 # Leileilol (FreeDoom)
-KNIGC2  24 64 # Leileilol (FreeDoom)
-KNIGC3  24 64 # Leileilol (FreeDoom)
-KNIGC4  24 64 # Leileilol (FreeDoom)
-KNIGC5  24 64 # Leileilol (FreeDoom)
-KNIGC6  24 64 # Leileilol (FreeDoom)
-KNIGC7  24 64 # Leileilol (FreeDoom)
-KNIGC8  24 64 # Leileilol (FreeDoom)
-KNIGD1  24 64 # Leileilol (FreeDoom)
-KNIGD2  24 64 # Leileilol (FreeDoom)
-KNIGD3  24 64 # Leileilol (FreeDoom)
-KNIGD4  24 64 # Leileilol (FreeDoom)
-KNIGD5  24 64 # Leileilol (FreeDoom)
-KNIGD6  24 64 # Leileilol (FreeDoom)
-KNIGD7  24 64 # Leileilol (FreeDoom)
-KNIGD8  24 64 # Leileilol (FreeDoom)
-KNIGE1  24 64 # Leileilol (FreeDoom)
-KNIGE2  24 64 # Leileilol (FreeDoom)
-KNIGE3  24 64 # Leileilol (FreeDoom)
-KNIGE4  24 64 # Leileilol (FreeDoom)
-KNIGE5  24 64 # Leileilol (FreeDoom)
-KNIGE6  24 64 # Leileilol (FreeDoom)
-KNIGE7  24 64 # Leileilol (FreeDoom)
-KNIGE8  24 64 # Leileilol (FreeDoom)
-KNIGF1  24 64 # Leileilol (FreeDoom)
-KNIGF2  24 64 # Leileilol (FreeDoom)
-KNIGF3  24 64 # Leileilol (FreeDoom)
-KNIGF4  24 64 # Leileilol (FreeDoom)
-KNIGF5  24 64 # Leileilol (FreeDoom)
-KNIGF6  24 64 # Leileilol (FreeDoom)
-KNIGF7  24 64 # Leileilol (FreeDoom)
-KNIGF8  24 64 # Leileilol (FreeDoom)
-KNIGG1  24 64 # Leileilol (FreeDoom)
-KNIGG2  24 64 # Leileilol (FreeDoom)
-KNIGG3  24 64 # Leileilol (FreeDoom)
-KNIGG4  24 64 # Leileilol (FreeDoom)
-KNIGG5  24 64 # Leileilol (FreeDoom)
-KNIGG6  24 64 # Leileilol (FreeDoom)
-KNIGG7  24 64 # Leileilol (FreeDoom)
-KNIGG8  24 64 # Leileilol (FreeDoom)
-KNIGH1  24 64 # Leileilol (FreeDoom)
-KNIGH2  24 64 # Leileilol (FreeDoom)
-KNIGH3  24 64 # Leileilol (FreeDoom)
-KNIGH4  24 64 # Leileilol (FreeDoom)
-KNIGH5  24 64 # Leileilol (FreeDoom)
-KNIGH6  24 64 # Leileilol (FreeDoom)
-KNIGH7  24 64 # Leileilol (FreeDoom)
-KNIGH8  24 64 # Leileilol (FreeDoom)
-KNIGI0  24 64 # Leileilol (FreeDoom)
-KNIGJ0  24 64 # Leileilol (FreeDoom)
-KNIGK0  24 64 # Leileilol (FreeDoom)
-KNIGL0  24 64 # Leileilol (FreeDoom)
-KNIGM0  24 64 # Leileilol (FreeDoom)
-KNIGN0  24 64 # Leileilol (FreeDoom)
-KNIGO0  24 64 # Leileilol (FreeDoom)
+IMPXH0  9 9 # Cwolf
+IMPXI0  9 9 # Cwolf
+IMPXJ0  9 9 # Cwolf
+IMPXK0  9 9 # Cwolf
+IMPXL0  9 9 # Cwolf
+IMPXM0  9 9 # Cwolf
+IMPXN0  9 9 # Cwolf
+IMPXO0  9 9 # Cwolf
+IMPXP0  9 9 # Cwolf
+IMPXQ0  9 9 # Cwolf
+IMPXR0  9 9 # Cwolf
+IMPXS0  9 9 # Cwolf
+IMPXT0  9 9 # Cwolf
+IMPXU0  9 9 # Cwolf
+IMPXV0  9 9 # Cwolf
+IMPXW0  9 9 # Cwolf
+IMPXX0  9 9 # Cwolf
+IMPXY0  9 9 # Cwolf
+IMPXZ0  9 9 # Cwolf
+KNIGA1  21 83 # Leileilol (FreeDoom)
+KNIGA2  17 83 # Leileilol (FreeDoom)
+KNIGA3  12 83 # Leileilol (FreeDoom)
+KNIGA4  17 83 # Leileilol (FreeDoom)
+KNIGA5  20 84 # Leileilol (FreeDoom)
+KNIGA6  19 83 # Leileilol (FreeDoom)
+KNIGA7  31 83 # Leileilol (FreeDoom)
+KNIGA8  27 83 # Leileilol (FreeDoom)
+KNIGB1  19 83 # Leileilol (FreeDoom)
+KNIGB2  26 83 # Leileilol (FreeDoom)
+KNIGB3  24 83 # Leileilol (FreeDoom)
+KNIGB4  18 82 # Leileilol (FreeDoom)
+KNIGB5  20 82 # Leileilol (FreeDoom)
+KNIGB6  32 82 # Leileilol (FreeDoom)
+KNIGB7  33 83 # Leileilol (FreeDoom)
+KNIGB8  26 85 # Leileilol (FreeDoom)
+KNIGC1  21 83 # Leileilol (FreeDoom)
+KNIGC2  17 83 # Leileilol (FreeDoom)
+KNIGC3  12 83 # Leileilol (FreeDoom)
+KNIGC4  17 83 # Leileilol (FreeDoom)
+KNIGC5  20 84 # Leileilol (FreeDoom)
+KNIGC6  18 83 # Leileilol (FreeDoom)
+KNIGC7  31 83 # Leileilol (FreeDoom)
+KNIGC8  27 83 # Leileilol (FreeDoom)
+KNIGD1  19 83 # Leileilol (FreeDoom)
+KNIGD2  26 83 # Leileilol (FreeDoom)
+KNIGD3  24 83 # Leileilol (FreeDoom)
+KNIGD4  18 82 # Leileilol (FreeDoom)
+KNIGD5  20 82 # Leileilol (FreeDoom)
+KNIGD6  32 82 # Leileilol (FreeDoom)
+KNIGD7  33 83 # Leileilol (FreeDoom)
+KNIGD8  26 85 # Leileilol (FreeDoom)
+KNIGE1  24 83 # Leileilol (FreeDoom)
+KNIGE2  24 84 # Leileilol (FreeDoom)
+KNIGE3  24 84 # Leileilol (FreeDoom)
+KNIGE4  23 84 # Leileilol (FreeDoom)
+KNIGE5  23 81 # Leileilol (FreeDoom)
+KNIGE6  32 82 # Leileilol (FreeDoom)
+KNIGE7  32 84 # Leileilol (FreeDoom)
+KNIGE8  24 84 # Leileilol (FreeDoom)
+KNIGF1  20 75 # Leileilol (FreeDoom)
+KNIGF2  20 75 # Leileilol (FreeDoom)
+KNIGF3  18 76 # Leileilol (FreeDoom)
+KNIGF4  21 75 # Leileilol (FreeDoom)
+KNIGF5  20 73 # Leileilol (FreeDoom)
+KNIGF6  21 75 # Leileilol (FreeDoom)
+KNIGF7  18 76 # Leileilol (FreeDoom)
+KNIGF8  20 75 # Leileilol (FreeDoom)
+KNIGG1  19 78 # Leileilol (FreeDoom)
+KNIGG2  22 79 # Leileilol (FreeDoom)
+KNIGG3  28 79 # Leileilol (FreeDoom)
+KNIGG4  20 80 # Leileilol (FreeDoom)
+KNIGG5  19 79 # Leileilol (FreeDoom)
+KNIGG6  19 80 # Leileilol (FreeDoom)
+KNIGG7  17 79 # Leileilol (FreeDoom)
+KNIGG8  17 79 # Leileilol (FreeDoom)
+KNIGH1  36 77 # Leileilol (FreeDoom)
+KNIGH2  29 79 # Leileilol (FreeDoom)
+KNIGH3  22 78 # Leileilol (FreeDoom)
+KNIGH4  30 80 # Leileilol (FreeDoom)
+KNIGH5  27 81 # Leileilol (FreeDoom)
+KNIGH6  30 80 # Leileilol (FreeDoom)
+KNIGH7  22 78 # Leileilol (FreeDoom)
+KNIGH8  29 79 # Leileilol (FreeDoom)
+KNIGI0  36 85 # Leileilol (FreeDoom)
+KNIGJ0  28 79 # Leileilol (FreeDoom)
+KNIGK0  24 73 # Leileilol (FreeDoom)
+KNIGL0  37 58 # Leileilol (FreeDoom)
+KNIGM0  40 38 # Leileilol (FreeDoom)
+KNIGN0  40 21 # Leileilol (FreeDoom)
+KNIGO0  40 21 # Leileilol (FreeDoom)
 MNTRA0 PH_M  24 64 # * PLACE HOLDER *
 MNTRB0 PH_M  24 64 # * PLACE HOLDER *
 MNTRC0 PH_M  24 64 # * PLACE HOLDER *
@@ -1298,54 +1298,54 @@ MNTRW0 PH_M  24 64 # * PLACE HOLDER *
 MNTRX0 PH_M  24 64 # * PLACE HOLDER *
 MNTRY0 PH_M  24 64 # * PLACE HOLDER *
 MNTRZ0 PH_M  24 64 # * PLACE HOLDER *
-MUMMA1  24 64 # BigProjectAlone
-MUMMA2A8  24 64 # BigProjectAlone
-MUMMA3A7  24 64 # BigProjectAlone
-MUMMA4A6  24 64 # BigProjectAlone
-MUMMA5  24 64 # BigProjectAlone
-MUMMB1  24 64 # BigProjectAlone
-MUMMB2B8  24 64 # BigProjectAlone
-MUMMB3B7  24 64 # BigProjectAlone
-MUMMB4B6  24 64 # BigProjectAlone
-MUMMB5  24 64 # BigProjectAlone
-MUMMC1  24 64 # BigProjectAlone
-MUMMC2C8  24 64 # BigProjectAlone
-MUMMC3C7  24 64 # BigProjectAlone
-MUMMC4C6  24 64 # BigProjectAlone
-MUMMC5  24 64 # BigProjectAlone
-MUMMD1  24 64 # BigProjectAlone
-MUMMD2D8  24 64 # BigProjectAlone
-MUMMD3D7  24 64 # BigProjectAlone
-MUMMD4D6  24 64 # BigProjectAlone
-MUMMD5  24 64 # BigProjectAlone
-MUMME1  24 64 # BigProjectAlone
-MUMME2E8  24 64 # BigProjectAlone
-MUMME3E7  24 64 # BigProjectAlone
-MUMME4E6  24 64 # BigProjectAlone
-MUMME5  24 64 # BigProjectAlone
-MUMMF1  24 64 # BigProjectAlone
-MUMMF2F8  24 64 # BigProjectAlone
-MUMMF3F7  24 64 # BigProjectAlone
-MUMMF4F6  24 64 # BigProjectAlone
-MUMMF5  24 64 # BigProjectAlone
-MUMMG1  24 64 # BigProjectAlone
-MUMMG2G8  24 64 # BigProjectAlone
-MUMMG3G7  24 64 # BigProjectAlone
-MUMMG4G6  24 64 # BigProjectAlone
-MUMMG5  24 64 # BigProjectAlone
-MUMMH1  24 64 # BigProjectAlone
-MUMMH2H8  24 64 # BigProjectAlone
-MUMMH3H7  24 64 # BigProjectAlone
-MUMMH4H6  24 64 # BigProjectAlone
-MUMMH5  24 64 # BigProjectAlone
-MUMMI0  24 64 # BigProjectAlone
-MUMMJ0  24 64 # BigProjectAlone
-MUMMK0  24 64 # BigProjectAlone
-MUMML0  24 64 # BigProjectAlone
-MUMMM0  24 64 # BigProjectAlone
-MUMMN0  24 64 # BigProjectAlone
-MUMMO0  24 64 # BigProjectAlone
-MUMMP0  24 64 # BigProjectAlone
+MUMMA1  33 58 # BigProjectAlone
+MUMMA2A8  30 60 # BigProjectAlone
+MUMMA3A7  30 60 # BigProjectAlone
+MUMMA4A6  23 57 # BigProjectAlone
+MUMMA5  25 58 # BigProjectAlone
+MUMMB1  31 61 # BigProjectAlone
+MUMMB2B8  31 54 # BigProjectAlone
+MUMMB3B7  27 57 # BigProjectAlone
+MUMMB4B6  24 54 # BigProjectAlone
+MUMMB5  25 57 # BigProjectAlone
+MUMMC1  31 59 # BigProjectAlone
+MUMMC2C8  26 56 # BigProjectAlone
+MUMMC3C7  27 59 # BigProjectAlone
+MUMMC4C6  27 55 # BigProjectAlone
+MUMMC5  27 56 # BigProjectAlone
+MUMMD1  30 58 # BigProjectAlone
+MUMMD2D8  19 56 # BigProjectAlone
+MUMMD3D7  24 57 # BigProjectAlone
+MUMMD4D6  25 53 # BigProjectAlone
+MUMMD5  24 59 # BigProjectAlone
+MUMME1  44 57 # BigProjectAlone
+MUMME2E8  29 56 # BigProjectAlone
+MUMME3E7  23 55 # BigProjectAlone
+MUMME4E6  24 55 # BigProjectAlone
+MUMME5  29 63 # BigProjectAlone
+MUMMF1  38 59 # BigProjectAlone
+MUMMF2F8  31 60 # BigProjectAlone
+MUMMF3F7  28 62 # BigProjectAlone
+MUMMF4F6  23 57 # BigProjectAlone
+MUMMF5  37 59 # BigProjectAlone
+MUMMG1  28 55 # BigProjectAlone
+MUMMG2G8  25 58 # BigProjectAlone
+MUMMG3G7  24 58 # BigProjectAlone
+MUMMG4G6  24 57 # BigProjectAlone
+MUMMG5  33 59 # BigProjectAlone
+MUMMH1  26 58 # BigProjectAlone
+MUMMH2H8  18 56 # BigProjectAlone
+MUMMH3H7  24 55 # BigProjectAlone
+MUMMH4H6  22 53 # BigProjectAlone
+MUMMH5  24 59 # BigProjectAlone
+MUMMI0  26 56 # BigProjectAlone
+MUMMJ0  40 54 # BigProjectAlone
+MUMMK0  46 72 # BigProjectAlone
+MUMML0  43 58 # BigProjectAlone
+MUMMM0  44 56 # BigProjectAlone
+MUMMN0  46 33 # BigProjectAlone
+MUMMO0  46 33 # BigProjectAlone
+MUMMP0  46 33 # BigProjectAlone
 MUMMQ0 PH  24 64 # * PLACE HOLDER *
 MUMMR0 PH  24 64 # * PLACE HOLDER *
 MUMMS0 PH  24 64 # * PLACE HOLDER *
@@ -1353,56 +1353,56 @@ MUMMT0 PH  24 64 # * PLACE HOLDER *
 MUMMU0 PH  24 64 # * PLACE HOLDER *
 MUMMV0 PH  24 64 # * PLACE HOLDER *
 MUMMW0 PH  24 64 # * PLACE HOLDER *
-MUMMX1  24 64 # BigProjectAlone
-MUMMX2X8  24 64 # BigProjectAlone
-MUMMX3X7  24 64 # BigProjectAlone
-MUMMX4X6  24 64 # BigProjectAlone
-MUMMX5  24 64 # BigProjectAlone
-MUMMY1  24 64 # BigProjectAlone
-MUMMY2Y8  24 64 # BigProjectAlone
-MUMMY3Y7  24 64 # BigProjectAlone
-MUMMY4Y6  24 64 # BigProjectAlone
-MUMMY5  24 64 # BigProjectAlone
-SNKEA1  24 64 # Nightfang (FreeDoom)
-SNKEA2A8  24 64 # Nightfang (FreeDoom)
-SNKEA3A7  24 64 # Nightfang (FreeDoom)
-SNKEA4A6  24 64 # Nightfang (FreeDoom)
-SNKEA5  24 64 # Nightfang (FreeDoom)
-SNKEB1  24 64 # Nightfang (FreeDoom)
-SNKEB2B8  24 64 # Nightfang (FreeDoom)
-SNKEB3B7  24 64 # Nightfang (FreeDoom)
-SNKEB4B6  24 64 # Nightfang (FreeDoom)
-SNKEB5  24 64 # Nightfang (FreeDoom)
-SNKEC1  24 64 # Nightfang (FreeDoom)
-SNKEC2C8  24 64 # Nightfang (FreeDoom)
-SNKEC3C7  24 64 # Nightfang (FreeDoom)
-SNKEC4C6  24 64 # Nightfang (FreeDoom)
-SNKEC5  24 64 # Nightfang (FreeDoom)
-SNKED1  24 64 # Nightfang (FreeDoom)
-SNKED2D8  24 64 # Nightfang (FreeDoom)
-SNKED3D7  24 64 # Nightfang (FreeDoom)
-SNKED4D6  24 64 # Nightfang (FreeDoom)
-SNKED5  24 64 # Nightfang (FreeDoom)
-SNKEE1  24 64 # Nightfang (FreeDoom)
-SNKEE2E8  24 64 # Nightfang (FreeDoom)
-SNKEE3E7  24 64 # Nightfang (FreeDoom)
-SNKEE4E6  24 64 # Nightfang (FreeDoom)
-SNKEE5  24 64 # Nightfang (FreeDoom)
-SNKEF1  24 64 # Nightfang (FreeDoom)
-SNKEF2F8  24 64 # Nightfang (FreeDoom)
-SNKEF3F7  24 64 # Nightfang (FreeDoom)
-SNKEF4F6  24 64 # Nightfang (FreeDoom)
-SNKEF5  24 64 # Nightfang (FreeDoom)
-SNKEG0  24 64 # Nightfang (FreeDoom)
-SNKEH0  24 64 # Nightfang (FreeDoom)
-SNKEI0  24 64 # Nightfang (FreeDoom)
-SNKEJ0  24 64 # Nightfang (FreeDoom)
-SNKEK0  24 64 # Nightfang (FreeDoom)
-SNKEL0  24 64 # Nightfang (FreeDoom)
-SNKEM0  24 64 # Nightfang (FreeDoom)
-SNKEN0  24 64 # Nightfang (FreeDoom)
-SNKEO0  24 64 # Nightfang (FreeDoom)
-SNKEP0  24 64 # Nightfang (FreeDoom)
+MUMMX1  28 55 # BigProjectAlone
+MUMMX2X8  25 58 # BigProjectAlone
+MUMMX3X7  24 58 # BigProjectAlone
+MUMMX4X6  24 57 # BigProjectAlone
+MUMMX5  33 59 # BigProjectAlone
+MUMMY1  38 59 # BigProjectAlone
+MUMMY2Y8  31 60 # BigProjectAlone
+MUMMY3Y7  28 62 # BigProjectAlone
+MUMMY4Y6  23 57 # BigProjectAlone
+MUMMY5  37 59 # BigProjectAlone
+SNKEA1  31 59 # Nightfang (FreeDoom)
+SNKEA2A8  23 62 # Nightfang (FreeDoom)
+SNKEA3A7  28 56 # Nightfang (FreeDoom)
+SNKEA4A6  31 53 # Nightfang (FreeDoom)
+SNKEA5  30 53 # Nightfang (FreeDoom)
+SNKEB1  19 64 # Nightfang (FreeDoom)
+SNKEB2B8  21 65 # Nightfang (FreeDoom)
+SNKEB3B7  28 62 # Nightfang (FreeDoom)
+SNKEB4B6  33 61 # Nightfang (FreeDoom)
+SNKEB5  16 65 # Nightfang (FreeDoom)
+SNKEC1  22 63 # Nightfang (FreeDoom)
+SNKEC2C8  23 63 # Nightfang (FreeDoom)
+SNKEC3C7  28 61 # Nightfang (FreeDoom)
+SNKEC4C6  23 58 # Nightfang (FreeDoom)
+SNKEC5  30 57 # Nightfang (FreeDoom)
+SNKED1  18 61 # Nightfang (FreeDoom)
+SNKED2D8  19 62 # Nightfang (FreeDoom)
+SNKED3D7  24 59 # Nightfang (FreeDoom)
+SNKED4D6  26 58 # Nightfang (FreeDoom)
+SNKED5  18 58 # Nightfang (FreeDoom)
+SNKEE1  38 60 # Nightfang (FreeDoom)
+SNKEE2E8  21 64 # Nightfang (FreeDoom)
+SNKEE3E7  26 62 # Nightfang (FreeDoom)
+SNKEE4E6  27 63 # Nightfang (FreeDoom)
+SNKEE5  31 52 # Nightfang (FreeDoom)
+SNKEF1  26 53 # Nightfang (FreeDoom)
+SNKEF2F8  19 57 # Nightfang (FreeDoom)
+SNKEF3F7  33 53 # Nightfang (FreeDoom)
+SNKEF4F6  30 53 # Nightfang (FreeDoom)
+SNKEF5  17 46 # Nightfang (FreeDoom)
+SNKEG0  37 60 # Nightfang (FreeDoom)
+SNKEH0  34 59 # Nightfang (FreeDoom)
+SNKEI0  28 57 # Nightfang (FreeDoom)
+SNKEJ0  23 45 # Nightfang (FreeDoom)
+SNKEK0  35 33 # Nightfang (FreeDoom)
+SNKEL0  35 33 # Nightfang (FreeDoom)
+SNKEM0  35 33 # Nightfang (FreeDoom)
+SNKEN0  35 33 # Nightfang (FreeDoom)
+SNKEO0  35 33 # Nightfang (FreeDoom)
+SNKEP0  35 33 # Nightfang (FreeDoom)
 SOR2A0 PH_M  24 64 # * PLACE HOLDER *
 SOR2B0 PH_M  24 64 # * PLACE HOLDER *
 SOR2C0 PH_M  24 64 # * PLACE HOLDER *
@@ -1526,37 +1526,37 @@ CKYYF0   6 25 # Stilgar
 CKYYG0   6 25 # Stilgar
 CKYYH0   6 25 # Stilgar
 CKYYI0   6 25 # Stilgar
-EGGCA0   0 0 # * PLACE HOLDER *
-EGGCB0   0 0 # * PLACE HOLDER *
-EGGCC0   0 0 # * PLACE HOLDER *
-EGGMA0   0 0 # * PLACE HOLDER *
-EGGMB0   0 0 # * PLACE HOLDER *
-EGGMC0   0 0 # * PLACE HOLDER *
-EGGMD0   0 0 # * PLACE HOLDER *
-EGGME0   0 0 # * PLACE HOLDER *
+EGGCA0   6 20 # * PLACE HOLDER *
+EGGCB0   6 20 # * PLACE HOLDER *
+EGGCC0   6 20 # * PLACE HOLDER *
+EGGMA0   6 20 # * PLACE HOLDER *
+EGGMB0   6 20 # * PLACE HOLDER *
+EGGMC0   6 20 # * PLACE HOLDER *
+EGGMD0   6 20 # * PLACE HOLDER *
+EGGME0   6 20 # * PLACE HOLDER *
 FBMBA0   13 34 # Stilgar
 FBMBB0   0 0 # * PLACE HOLDER *
 FBMBC0   0 0 # * PLACE HOLDER *
 FBMBD0   0 0 # * PLACE HOLDER *
 FBMBE0 FBMBA0  13 34 # Stilgar
-FDTHA0   0 0 # * PLACE HOLDER *
-FDTHB0   0 0 # * PLACE HOLDER *
-FDTHC0   0 0 # * PLACE HOLDER *
-FDTHD0   0 0 # * PLACE HOLDER *
-FDTHE0   0 0 # * PLACE HOLDER *
-FDTHF0   0 0 # * PLACE HOLDER *
-FDTHG0   0 0 # * PLACE HOLDER *
-FDTHH0   0 0 # * PLACE HOLDER *
-FDTHI0   0 0 # * PLACE HOLDER *
-FDTHJ0   0 0 # * PLACE HOLDER *
-FDTHK0   0 0 # * PLACE HOLDER *
-FDTHL0   0 0 # * PLACE HOLDER *
-FDTHM0   0 0 # * PLACE HOLDER *
-FDTHN0   0 0 # * PLACE HOLDER *
-FDTHO0   0 0 # * PLACE HOLDER *
-FDTHP0   0 0 # * PLACE HOLDER *
-FDTHQ0   0 0 # * PLACE HOLDER *
-FDTHR0   0 0 # * PLACE HOLDER *
+FDTHA0   14 46 # * PLACE HOLDER *
+FDTHB0   15 50 # * PLACE HOLDER *
+FDTHC0   17 46 # * PLACE HOLDER *
+FDTHD0   19 48 # * PLACE HOLDER *
+FDTHE0   13 48 # * PLACE HOLDER *
+FDTHF0   14 47 # * PLACE HOLDER *
+FDTHG0   14 47 # * PLACE HOLDER *
+FDTHH0   17 41 # * PLACE HOLDER *
+FDTHI0   19 38 # * PLACE HOLDER *
+FDTHJ0   19 40 # * PLACE HOLDER *
+FDTHK0   18 36 # * PLACE HOLDER *
+FDTHL0   18 38 # * PLACE HOLDER *
+FDTHM0   22 26 # * PLACE HOLDER *
+FDTHN0   27 23 # * PLACE HOLDER *
+FDTHO0   28 15 # * PLACE HOLDER *
+FDTHP0   33 9 # * PLACE HOLDER *
+FDTHQ0   32 8 # * PLACE HOLDER *
+FDTHR0   32 8 # * PLACE HOLDER *
 FRB1A1   13 34 # Espi
 FRB1A8A2   13 34 # Espi
 FRB1A7A3   13 34 # Espi
@@ -1844,20 +1844,20 @@ FX23F0   0 0 # * PLACE HOLDER *
 FX23G0   0 0 # * PLACE HOLDER *
 FX23H0   0 0 # * PLACE HOLDER *
 FX23I0   0 0 # * PLACE HOLDER *
-GAUNA0   0 0 # Eriance
-GAUNB0   0 0 # Eriance
-GAUNC0   0 0 # Eriance
-GAUND0   0 0 # Eriance
-GAUNE0   0 0 # Eriance
-GAUNF0   0 0 # Eriance
-GAUNG0   0 0 # Eriance
-GAUNH0   0 0 # Eriance
-GAUNI0   0 0 # Eriance
-GAUNJ0   0 0 # Eriance
-GAUNK0   0 0 # Eriance
-GAUNL0   0 0 # Eriance
-GAUNM0   0 0 # Eriance
-GAUNN0   0 0 # Eriance
+GAUNA0   -110 -118 # Eriance
+GAUNB0   -103 -105 # Eriance
+GAUNC0   -96 -90 # Eriance
+GAUND0   -82 -69 # Eriance
+GAUNE0   -74 -63 # Eriance
+GAUNF0   -82 -65 # Eriance
+GAUNG0   -110 -118 # Eriance
+GAUNH0   -110 -118 # Eriance
+GAUNI0   -110 -118 # Eriance
+GAUNJ0   -103 -105 # Eriance
+GAUNK0   -96 -90 # Eriance
+GAUNL0   -82 -69 # Eriance
+GAUNM0   -74 -63 # Eriance
+GAUNN0   -82 -65 # Eriance
 GWNDA0   -140 -96 # Blox
 GWNDB0   -139 -87 # Blox
 GWNDC0   -136 -78 # Blox
@@ -1893,16 +1893,16 @@ LVASH0   0 0 # * PLACE HOLDER *
 LVASI0   0 0 # * PLACE HOLDER *
 LVASJ0   0 0 # * PLACE HOLDER *
 LVASK0   0 0 # * PLACE HOLDER *
-MACEA0	-109	-100 # Eriance
-MACEB0	-109	-100 # Eriance
-MACEC0	-109	-95  # Eriance
-MACED0	-109	-90  # Eriance
-MACEE0	-109	-95  # Eriance
-MACEF0	-109	-100 # Eriance
-PHNXA0   0 0 # Eriance
-PHNXB0   0 0 # Eriance
-PHNXC0   0 0 # Eriance
-PHNXD0   0 0 # Eriance
+MACEA0	-71	-100 # Eriance
+MACEB0	-81	-100 # Eriance
+MACEC0	-81	-95  # Eriance
+MACED0	-93	-86  # Eriance
+MACEE0	-93	-86  # Eriance
+MACEF0	-93	-81 # Eriance
+PHNXA0   -92 -86 # Eriance
+PHNXB0   -92 -86 # Eriance
+PHNXC0   -61 -73 # Eriance
+PHNXD0   -92 -92 # Eriance
 PLAYA1  24 64 # Reinaldo "Horror Movie Guy"
 PLAYA2A8  24 64 # Reinaldo "Horror Movie Guy"
 PLAYA3A7  24 64 # Reinaldo "Horror Movie Guy"
@@ -2086,14 +2086,14 @@ SPSHK0   16 10 # 40oz
 SRTCA0   7 63 # Stilgar
 SRTCB0   7 63 # Stilgar
 SRTCC0   7 63 # Stilgar
-STFFA0   0 0 # BigProjectAlone
-STFFB0   0 0 # BigProjectAlone
-STFFC0   0 0 # BigProjectAlone
-STFFD0   0 0 # BigProjectAlone
-STFFE0   0 0 # BigProjectAlone
-STFFF0   0 0 # BigProjectAlone
-STFFG0   0 0 # BigProjectAlone
-STFFH0   0 0 # BigProjectAlone
+STFFA0   -160 -116 # BigProjectAlone
+STFFB0   -170 -97 # BigProjectAlone
+STFFC0   -113 -80 # BigProjectAlone
+STFFD0   93 -96 # BigProjectAlone
+STFFE0   94 -97 # BigProjectAlone
+STFFF0   90 -98 # BigProjectAlone
+STFFG0   -171 -95 # BigProjectAlone
+STFFH0   -57 -25 # BigProjectAlone
 TELEA0   0 0 # * PLACE HOLDER *
 TELEB0   0 0 # * PLACE HOLDER *
 TELEC0   0 0 # * PLACE HOLDER *
@@ -2112,9 +2112,9 @@ TGLTG0   2 2 # Stilgar
 TGLTH0   3 3 # Stilgar
 TGLTI0   3 3 # Stilgar
 TGLTJ0   2 2 # Stilgar
-TRCHA0   0 0 # SuperSomariDX
-TRCHB0   0 0 # SuperSomariDX
-TRCHC0   0 0 # SuperSomariDX
+TRCHA0   12 59 # SuperSomariDX
+TRCHB0   12 58 # SuperSomariDX
+TRCHC0   12 58 # SuperSomariDX
 VLCOA0   16 24 # Warfare
 VLCOB0 VLCOA0  17 24 # Warfare
 VLCOC0 VLCOA0  16 23 # Warfare
