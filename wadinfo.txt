@@ -989,16 +989,16 @@ AMP1C0 5 12  # * PLACE HOLDER *
 AMP2A0 7 13  # * PLACE HOLDER *
 AMP2B0 7 13  # * PLACE HOLDER *
 AMP2C0 7 13  # * PLACE HOLDER *
-ARTIATLP -7 -5 # Stilgar
-ARTIEGGC 0 0 # * PLACE HOLDER *
-ARTIFBMB 0 0 # * PLACE HOLDER *
+ARTIATLP -1 -2 # Stilgar
+ARTIEGGC -8 -5 # * PLACE HOLDER *
+ARTIFBMB -1 -4 # * PLACE HOLDER *
 ARTIINVS -2 -1 # Stilgar
-ARTIINVU -5 -4 # Stilgar
+ARTIINVU -6 -4 # Stilgar
 ARTIPTN2 -6 -5   # Stilgar
-ARTIPWBK -4 -3 # Stilgar
-ARTISOAR 0 0 # * PLACE HOLDER *
-ARTISPHL -1 -3 # Stilgar
-ARTITRCH 0 0 # SuperSomariDX
+ARTIPWBK -3 -3 # Stilgar
+ARTISOAR 1 -9 # * PLACE HOLDER *
+ARTISPHL -5 -5 # Stilgar
+ARTITRCH -7 -3 # SuperSomariDX
 ATLPA0   12 35 # Stilgar
 ATLPB0   12 35 # Stilgar
 ATLPC0   12 35 # Stilgar
@@ -2112,7 +2112,7 @@ TGLTG0   2 2 # Stilgar
 TGLTH0   3 3 # Stilgar
 TGLTI0   3 3 # Stilgar
 TGLTJ0   2 2 # Stilgar
-TRCHA0   12 59 # SuperSomariDX
+TRCHA0   12 58 # SuperSomariDX
 TRCHB0   12 58 # SuperSomariDX
 TRCHC0   12 58 # SuperSomariDX
 VLCOA0   16 24 # Warfare
