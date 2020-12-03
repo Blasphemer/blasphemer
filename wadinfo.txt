@@ -324,22 +324,22 @@ BORDTL   0 0 # * PLACE HOLDER *
 BORDTR   0 0 # * PLACE HOLDER *
 BORDBL   0 0 # * PLACE HOLDER *
 BORDBR   0 0 # * PLACE HOLDER *
-SPINBK0  0 0 # * PLACE HOLDER *   
-SPINBK1  0 0 # * PLACE HOLDER *   
-SPINBK2  0 0 # * PLACE HOLDER *   
-SPINBK3  0 0 # * PLACE HOLDER *   
-SPINBK4  0 0 # * PLACE HOLDER *   
-SPINBK5  0 0 # * PLACE HOLDER *   
-SPINBK6  0 0 # * PLACE HOLDER *   
-SPINBK7  0 0 # * PLACE HOLDER *   
-SPINBK8  0 0 # * PLACE HOLDER *   
-SPINBK9  0 0 # * PLACE HOLDER *   
-SPINBK10 0 0 # * PLACE HOLDER *   
-SPINBK11 0 0 # * PLACE HOLDER *   
-SPINBK12 0 0 # * PLACE HOLDER *   
-SPINBK13 0 0 # * PLACE HOLDER *   
-SPINBK14 0 0 # * PLACE HOLDER *   
-SPINBK15 0 0 # * PLACE HOLDER * 
+SPINBK0  12 13 # BethOfDeath aka bpeterson   
+SPINBK1  11 13 # BethOfDeath aka bpeterson   
+SPINBK2  8 13 # BethOfDeath aka bpeterson   
+SPINBK3  8 13 # BethOfDeath aka bpeterson   
+SPINBK4  9 13 # BethOfDeath aka bpeterson   
+SPINBK5  12 13 # BethOfDeath aka bpeterson   
+SPINBK6  13 13 # BethOfDeath aka bpeterson   
+SPINBK7  12 13 # BethOfDeath aka bpeterson   
+SPINBK8  13 13 # BethOfDeath aka bpeterson   
+SPINBK9  12 13 # BethOfDeath aka bpeterson   
+SPINBK10 9 13 # BethOfDeath aka bpeterson   
+SPINBK11 5 13 # BethOfDeath aka bpeterson   
+SPINBK12 8 13 # BethOfDeath aka bpeterson   
+SPINBK13 10 13 # BethOfDeath aka bpeterson   
+SPINBK14 12 13 # BethOfDeath aka bpeterson   
+SPINBK15 12 13 # BethOfDeath aka bpeterson 
 SPFLY0   0 0 # * PLACE HOLDER *   
 SPFLY1   0 0 # * PLACE HOLDER *   
 SPFLY2   0 0 # * PLACE HOLDER *   
@@ -955,7 +955,7 @@ INVUD0 8  32   # Stilgar (WIP)
 PTN1A0 4  25   # Stilgar
 PTN1B0 4  25   # Stilgar
 PTN1C0 4  25   # Stilgar
-PWBKA0 11 33   # Stilgar
+PWBKA0 11 33   # Stilgar, partially recolored by BethOfDeath
 SHD2A0 14 43   # Stilgar
 SHLDA0 15 41   # Stilgar
 SOARA0 23 25   # Stilgar
@@ -980,18 +980,18 @@ ACLOE0 0 0  # * PLACE HOLDER *
 AMB2A0 8 13  # * PLACE HOLDER *
 AMB2B0 8 13  # * PLACE HOLDER *
 AMB2C0 8 13  # * PLACE HOLDER *
-AMG2A0 8 13  # * PLACE HOLDER *
-AMG2B0 8 13  # * PLACE HOLDER *
-AMG2C0 8 13  # * PLACE HOLDER *
-AMP1A0 6 13  # * PLACE HOLDER *
-AMP1B0 6 13  # * PLACE HOLDER *
-AMP1C0 6 13  # * PLACE HOLDER *
-AMP2A0 8 13  # * PLACE HOLDER *
-AMP2B0 8 13  # * PLACE HOLDER *
-AMP2C0 8 13  # * PLACE HOLDER *
-ARTIATLP -2 -2 # Stilgar
-ARTIEGGC -8 -5 # * PLACE HOLDER *
-ARTIFBMB -4 -4 # * PLACE HOLDER *
+AMG2A0 7 13  # * PLACE HOLDER *
+AMG2B0 7 13 # * PLACE HOLDER *
+AMG2C0 7 13  # * PLACE HOLDER *
+AMP1A0 5 12  # * PLACE HOLDER *
+AMP1B0 5 12  # * PLACE HOLDER *
+AMP1C0 5 12  # * PLACE HOLDER *
+AMP2A0 7 13  # * PLACE HOLDER *
+AMP2B0 7 13  # * PLACE HOLDER *
+AMP2C0 7 13  # * PLACE HOLDER *
+ARTIATLP -7 -5 # Stilgar
+ARTIEGGC 0 0 # * PLACE HOLDER *
+ARTIFBMB 0 0 # * PLACE HOLDER *
 ARTIINVS -2 -1 # Stilgar
 ARTIINVU -5 -4 # Stilgar
 ARTIPTN2 -6 -5   # Stilgar
@@ -1529,11 +1529,11 @@ CKYYI0   6 25 # Stilgar
 EGGCA0   6 20 # * PLACE HOLDER *
 EGGCB0   6 20 # * PLACE HOLDER *
 EGGCC0   6 20 # * PLACE HOLDER *
-EGGMA0   6 20 # * PLACE HOLDER *
-EGGMB0   6 20 # * PLACE HOLDER *
-EGGMC0   6 20 # * PLACE HOLDER *
-EGGMD0   6 20 # * PLACE HOLDER *
-EGGME0   6 20 # * PLACE HOLDER *
+EGGMA0   6 9 # * PLACE HOLDER *
+EGGMB0   6 9 # * PLACE HOLDER *
+EGGMC0   6 9 # * PLACE HOLDER *
+EGGMD0   6 9 # * PLACE HOLDER *
+EGGME0   6 9 # * PLACE HOLDER *
 FBMBA0   13 34 # Stilgar
 FBMBB0   0 0 # * PLACE HOLDER *
 FBMBC0   0 0 # * PLACE HOLDER *
@@ -1590,19 +1590,19 @@ FX00J0   15 18 # Leilei
 FX00K0   22 23 # Leilei
 FX00L0   25 27 # Leilei
 FX00M0   27 29 # Leilei
-FX01A0   0 0 # * PLACE HOLDER *
-FX01B0   0 0 # * PLACE HOLDER *
-FX01C0   0 0 # * PLACE HOLDER *
-FX01D0   0 0 # * PLACE HOLDER *
-FX01E0   0 0 # * PLACE HOLDER *
-FX01F0   0 0 # * PLACE HOLDER *
-FX01G0   0 0 # * PLACE HOLDER *
-FX01H0   0 0 # * PLACE HOLDER *
-FX02A0   0 0 # Protox
-FX02B0   0 0 # SuperSomariDX
-FX02C0   0 0 # Protox
-FX02D0   0 0 # SuperSomariDX
-FX02E0   0 0 # SuperSomariDX
+FX01A0   7 12 # BethOfDeath aka bpeterson
+FX01B0   7 12 # BethOfDeath aka bpeterson
+FX01C0   6 6 # BethOfDeath aka bpeterson
+FX01D0   7 7 # BethOfDeath aka bpeterson
+FX01E0   7 6 # BethOfDeath aka bpeterson
+FX01F0   8 8 # BethOfDeath aka bpeterson
+FX01G0   9 12 # BethOfDeath aka bpeterson
+FX01H0   9 12 # BethOfDeath aka bpeterson
+FX02A0   4 4 # Protox
+FX02B0   4 4 # SuperSomariDX
+FX02C0   8 8 # Protox
+FX02D0   8 8 # SuperSomariDX
+FX02E0   15 14 # SuperSomariDX
 FX02F0   0 0 # * PLACE HOLDER *
 FX02G0   0 0 # * PLACE HOLDER *
 FX02H0   0 0 # * PLACE HOLDER *
@@ -1857,11 +1857,11 @@ GAUNJ0   -103 -105 # Eriance
 GAUNK0   -96 -90 # Eriance
 GAUNL0   -82 -69 # Eriance
 GAUNM0   -74 -63 # Eriance
-GAUNN0   -82 -65 # Eriance
-GWNDA0   -140 -96 # Blox
-GWNDB0   -139 -87 # Blox
-GWNDC0   -136 -78 # Blox
-GWNDD0   -132 -72 # Blox
+GAUNN0   -82 -65 # Erianc
+GWNDA0   -139 -94 # BethOfDeath aka bpeterson
+GWNDB0   -139 -85 # BethOfDeath aka bpeterson
+GWNDC0   -139 -79 # BethOfDeath aka bpeterson
+GWNDD0   -139 -71 # BethOfDeath aka bpeterson
 HRODA0   -70 -103 # Eriance
 HRODB0   -70 -103 # Eriance
 HRODC0   -70 -103 # Eriance
@@ -1893,16 +1893,16 @@ LVASH0   0 0 # * PLACE HOLDER *
 LVASI0   0 0 # * PLACE HOLDER *
 LVASJ0   0 0 # * PLACE HOLDER *
 LVASK0   0 0 # * PLACE HOLDER *
-MACEA0	-71	-100 # Eriance
-MACEB0	-81	-100 # Eriance
-MACEC0	-81	-95  # Eriance
-MACED0	-93	-86  # Eriance
-MACEE0	-93	-86  # Eriance
-MACEF0	-93	-81 # Eriance
+MACEA0	-109	-100 # Eriance
+MACEB0	-109	-100 # Eriance
+MACEC0	-109	-95  # Eriance
+MACED0	-109	-90  # Eriance
+MACEE0	-109	-95  # Eriance
+MACEF0	-109	-100 # Eriance
 PHNXA0   -92 -86 # Eriance
 PHNXB0   -92 -86 # Eriance
-PHNXC0   -61 -73 # Eriance
-PHNXD0   -92 -92 # Eriance
+PHNXC0   -61 -76 # Eriance
+PHNXD0   -92 -90 # Eriance
 PLAYA1  24 64 # Reinaldo "Horror Movie Guy"
 PLAYA2A8  24 64 # Reinaldo "Horror Movie Guy"
 PLAYA3A7  24 64 # Reinaldo "Horror Movie Guy"
@@ -1983,11 +1983,11 @@ PUF1E0   0 0 # * PLACE HOLDER *
 PUF1F0   0 0 # * PLACE HOLDER *
 PUF1G0   0 0 # * PLACE HOLDER *
 PUF1H0   0 0 # * PLACE HOLDER *
-PUF2A0   7 7   # Stilgar
-PUF2B0   10 10 # Stilgar
-PUF2C0   13 14 # Stilgar
-PUF2D0   14 15 # Stilgar
-PUF2E0   15 16 # Stilgar
+PUF2A0   7 7   # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF2B0   10 10 # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF2C0   13 14 # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF2D0   14 15 # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF2E0   15 16 # Stilgar, recolored by BethOfDeath aka bpeterson
 PUF3A0   0 0 # * PLACE HOLDER *
 PUF3B0   0 0 # * PLACE HOLDER *
 PUF3C0   0 0 # * PLACE HOLDER *
