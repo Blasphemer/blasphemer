@@ -10,6 +10,8 @@ Forum: http://teamhellspawn.com/phpBB2/viewforum.php?f=15
 IRC: irc.zandronum.com #Blasphemer  
 Doomworld thread: https://www.doomworld.com/vb/freedoom/70732-blasphemer-discussion/
 
+Blasphemer is licensed under the BSD 3-clause: https://opensource.org/licenses/BSD-3-Clause
+
 Screenshots:
 
 ![http://www.jeshimoth.com/blas014_02.png](http://www.jeshimoth.com/blas014_02.png)
