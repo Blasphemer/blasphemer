@@ -169,13 +169,17 @@ SKULLSB1		64	128
 *	WALL40		0	0
 SKULLSB2		128	128
 *	WALL41		0	0
-SKY1			256	128
+SKY1			256	200
 *	SKY1		0	0
-SKY2                    256     128
+*	SKY1		0	0
+SKY2                    256     200
 *       SKY2            0       0
-SKY3                    256     128
+*       SKY2            0       0
+SKY3                    256     200
 *       SKY3            0       0  
-SKY5			256	128
+*       SKY3            0       0  
+SKY5			256	200
+*	SKY1		0	0
 *	SKY1		0	0
 SNDBLCKS		128	128
 *	WALL30		0	0
@@ -244,8 +248,10 @@ WATRWAL2                64      128
 *       WLLWTFL2        0       0
 WATRWAL3                64      128
 *       WLLWTFL3        0       0
-OLDSKY2			256	128
+OLDSKY2			256	200
 *	SKY1		0	0
-OLDSKY3			256	128
+*	SKY1		0	0
+OLDSKY3			256	200
+*	SKY1		0	0
 *	SKY1		0	0
 ;End

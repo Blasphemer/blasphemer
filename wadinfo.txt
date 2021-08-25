@@ -79,7 +79,7 @@ E3M4 PH
 E3M5 PH
 E3M6 PH
 E3M7 PH
-E3M8 PH
+E3M8	  # Catoptromancy
 E3M9 PH
 E4M1 DM1 # Jute Gyte
 E4M2 DM2 # Rellik (Conversion by Jute)
@@ -99,9 +99,9 @@ E5M6 PH
 E5M7 PH
 E5M8 PH
 E5M9 PH
-E6M1	 #DragonMorpheus
+E6M1	 # DragonMorpheus
 E6M2 PH
-E6M3 PH
+E6M3	 # Catoptromancy
 
 [texture1]
 TEXTURE1
@@ -968,7 +968,7 @@ WBLSA0 11  45   # Eriance
 WBOWA0 21 38   # Stilgar
 WGNTA0 15 52    # Eriance
 WMCEA0 21 27   # Eriance
-WPHXA0 15 25   # Eriance
+WPHXA0 10 50   # Eriance
 WSKLA0 18 45   # Stilgar
 SOARB0 SOARA0 23 25 # Stilgar (Unanimated!)
 SOARC0 SOARA0 23 25 # Stilgar (Unanimated!)
@@ -1004,203 +1004,219 @@ ATLPB0   12 35 # Stilgar
 ATLPC0   12 35 # Stilgar
 BEAKA0   0 0 # * PLACE HOLDER *
 #Monsters
-BEASA1  28 64 # Scuba Steve
-BEASA2A8  24 64 # Scuba Steve
-BEASA3A7  24 64 # Scuba Steve
-BEASA4A6  36 64 # Scuba Steve
-BEASA5  28 64 # Scuba Steve
-BEASB1  28 64 # Scuba Steve
-BEASB2B8  36 64 # Scuba Steve
-BEASB3B7  36 64 # Scuba Steve
-BEASB4B6  36 64 # Scuba Steve
-BEASB5  28 64 # Scuba Steve
-BEASC1  28 64 # Scuba Steve
-BEASC2C8  36 64 # Scuba Steve
-BEASC3C7  36 64 # Scuba Steve
-BEASC4C6  36 64 # Scuba Steve
-BEASC5  28 64 # Scuba Steve
-BEASD1  28 64 # Scuba Steve
-BEASD2D8  24 64 # Scuba Steve
-BEASD3D7  24 64 # Scuba Steve
-BEASD4D6  36 64 # Scuba Steve
-BEASD5  28 64 # Scuba Steve
-BEASE1  28 64 # Scuba Steve
-BEASE2E8  36 64 # Scuba Steve
-BEASE3E7  36 64 # Scuba Steve
-BEASE4E6  36 64 # Scuba Steve
-BEASE5  28 64 # Scuba Steve
-BEASF1  28 64 # Scuba Steve
-BEASF2F8  36 64 # Scuba Steve
-BEASF3F7  36 64 # Scuba Steve
-BEASF4F6  36 64 # Scuba Steve
-BEASF5  28 64 # Scuba Steve
-BEASG1  28 64 # Scuba Steve (FreeDoom)
-BEASG2G8  24 64 # Scuba Steve (FreeDoom)
-BEASG3G7  24 64 # Scuba Steve (FreeDoom)
-BEASG4G6  36 64 # Scuba Steve (FreeDoom)
-BEASG5  28 64 # Scuba Steve (FreeDoom)
-BEASH1  28 64 # Scuba Steve (FreeDoom)
-BEASH2H8  24 64 # Scuba Steve (FreeDoom)
-BEASH3H7  24 64 # Scuba Steve (FreeDoom)
-BEASH4H6  36 64 # Scuba Steve (FreeDoom)
-BEASH5  28 64 # Scuba Steve (FreeDoom)
-BEASI1  28 64 # Scuba Steve (FreeDoom)
-BEASI2I8  24 64 # Scuba Steve (FreeDoom)
-BEASI3I7  24 64 # Scuba Steve (FreeDoom)
-BEASI4I6  36 64 # Scuba Steve (FreeDoom)
-BEASI5  28 64 # Scuba Steve
-BEASJ0  28 64 # Scuba Steve
-BEASK0  28 64 # Scuba Steve
-BEASL0  28 64 # Scuba Steve
-BEASM0  28 64 # Scuba Steve
-BEASN0  28 64 # Scuba Steve
-BEASO0  28 64 # Scuba Steve
-BEASP0  28 64 # Scuba Steve
-BEASQ0  28 64 # Scuba Steve
-BEASR0  28 64 # Scuba Steve
-BEASS0  28 64 # Scuba Steve
-BEAST0  28 64 # Scuba Steve
-BEASU0  28 64 # Scuba Steve
-BEASV0  28 64 # Scuba Steve
-BEASW0  28 64 # Scuba Steve
-BEASX0  28 64 # Scuba Steve
-BEASY0  28 64 # Scuba Steve
-BEASZ0  28 64 # Scuba Steve
-CHKNA0 PH_M  24 64 # * PLACE HOLDER *
-CHKNB0 PH_M  24 64 # * PLACE HOLDER *
-CHKNC0 PH_M  24 64 # * PLACE HOLDER *
-CHKND0 PH_M  24 64 # * PLACE HOLDER *
-CHKNE0 PH_M  24 64 # * PLACE HOLDER *
-CHKNF0 PH_M  24 64 # * PLACE HOLDER *
-CHKNG0 PH_M  24 64 # * PLACE HOLDER *
-CHKNH0 PH_M  24 64 # * PLACE HOLDER *
-CHKNI0 PH  24 64 # * PLACE HOLDER *
-CHKNJ0 PH  24 64 # * PLACE HOLDER *
-CHKNK0 PH  24 64 # * PLACE HOLDER *
-CHKNL0 PH  24 64 # * PLACE HOLDER *
-CHKNM0 PH  24 64 # * PLACE HOLDER *
-CHKNN0 PH  24 64 # * PLACE HOLDER *
-CHKNO0 PH  24 64 # * PLACE HOLDER *
-CHKNP0 PH  24 64 # * PLACE HOLDER *
-CHKNQ0 PH  24 64 # * PLACE HOLDER *
-CLNKA1  40 69 # BigProjectAlone
-CLNKA2A8  30 70 # BigProjectAlone
-CLNKA3A7  29 70 # BigProjectAlone
-CLNKA4A6  25 70 # BigProjectAlone
-CLNKA5  37 67 # BigProjectAlone
-CLNKB1  24 69 # BigProjectAlone
-CLNKB2B8  30 65 # BigProjectAlone
-CLNKB3B7  29 65 # BigProjectAlone
-CLNKB4B6  28 64 # BigProjectAlone
-CLNKB5  24 69 # BigProjectAlone
-CLNKC1  39 68 # BigProjectAlone
-CLNKC2C8  30 67 # BigProjectAlone
-CLNKC3C7  28 67 # BigProjectAlone
-CLNKC4C6  26 64 # BigProjectAlone
-CLNKC5  24 64 # BigProjectAlone
-CLNKD1  37 70 # BigProjectAlone
-CLNKD2D8  30 67 # BigProjectAlone
-CLNKD3D7  23 65 # BigProjectAlone
-CLNKD4D6  27 66 # BigProjectAlone
-CLNKD5  37 67 # BigProjectAlone
-CLNKE1  44 67 # BigProjectAlone
-CLNKE2E8  24 64 # BigProjectAlone
-CLNKE3E7  26 64 # BigProjectAlone
-CLNKE4E6  29 66 # BigProjectAlone
-CLNKE5  38 68 # BigProjectAlone
-CLNKF1  37 69 # BigProjectAlone
-CLNKF2F8  31 70 # BigProjectAlone
-CLNKF3F7  37 68 # BigProjectAlone
-CLNKF4F6  26 67 # BigProjectAlone
-CLNKF5  37 69 # BigProjectAlone
-CLNKG1  39 69 # BigProjectAlone
-CLNKG2G8  29 69 # BigProjectAlone
-CLNKG3G7  30 68 # BigProjectAlone
-CLNKG4G6  27 66 # BigProjectAlone
-CLNKG5  37 69 # BigProjectAlone
-CLNKH1  24 64 # BigProjectAlone
-CLNKH2H8  30 67 # BigProjectAlone
-CLNKH3H7  23 65 # BigProjectAlone
-CLNKH4H6  27 66 # BigProjectAlone
-CLNKH5  37 67 # BigProjectAlone
-CLNKI0  35 60 # BigProjectAlone
-CLNKJ0  39 69 # BigProjectAlone
-CLNKK0  43 67 # BigProjectAlone
-CLNKL0  44 67 # BigProjectAlone
-CLNKM0  39 45 # BigProjectAlone
-CLNKN0  39 38 # BigProjectAlone
-CLNKO0  39 38 # BigProjectAlone
-HEADA1  30 84 # Nightfang (FreeDoom)
-HEADA2A8  27 84 # Nightfang (FreeDoom)
-HEADA3A7  26 83 # Nightfang (FreeDoom)
-HEADA4A6  28 83 # Nightfang (FreeDoom)
-HEADA5  28 83 # Nightfang (FreeDoom)
-HEADB1  59 75 # Nightfang (FreeDoom)
-HEADB2B8  29 75 # Nightfang (FreeDoom)
-HEADB3B7  58 76 # Nightfang (FreeDoom)
-HEADB4B6  28 75 # Nightfang (FreeDoom)
-HEADB5  28 79 # Nightfang (FreeDoom)
-HEADC0  29 76 # Nightfang (FreeDoom)
-HEADD0  29 69 # Nightfang (FreeDoom)
-HEADE0  29 59 # Nightfang (FreeDoom)
-HEADF0  29 53 # Nightfang (FreeDoom)
-HEADG0  29 50 # Nightfang (FreeDoom)
-HEADH0  29 38 # Nightfang (FreeDoom)
-HEADI0  27 38 # Nightfang (FreeDoom)
-IMPXA1  24 64 # Cwolf
-IMPXA8A2  24 64 # Cwolf
-IMPXA7A3  24 64 # Cwolf
-IMPXA6A4  24 64 # Cwolf
-IMPXA5  24 64 # Cwolf
-IMPXB1  24 64 # Cwolf
-IMPXB8B2  24 64 # Cwolf
-IMPXB7B3  24 64 # Cwolf
-IMPXB6B4  24 64 # Cwolf
-IMPXB5  24 64 # Cwolf
-IMPXC1  24 64 # Cwolf
-IMPXC8C2  24 64 # Cwolf
-IMPXC7C3  24 64 # Cwolf
-IMPXC6C4  24 64 # Cwolf
-IMPXC5  24 64 # Cwolf
-IMPXD1  24 64 # Cwolf
-IMPXD8D2  24 64 # Cwolf
-IMPXD7D3  24 64 # Cwolf
-IMPXD6D4  24 64 # Cwolf
-IMPXD5  24 64 # Cwolf
-IMPXE1  24 64 # Cwolf
-IMPXE8E2  24 64 # Cwolf
-IMPXE7E3  24 64 # Cwolf
-IMPXE6E4  24 64 # Cwolf
-IMPXE5  24 64 # Cwolf
-IMPXF1  24 64 # Cwolf
-IMPXF8F2  24 64 # Cwolf
-IMPXF7F3  24 64 # Cwolf
-IMPXF6F4  24 64 # Cwolf
-IMPXF5  24 64 # Cwolf
-IMPXG1  24 64 # Cwolf
-IMPXG8G2  24 64 # Cwolf
-IMPXG7G3  24 64 # Cwolf
-IMPXG6G4  24 64 # Cwolf
-IMPXG5  24 64 # Cwolf
-IMPXH0  9 9 # Cwolf
-IMPXI0  9 9 # Cwolf
-IMPXJ0  9 9 # Cwolf
-IMPXK0  9 9 # Cwolf
-IMPXL0  9 9 # Cwolf
-IMPXM0  9 9 # Cwolf
-IMPXN0  9 9 # Cwolf
-IMPXO0  9 9 # Cwolf
-IMPXP0  9 9 # Cwolf
-IMPXQ0  9 9 # Cwolf
-IMPXR0  9 9 # Cwolf
-IMPXS0  9 9 # Cwolf
-IMPXT0  9 9 # Cwolf
-IMPXU0  9 9 # Cwolf
-IMPXV0  9 9 # Cwolf
-IMPXW0  9 9 # Cwolf
-IMPXX0  9 9 # Cwolf
-IMPXY0  9 9 # Cwolf
-IMPXZ0  9 9 # Cwolf
+BEASA1  	28 64 # Scuba Steve
+BEASA2A8  	24 64 # Scuba Steve
+BEASA3A7  	24 64 # Scuba Steve
+BEASA4A6  	36 64 # Scuba Steve
+BEASA5  	28 64 # Scuba Steve
+BEASB1  	28 64 # Scuba Steve
+BEASB2B8	36 64 # Scuba Steve
+BEASB3B7  	36 64 # Scuba Steve
+BEASB4B6  	36 64 # Scuba Steve
+BEASB5  	28 64 # Scuba Steve
+BEASC1  	28 64 # Scuba Steve
+BEASC2C8  	36 64 # Scuba Steve
+BEASC3C7  	36 64 # Scuba Steve
+BEASC4C6  	36 64 # Scuba Steve
+BEASC5  	28 64 # Scuba Steve
+BEASD1  	28 64 # Scuba Steve
+BEASD2D8  	24 64 # Scuba Steve
+BEASD3D7  	24 64 # Scuba Steve
+BEASD4D6  	36 64 # Scuba Steve
+BEASD5  	28 64 # Scuba Steve
+BEASE1  	28 64 # Scuba Steve
+BEASE2E8  	36 64 # Scuba Steve
+BEASE3E7  	36 64 # Scuba Steve
+BEASE4E6  	36 64 # Scuba Steve
+BEASE5  	28 64 # Scuba Steve
+BEASF1  	28 64 # Scuba Steve
+BEASF2F8  	36 64 # Scuba Steve
+BEASF3F7  	36 64 # Scuba Steve
+BEASF4F6  	36 64 # Scuba Steve
+BEASF5  	28 64 # Scuba Steve
+BEASG1  	28 64 # Scuba Steve (FreeDoom)
+BEASG2G8  	24 64 # Scuba Steve (FreeDoom)
+BEASG3G7  	24 64 # Scuba Steve (FreeDoom)
+BEASG4G6  	36 64 # Scuba Steve (FreeDoom)
+BEASG5  	28 64 # Scuba Steve (FreeDoom)
+BEASH1  	28 64 # Scuba Steve (FreeDoom)
+BEASH2H8  	24 64 # Scuba Steve (FreeDoom)
+BEASH3H7  	24 64 # Scuba Steve (FreeDoom)
+BEASH4H6  	36 64 # Scuba Steve (FreeDoom)
+BEASH5  	28 64 # Scuba Steve (FreeDoom)
+BEASI1  	28 64 # Scuba Steve (FreeDoom)
+BEASI2I8  	24 64 # Scuba Steve (FreeDoom)
+BEASI3I7  	24 64 # Scuba Steve (FreeDoom)
+BEASI4I6  	36 64 # Scuba Steve (FreeDoom)
+BEASI5  	28 64 # Scuba Steve
+BEASJ0  	28 64 # Scuba Steve
+BEASK0  	28 64 # Scuba Steve
+BEASL0  	28 64 # Scuba Steve
+BEASM0  	28 64 # Scuba Steve
+BEASN0  	28 64 # Scuba Steve
+BEASO0  	28 64 # Scuba Steve
+BEASP0  	28 64 # Scuba Steve
+BEASQ0  	28 64 # Scuba Steve
+BEASR0  	28 64 # Scuba Steve
+BEASS0  	28 64 # Scuba Steve
+BEAST0  	28 64 # Scuba Steve
+BEASU0  	28 64 # Scuba Steve
+BEASV0  	28 64 # Scuba Steve
+BEASW0  	28 64 # Scuba Steve
+BEASX0  	28 64 # Scuba Steve
+BEASY0  	28 64 # Scuba Steve
+BEASZ0  	28 64 # Scuba Steve
+CHKNA1    # * PLACE HOLDER * jute
+CHKNA2A8  # * PLACE HOLDER * jute
+CHKNA3A7  # * PLACE HOLDER * jute
+CHKNA4A6  # * PLACE HOLDER * jute
+CHKNA5    # * PLACE HOLDER * jute
+CHKNB1    # * PLACE HOLDER * jute
+CHKNB2B8  # * PLACE HOLDER * jute
+CHKNB3B7  # * PLACE HOLDER * jute
+CHKNB4B6  # * PLACE HOLDER * jute
+CHKNB5    # * PLACE HOLDER * jute
+CHKNC1    # * PLACE HOLDER * jute
+CHKNC2C8  # * PLACE HOLDER * jute
+CHKNC3C7  # * PLACE HOLDER * jute
+CHKNC4C6  # * PLACE HOLDER * jute
+CHKNC5    # * PLACE HOLDER * jute
+CHKND1    # * PLACE HOLDER * jute
+CHKND2D8  # * PLACE HOLDER * jute
+CHKND3D7  # * PLACE HOLDER * jute
+CHKND4D6  # * PLACE HOLDER * jute
+CHKND5    # * PLACE HOLDER * jute
+CHKNE0    # * PLACE HOLDER * jute
+CHKNF0    # * PLACE HOLDER * jute
+CHKNG0    # * PLACE HOLDER * jute
+CHKNH0    # * PLACE HOLDER * jute
+CHKNI0    # * PLACE HOLDER * jute
+CHKNJ0    # * PLACE HOLDER * jute
+CHKNK0    # * PLACE HOLDER * jute
+CHKNL0 IMPXI0   # * PLACE HOLDER * cwolf
+CHKNM0 IMPXI0   # * PLACE HOLDER * cwolf
+CHKNN0 IMPXI0   # * PLACE HOLDER * cwolf
+CHKNO0 IMPXI0   # * PLACE HOLDER * cwolf
+CHKNP0 IMPXI0   # * PLACE HOLDER * cwolf
+CHKNQ0 IMPXI0   # * PLACE HOLDER * cwolf
+CLNKA1  	40 69 # BigProjectAlone
+CLNKA2A8  	30 70 # BigProjectAlone
+CLNKA3A7  	29 70 # BigProjectAlone
+CLNKA4A6  	25 70 # BigProjectAlone
+CLNKA5  	37 67 # BigProjectAlone
+CLNKB1  	24 69 # BigProjectAlone
+CLNKB2B8  	30 65 # BigProjectAlone
+CLNKB3B7  	29 65 # BigProjectAlone
+CLNKB4B6  	28 64 # BigProjectAlone
+CLNKB5  	24 69 # BigProjectAlone
+CLNKC1  	39 68 # BigProjectAlone
+CLNKC2C8  	30 67 # BigProjectAlone
+CLNKC3C7  	28 67 # BigProjectAlone
+CLNKC4C6  	26 64 # BigProjectAlone
+CLNKC5  	24 64 # BigProjectAlone
+CLNKD1  	37 70 # BigProjectAlone
+CLNKD2D8  	30 67 # BigProjectAlone
+CLNKD3D7  	23 65 # BigProjectAlone
+CLNKD4D6  	27 66 # BigProjectAlone
+CLNKD5  	37 67 # BigProjectAlone
+CLNKE1  	44 67 # BigProjectAlone
+CLNKE2E8  	24 64 # BigProjectAlone
+CLNKE3E7  	26 64 # BigProjectAlone
+CLNKE4E6 	 29 66 # BigProjectAlone
+CLNKE5  	38 68 # BigProjectAlone
+CLNKF1  	37 69 # BigProjectAlone
+CLNKF2F8  	31 70 # BigProjectAlone
+CLNKF3F7  	37 68 # BigProjectAlone
+CLNKF4F6  	26 67 # BigProjectAlone
+CLNKF5  	37 69 # BigProjectAlone
+CLNKG1  	39 69 # BigProjectAlone
+CLNKG2G8  	29 69 # BigProjectAlone
+CLNKG3G7  	30 68 # BigProjectAlone
+CLNKG4G6  	27 66 # BigProjectAlone
+CLNKG5  	37 69 # BigProjectAlone
+CLNKH1  	24 64 # BigProjectAlone
+CLNKH2H8  	30 67 # BigProjectAlone
+CLNKH3H7  	23 65 # BigProjectAlone
+CLNKH4H6  	27 66 # BigProjectAlone
+CLNKH5  	37 67 # BigProjectAlone
+CLNKI0  	35 60 # BigProjectAlone
+CLNKJ0  	39 69 # BigProjectAlone
+CLNKK0  	43 67 # BigProjectAlone
+CLNKL0  	44 67 # BigProjectAlone
+CLNKM0  	39 45 # BigProjectAlone
+CLNKN0  	39 38 # BigProjectAlone
+CLNKO0  	39 38 # BigProjectAlone
+HEADA1  	30 84 # Nightfang (FreeDoom)
+HEADA2A8  	27 84 # Nightfang (FreeDoom)
+HEADA3A7  	26 83 # Nightfang (FreeDoom)
+HEADA4A6  	28 83 # Nightfang (FreeDoom)
+HEADA5  	28 83 # Nightfang (FreeDoom)
+HEADB1  	59 75 # Nightfang (FreeDoom)
+HEADB2B8  	29 75 # Nightfang (FreeDoom)
+HEADB3B7  	58 76 # Nightfang (FreeDoom)
+HEADB4B6  	28 75 # Nightfang (FreeDoom)
+HEADB5  	28 79 # Nightfang (FreeDoom)
+HEADC0  	29 76 # Nightfang (FreeDoom)
+HEADD0  	29 69 # Nightfang (FreeDoom)
+HEADE0  	29 59 # Nightfang (FreeDoom)
+HEADF0  	29 53 # Nightfang (FreeDoom)
+HEADG0  	29 50 # Nightfang (FreeDoom)
+HEADH0  	29 38 # Nightfang (FreeDoom)
+HEADI0  	27 38 # Nightfang (FreeDoom)
+IMPXA1  	24 64 # Cwolf
+IMPXA8A2  	24 64 # Cwolf
+IMPXA7A3  	24 64 # Cwolf
+IMPXA6A4  	24 64 # Cwolf
+IMPXA5  	24 64 # Cwolf
+IMPXB1  	24 64 # Cwolf
+IMPXB8B2  	24 64 # Cwolf
+IMPXB7B3  	24 64 # Cwolf
+IMPXB6B4  	24 64 # Cwolf
+IMPXB5  	24 64 # Cwolf
+IMPXC1  	24 64 # Cwolf
+IMPXC8C2  	24 64 # Cwolf
+IMPXC7C3  	24 64 # Cwolf
+IMPXC6C4  	24 64 # Cwolf
+IMPXC5  	24 64 # Cwolf
+IMPXD1  	24 64 # Cwolf
+IMPXD8D2  	24 64 # Cwolf
+IMPXD7D3  	24 64 # Cwolf
+IMPXD6D4  	24 64 # Cwolf
+IMPXD5  	24 64 # Cwolf
+IMPXE1  	24 64 # Cwolf
+IMPXE8E2  	24 64 # Cwolf
+IMPXE7E3  	24 64 # Cwolf
+IMPXE6E4  	24 64 # Cwolf
+IMPXE5  	24 64 # Cwolf
+IMPXF1  	24 64 # Cwolf
+IMPXF8F2  	24 64 # Cwolf
+IMPXF7F3  	24 64 # Cwolf
+IMPXF6F4  	24 64 # Cwolf
+IMPXF5  	24 64 # Cwolf
+IMPXG1  	24 64 # Cwolf
+IMPXG8G2  	24 64 # Cwolf
+IMPXG7G3  	24 64 # Cwolf
+IMPXG6G4  	24 64 # Cwolf
+IMPXG5  	24 64 # Cwolf
+IMPXH0  	9 9 # Cwolf
+IMPXI0  	9 9 # Cwolf
+IMPXJ0  	9 9 # Cwolf
+IMPXK0  	9 9 # Cwolf
+IMPXL0  	9 9 # Cwolf
+IMPXM0  	9 9 # Cwolf
+IMPXN0  	9 9 # Cwolf
+IMPXO0  	9 9 # Cwolf
+IMPXP0  	9 9 # Cwolf
+IMPXQ0  	9 9 # Cwolf
+IMPXR0  	9 9 # Cwolf
+IMPXS0  	9 9 # Cwolf
+IMPXT0  	9 9 # Cwolf
+IMPXU0  	9 9 # Cwolf
+IMPXV0  	9 9 # Cwolf
+IMPXW0  	9 9 # Cwolf
+IMPXX0  	9 9 # Cwolf
+IMPXY0  	9 9 # Cwolf
+IMPXZ0  	9 9 # Cwolf
 KNIGA1  21 83 # Leileilol (FreeDoom)
 KNIGA2  17 83 # Leileilol (FreeDoom)
 KNIGA3  12 83 # Leileilol (FreeDoom)
@@ -1272,32 +1288,109 @@ KNIGL0  37 58 # Leileilol (FreeDoom)
 KNIGM0  40 38 # Leileilol (FreeDoom)
 KNIGN0  40 21 # Leileilol (FreeDoom)
 KNIGO0  40 21 # Leileilol (FreeDoom)
-MNTRA0 PH_M  24 64 # * PLACE HOLDER *
-MNTRB0 PH_M  24 64 # * PLACE HOLDER *
-MNTRC0 PH_M  24 64 # * PLACE HOLDER *
-MNTRD0 PH_M  24 64 # * PLACE HOLDER *
-MNTRE0 PH_M  24 64 # * PLACE HOLDER *
-MNTRF0 PH  24 64 # * PLACE HOLDER *
-MNTRG0 PH  24 64 # * PLACE HOLDER *
-MNTRH0 PH  24 64 # * PLACE HOLDER *
-MNTRI0 PH  24 64 # * PLACE HOLDER *
-MNTRJ0 PH  24 64 # * PLACE HOLDER *
-MNTRK0 PH  24 64 # * PLACE HOLDER *
-MNTRL0 PH  24 64 # * PLACE HOLDER *
-MNTRM0 PH  24 64 # * PLACE HOLDER *
-MNTRN0 PH  24 64 # * PLACE HOLDER *
-MNTRO0 PH  24 64 # * PLACE HOLDER *
-MNTRP0 PH  24 64 # * PLACE HOLDER *
-MNTRQ0 PH  24 64 # * PLACE HOLDER *
-MNTRR0 PH  24 64 # * PLACE HOLDER *
-MNTRS0 PH  24 64 # * PLACE HOLDER *
-MNTRT0 PH  24 64 # * PLACE HOLDER *
-MNTRU0 PH_M  24 64 # * PLACE HOLDER *
-MNTRV0 PH_M  24 64 # * PLACE HOLDER *
-MNTRW0 PH_M  24 64 # * PLACE HOLDER *
-MNTRX0 PH_M  24 64 # * PLACE HOLDER *
-MNTRY0 PH_M  24 64 # * PLACE HOLDER *
-MNTRZ0 PH_M  24 64 # * PLACE HOLDER *
+MNTRA1 	# * PLACE HOLDER * (FreeDoom)
+MNTRA2 	# * PLACE HOLDER * (FreeDoom)
+MNTRA3 	# * PLACE HOLDER * (FreeDoom)
+MNTRA4 	# * PLACE HOLDER * (FreeDoom)
+MNTRA5 	# * PLACE HOLDER * (FreeDoom)
+MNTRA6 	# * PLACE HOLDER * (FreeDoom)
+MNTRA7 	# * PLACE HOLDER * (FreeDoom)
+MNTRA8 	# * PLACE HOLDER * (FreeDoom)
+MNTRB1 	# * PLACE HOLDER * (FreeDoom)
+MNTRB2 	# * PLACE HOLDER * (FreeDoom)
+MNTRB3 	# * PLACE HOLDER * (FreeDoom)
+MNTRB4 	# * PLACE HOLDER * (FreeDoom)
+MNTRB5 	# * PLACE HOLDER * (FreeDoom)
+MNTRB6 	# * PLACE HOLDER * (FreeDoom)
+MNTRB7 	# * PLACE HOLDER * (FreeDoom)
+MNTRB8 	# * PLACE HOLDER * (FreeDoom)
+MNTRC1 	# * PLACE HOLDER * (FreeDoom)
+MNTRC2 	# * PLACE HOLDER * (FreeDoom)
+MNTRC3 	# * PLACE HOLDER * (FreeDoom)
+MNTRC4 	# * PLACE HOLDER * (FreeDoom)
+MNTRC5 	# * PLACE HOLDER * (FreeDoom)
+MNTRC6 	# * PLACE HOLDER * (FreeDoom)
+MNTRC7 	# * PLACE HOLDER * (FreeDoom)
+MNTRC8 	# * PLACE HOLDER * (FreeDoom)
+MNTRD1 	# * PLACE HOLDER * (FreeDoom)
+MNTRD2 	# * PLACE HOLDER * (FreeDoom)
+MNTRD3 	# * PLACE HOLDER * (FreeDoom)
+MNTRD4 	# * PLACE HOLDER * (FreeDoom)
+MNTRD5 	# * PLACE HOLDER * (FreeDoom)
+MNTRD6 	# * PLACE HOLDER * (FreeDoom)
+MNTRD7 	# * PLACE HOLDER * (FreeDoom)
+MNTRD8 	# * PLACE HOLDER * (FreeDoom)
+MNTRE1 	# * PLACE HOLDER * (FreeDoom)
+MNTRE2 	# * PLACE HOLDER * (FreeDoom)
+MNTRE3 	# * PLACE HOLDER * (FreeDoom)
+MNTRE4 	# * PLACE HOLDER * (FreeDoom)
+MNTRE5 	# * PLACE HOLDER * (FreeDoom)
+MNTRE6 	# * PLACE HOLDER * (FreeDoom)
+MNTRE7 	# * PLACE HOLDER * (FreeDoom)
+MNTRE8 	# * PLACE HOLDER * (FreeDoom)
+MNTRF0  	# * PLACE HOLDER * (FreeDoom)
+MNTRG0  	# * PLACE HOLDER * (FreeDoom)
+MNTRH0  	# * PLACE HOLDER * (FreeDoom)
+MNTRI0  	# * PLACE HOLDER * (FreeDoom)
+MNTRJ0  	# * PLACE HOLDER * (FreeDoom)
+MNTRK0  	# * PLACE HOLDER * (FreeDoom)
+MNTRL0  	# * PLACE HOLDER * (FreeDoom)
+MNTRM0  	# * PLACE HOLDER * (FreeDoom)
+MNTRN0  	# * PLACE HOLDER * (FreeDoom)
+MNTRO0  	# * PLACE HOLDER * (FreeDoom)
+MNTRP0  	# * PLACE HOLDER * (FreeDoom)
+MNTRQ0  	# * PLACE HOLDER * (FreeDoom)
+MNTRR0  	# * PLACE HOLDER * (FreeDoom)
+MNTRS0  	# * PLACE HOLDER * (FreeDoom)
+MNTRT0  	# * PLACE HOLDER * (FreeDoom)
+MNTRU1 	# * PLACE HOLDER * (FreeDoom)
+MNTRU2 	# * PLACE HOLDER * (FreeDoom)
+MNTRU3 	# * PLACE HOLDER * (FreeDoom)
+MNTRU4 	# * PLACE HOLDER * (FreeDoom)
+MNTRU5 	# * PLACE HOLDER * (FreeDoom)
+MNTRU6 	# * PLACE HOLDER * (FreeDoom)
+MNTRU7 	# * PLACE HOLDER * (FreeDoom)
+MNTRU8 	# * PLACE HOLDER * (FreeDoom)
+MNTRV1 	# * PLACE HOLDER * (FreeDoom)
+MNTRV2 	# * PLACE HOLDER * (FreeDoom)
+MNTRV3 	# * PLACE HOLDER * (FreeDoom)
+MNTRV4 	# * PLACE HOLDER * (FreeDoom)
+MNTRV5 	# * PLACE HOLDER * (FreeDoom)
+MNTRV6 	# * PLACE HOLDER * (FreeDoom)
+MNTRV7 	# * PLACE HOLDER * (FreeDoom)
+MNTRV8 	# * PLACE HOLDER * (FreeDoom)
+MNTRW1 	# * PLACE HOLDER * (FreeDoom)
+MNTRW2 	# * PLACE HOLDER * (FreeDoom)
+MNTRW3 	# * PLACE HOLDER * (FreeDoom)
+MNTRW4 	# * PLACE HOLDER * (FreeDoom)
+MNTRW5 	# * PLACE HOLDER * (FreeDoom)
+MNTRW6 	# * PLACE HOLDER * (FreeDoom)
+MNTRW7 	# * PLACE HOLDER * (FreeDoom)
+MNTRW8 	# * PLACE HOLDER * (FreeDoom)
+MNTRX1 	# * PLACE HOLDER * (FreeDoom)
+MNTRX2 	# * PLACE HOLDER * (FreeDoom)
+MNTRX3 	# * PLACE HOLDER * (FreeDoom)
+MNTRX4 	# * PLACE HOLDER * (FreeDoom)
+MNTRX5 	# * PLACE HOLDER * (FreeDoom)
+MNTRX6 	# * PLACE HOLDER * (FreeDoom)
+MNTRX7 	# * PLACE HOLDER * (FreeDoom)
+MNTRX8 	# * PLACE HOLDER * (FreeDoom)
+MNTRY1 	# * PLACE HOLDER * (FreeDoom)
+MNTRY2 	# * PLACE HOLDER * (FreeDoom)
+MNTRY3 	# * PLACE HOLDER * (FreeDoom)
+MNTRY4 	# * PLACE HOLDER * (FreeDoom)
+MNTRY5 	# * PLACE HOLDER * (FreeDoom)
+MNTRY6 	# * PLACE HOLDER * (FreeDoom)
+MNTRY7 	# * PLACE HOLDER * (FreeDoom)
+MNTRY8 	# * PLACE HOLDER * (FreeDoom)
+MNTRZ1 	# * PLACE HOLDER * (FreeDoom)
+MNTRZ2 	# * PLACE HOLDER * (FreeDoom)
+MNTRZ3 	# * PLACE HOLDER * (FreeDoom)
+MNTRZ4 	# * PLACE HOLDER * (FreeDoom)
+MNTRZ5 	# * PLACE HOLDER * (FreeDoom)
+MNTRZ6 	# * PLACE HOLDER * (FreeDoom)
+MNTRZ7 	# * PLACE HOLDER * (FreeDoom)
+MNTRZ8 	# * PLACE HOLDER * (FreeDoom)
 MUMMA1  33 58 # BigProjectAlone
 MUMMA2A8  30 60 # BigProjectAlone
 MUMMA3A7  30 60 # BigProjectAlone
@@ -1403,45 +1496,150 @@ SNKEM0  35 33 # Nightfang (FreeDoom)
 SNKEN0  35 33 # Nightfang (FreeDoom)
 SNKEO0  35 33 # Nightfang (FreeDoom)
 SNKEP0  35 33 # Nightfang (FreeDoom)
-SOR2A0 PH_M  24 64 # * PLACE HOLDER *
-SOR2B0 PH_M  24 64 # * PLACE HOLDER *
-SOR2C0 PH_M  24 64 # * PLACE HOLDER *
-SOR2D0 PH_M  24 64 # * PLACE HOLDER *
-SOR2E0 PH_M  24 64 # * PLACE HOLDER *
-SOR2F0 PH_M  24 64 # * PLACE HOLDER *
-SOR2G0 PH_M  24 64 # * PLACE HOLDER *
-SOR2H0 PH_M  24 64 # * PLACE HOLDER *
-SOR2I0 PH_M  24 64 # * PLACE HOLDER *
-SOR2J0 PH_M  24 64 # * PLACE HOLDER *
-SOR2K0 PH_M  24 64 # * PLACE HOLDER *
-SOR2L0 PH_M  24 64 # * PLACE HOLDER *
-SOR2M0 PH_M  24 64 # * PLACE HOLDER *
-SOR2N0 PH_M  24 64 # * PLACE HOLDER *
-SOR2O0 PH_M  24 64 # * PLACE HOLDER *
-SOR2P0 PH_M  24 64 # * PLACE HOLDER *
-SOR2Q0 PH_M  24 64 # * PLACE HOLDER *
-SOR2R0 PH_M  24 64 # * PLACE HOLDER *
-SOR2S0 PH_M  24 64 # * PLACE HOLDER *
-SOR2T0 PH_M  24 64 # * PLACE HOLDER *
-SRCRA0 PH_M  24 64 # * PLACE HOLDER *
-SRCRB0 PH_M  24 64 # * PLACE HOLDER *
-SRCRC0 PH_M  24 64 # * PLACE HOLDER *
-SRCRD0 PH_M  24 64 # * PLACE HOLDER *
-SRCRE0 PH_M  24 64 # * PLACE HOLDER *
-SRCRF0 PH_M  24 64 # * PLACE HOLDER *
-SRCRG0 PH_M  24 64 # * PLACE HOLDER *
-SRCRH0 PH_M  24 64 # * PLACE HOLDER *
-SRCRI0 PH_M  24 64 # * PLACE HOLDER *
-SRCRJ0 PH_M  24 64 # * PLACE HOLDER *
-SRCRK0 PH_M  24 64 # * PLACE HOLDER *
-SRCRL0 PH_M  24 64 # * PLACE HOLDER *
-SRCRM0 PH_M  24 64 # * PLACE HOLDER *
-SRCRN0 PH_M  24 64 # * PLACE HOLDER *
-SRCRO0 PH_M  24 64 # * PLACE HOLDER *
-SRCRP0 PH_M  24 64 # * PLACE HOLDER *
-SRCRQ0 PH_M  24 64 # * PLACE HOLDER *
-SRCRR0 PH_M  24 64 # * PLACE HOLDER *
-SRCRS0 PH_M  24 64 # * PLACE HOLDER *
+SOR2A0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2B0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2C0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2D0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2E0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2F0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2G0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2H0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2I0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2J0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2K0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2L0		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2M1		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2M2		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2M3		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2M4		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2M5		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2M6		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2M7		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2M8		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2N1		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2N2		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2N3		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2N4		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2N5		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2N6		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2N7		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2N8		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2O1		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2O2		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2O3		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2O4		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2O5		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2O6		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2O7		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2O8		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2P1		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2P2		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2P3		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2P4		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2P5		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2P6		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2P7		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2P8		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2Q1		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2Q2		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2Q3		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2Q4		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2Q5		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2Q6		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2Q7		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2Q8		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2R1		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2R2		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2R3		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2R4		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2R5		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2R6		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2R7		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2R8		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2S1		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2S2		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2S3		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2S4		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2S5		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2S6		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2S7		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2S8		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2T1		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2T2		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2T3		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2T4		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2T5		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2T6		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2T7		# * PLACE HOLDER * Linguica (Freedoom)
+SOR2T8		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRA1		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRA2		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRA3		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRA4		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRA5		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRA6		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRA7		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRA8		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRB1		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRB2		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRB3		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRB4		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRB5		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRB6		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRB7		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRB8		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRC1		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRC2		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRC3		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRC4		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRC5		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRC6		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRC7		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRC8		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRD1		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRD2		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRD3		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRD4		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRD5		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRD6		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRD7		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRD8		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRE0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRF0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRG0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRH0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRI0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRJ0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRK0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRL0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRM0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRN0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRO0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRP0		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRQ1		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRQ2		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRQ3		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRQ4		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRQ5		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRQ6		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRQ7		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRQ8		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRR1		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRR2		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRR3		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRR4		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRR5		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRR6		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRR7		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRR8		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRS1		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRS2		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRS3		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRS4		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRS5		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRS6		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRS7		# * PLACE HOLDER * Linguica (Freedoom)
+SRCRS8		# * PLACE HOLDER * Linguica (Freedoom)
 WZRDA1	21	58	# Pawel "Nmn" Zarczynski
 WZRDA2A8	25	61	# Pawel "Nmn" Zarczynski
 WZRDA3A7	29	61	# Pawel "Nmn" Zarczynski
@@ -1535,10 +1733,10 @@ EGGMC0   6 9 # * PLACE HOLDER *
 EGGMD0   6 9 # * PLACE HOLDER *
 EGGME0   6 9 # * PLACE HOLDER *
 FBMBA0   13 34 # Stilgar
-FBMBB0   0 0 # * PLACE HOLDER *
-FBMBC0   0 0 # * PLACE HOLDER *
-FBMBD0   0 0 # * PLACE HOLDER *
-FBMBE0 FBMBA0  13 34 # Stilgar
+FBMBB0   13 34 # * PLACE HOLDER *
+FBMBC0   13 34 # * PLACE HOLDER *
+FBMBD0   13 34 # * PLACE HOLDER *
+FBMBE0   13 34 # Stilgar
 FDTHA0   14 46 # * PLACE HOLDER *
 FDTHB0   15 50 # * PLACE HOLDER *
 FDTHC0   17 46 # * PLACE HOLDER *
@@ -1652,9 +1850,21 @@ FX05D0   0 0 # * PLACE HOLDER *
 FX05E0   0 0 # * PLACE HOLDER *
 FX05F0   0 0 # * PLACE HOLDER *
 FX05G0   0 0 # * PLACE HOLDER *
-FX05H0   0 0 # * PLACE HOLDER *
-FX05I0   0 0 # * PLACE HOLDER *
-FX05J0   0 0 # * PLACE HOLDER *
+FX05H1   0 0 # * PLACE HOLDER *
+FX05H2H8   0 0 # * PLACE HOLDER *
+FX05H3H7   0 0 # * PLACE HOLDER *
+FX05H4H6   0 0 # * PLACE HOLDER *
+FX05H5   0 0 # * PLACE HOLDER *
+FX05I1   0 0 # * PLACE HOLDER *
+FX05I2I8   0 0 # * PLACE HOLDER *
+FX05I3I7   0 0 # * PLACE HOLDER *
+FX05I4I6   0 0 # * PLACE HOLDER *
+FX05I5   0 0 # * PLACE HOLDER *
+FX05J1   0 0 # * PLACE HOLDER *
+FX05J2J8   0 0 # * PLACE HOLDER *
+FX05J3J7   0 0 # * PLACE HOLDER *
+FX05J4J6   0 0 # * PLACE HOLDER *
+FX05J5   0 0 # * PLACE HOLDER *
 FX06A0   0 0 # * PLACE HOLDER *
 FX06B0   0 0 # * PLACE HOLDER *
 FX06C0   0 0 # * PLACE HOLDER *
@@ -1662,13 +1872,13 @@ FX06D0   0 0 # * PLACE HOLDER *
 FX06E0   0 0 # * PLACE HOLDER *
 FX06F0   0 0 # * PLACE HOLDER *
 FX06G0   0 0 # * PLACE HOLDER *
-FX07A0   0 0 # * PLACE HOLDER *
-FX07B0   0 0 # * PLACE HOLDER *
-FX07C0   0 0 # * PLACE HOLDER *
-FX07D0   0 0 # * PLACE HOLDER *
-FX07E0   0 0 # * PLACE HOLDER *
-FX07F0   0 0 # * PLACE HOLDER *
-FX07G0   0 0 # * PLACE HOLDER *
+FX07A0   16 30 # * PLACE HOLDER *
+FX07B0   16 30 # * PLACE HOLDER *
+FX07C0   16 30 # * PLACE HOLDER *
+FX07D0   16 30 # * PLACE HOLDER *
+FX07E0   16 30 # * PLACE HOLDER *
+FX07F0   16 30 # * PLACE HOLDER *
+FX07G0   16 30 # * PLACE HOLDER *
 FX08A0   0 0 # * PLACE HOLDER *
 FX08B0   0 0 # * PLACE HOLDER *
 FX08C0   0 0 # * PLACE HOLDER *
@@ -1705,14 +1915,22 @@ FX11D0	15	16	# Printz
 FX11E0	16	17	# Printz
 FX11F0	4	4	# Printz
 FX11G0	2	2	# Printz
-FX12A0   0 0 # * PLACE HOLDER *
-FX12B0   0 0 # * PLACE HOLDER *
-FX12C0   0 0 # * PLACE HOLDER *
-FX12D0   0 0 # * PLACE HOLDER *
-FX12E0   0 0 # * PLACE HOLDER *
-FX12F0   0 0 # * PLACE HOLDER *
-FX12G0   0 0 # * PLACE HOLDER *
-FX12H0   0 0 # * PLACE HOLDER *
+FX12A1   	# * PLACE HOLDER *
+FX12A2A8   	# * PLACE HOLDER *
+FX12A3A7   	# * PLACE HOLDER *
+FX12A4A6 	# * PLACE HOLDER *
+FX12A5   	# * PLACE HOLDER *
+FX12B1   	# * PLACE HOLDER *
+FX12B2B8   	# * PLACE HOLDER *
+FX12B3B7   	# * PLACE HOLDER *
+FX12B4B6   	# * PLACE HOLDER *
+FX12B5   	# * PLACE HOLDER *
+FX12C0   	# * PLACE HOLDER *
+FX12D0   	# * PLACE HOLDER *
+FX12E0   	# * PLACE HOLDER *
+FX12F0   	# * PLACE HOLDER *
+FX12G0   	# * PLACE HOLDER *
+FX12H0   	# * PLACE HOLDER *
 FX13A0   0 0 # * PLACE HOLDER *
 FX13B0   0 0 # * PLACE HOLDER *
 FX13C0   0 0 # * PLACE HOLDER *
@@ -1734,41 +1952,53 @@ FX14E0   0 0 # * PLACE HOLDER *
 FX14F0   0 0 # * PLACE HOLDER *
 FX14G0   0 0 # * PLACE HOLDER *
 FX14H0   0 0 # * PLACE HOLDER *
-FX15A1   0 0 # BigProjectAlone
-FX15A2A8   0 0 # BigProjectAlone 
-FX15A3A7   0 0 # BigProjectAlone 
-FX15A4A6   0 0 # BigProjectAlone 
-FX15A5   0 0 # BigProjectAlone 
-FX15B1   0 0 # BigProjectAlone
-FX15B2B8   0 0 # BigProjectAlone 
-FX15B3B7   0 0 # BigProjectAlone 
-FX15B4B6   0 0 # BigProjectAlone 
-FX15B5   0 0 # BigProjectAlone 
-FX15C1   0 0 # BigProjectAlone
-FX15C2C8   0 0 # BigProjectAlone 
-FX15C3C7   0 0 # BigProjectAlone 
-FX15C4C6   0 0 # BigProjectAlone 
-FX15C5   0 0 # BigProjectAlone 
-FX15D1   0 0 # BigProjectAlone
-FX15D2D8   0 0 # BigProjectAlone 
-FX15D3D7   0 0 # BigProjectAlone 
-FX15D4D6   0 0 # BigProjectAlone 
-FX15D5   0 0 # BigProjectAlone 
-FX15E0   0 0 # BigProjectAlone
-FX15F0   0 0 # BigProjectAlone
-FX15G0   0 0 # BigProjectAlone
-FX16A0   0 0 # * PLACE HOLDER *
-FX16B0   0 0 # * PLACE HOLDER *
-FX16C0   0 0 # * PLACE HOLDER *
-FX16D0   0 0 # * PLACE HOLDER *
-FX16E0   0 0 # * PLACE HOLDER *
-FX16F0   0 0 # * PLACE HOLDER *
-FX16G0   0 0 # * PLACE HOLDER *
-FX16H0   0 0 # * PLACE HOLDER *
-FX16I0   0 0 # * PLACE HOLDER *
-FX16J0   0 0 # * PLACE HOLDER *
-FX16K0   0 0 # * PLACE HOLDER *
-FX16L0   0 0 # * PLACE HOLDER *
+FX15A1   	0 0 # BigProjectAlone
+FX15A2A8   	0 0 # BigProjectAlone 
+FX15A3A7   	0 0 # BigProjectAlone 
+FX15A4A6   	0 0 # BigProjectAlone 
+FX15A5   	0 0 # BigProjectAlone 
+FX15B1   	0 0 # BigProjectAlone
+FX15B2B8   	0 0 # BigProjectAlone 
+FX15B3B7   	0 0 # BigProjectAlone 
+FX15B4B6   	0 0 # BigProjectAlone 
+FX15B5   	0 0 # BigProjectAlone 
+FX15C1   	0 0 # BigProjectAlone
+FX15C2C8   	0 0 # BigProjectAlone 
+FX15C3C7   	0 0 # BigProjectAlone 
+FX15C4C6   	0 0 # BigProjectAlone 
+FX15C5   	0 0 # BigProjectAlone 
+FX15D1   	0 0 # BigProjectAlone
+FX15D2D8   	0 0 # BigProjectAlone 
+FX15D3D7   	0 0 # BigProjectAlone 
+FX15D4D6   	0 0 # BigProjectAlone 
+FX15D5   	0 0 # BigProjectAlone 
+FX15E0   	0 0 # BigProjectAlone
+FX15F0   	0 0 # BigProjectAlone
+FX15G0   	0 0 # BigProjectAlone
+FX16A1    	# * PLACE HOLDER *
+FX16A2A8    	# * PLACE HOLDER *
+FX16A3A7    	# * PLACE HOLDER *
+FX16A4A6    	# * PLACE HOLDER *
+FX16A5    	# * PLACE HOLDER *
+FX16B1   	# * PLACE HOLDER *
+FX16B2B8   	# * PLACE HOLDER *
+FX16B3B7   	# * PLACE HOLDER *
+FX16B4B6   	# * PLACE HOLDER *
+FX16B5   	# * PLACE HOLDER *
+FX16C1   	# * PLACE HOLDER *
+FX16C2C8   	# * PLACE HOLDER *
+FX16C3C7   	# * PLACE HOLDER *
+FX16C4C6   	# * PLACE HOLDER *
+FX16C5   	# * PLACE HOLDER *
+FX16D0   	# * PLACE HOLDER *
+FX16E0   	# * PLACE HOLDER *
+FX16F0    	# * PLACE HOLDER *
+FX16G0    	# * PLACE HOLDER *
+FX16H0    	# * PLACE HOLDER *
+FX16I0    	# * PLACE HOLDER *
+FX16J0    	# * PLACE HOLDER *
+FX16K0    	# * PLACE HOLDER *
+FX16L0    	# * PLACE HOLDER *
 FX17A0   9 11 # 40oz
 FX17B0   9 11 # 40oz
 FX17C0   9 11 # 40oz
@@ -1903,59 +2133,59 @@ PHNXA0   -92 -86 # Eriance
 PHNXB0   -92 -86 # Eriance
 PHNXC0   -61 -76 # Eriance
 PHNXD0   -92 -90 # Eriance
-PLAYA1  24 64 # Reinaldo "Horror Movie Guy"
-PLAYA2A8  24 64 # Reinaldo "Horror Movie Guy"
-PLAYA3A7  24 64 # Reinaldo "Horror Movie Guy"
-PLAYA4A6  24 64 # Reinaldo "Horror Movie Guy"
-PLAYA5  24 64 # Reinaldo "Horror Movie Guy"
-PLAYB1  24 64 # Reinaldo "Horror Movie Guy"
-PLAYB2B8  24 64 # Reinaldo "Horror Movie Guy"
-PLAYB3B7  24 64 # Reinaldo "Horror Movie Guy"
-PLAYB4B6  24 64 # Reinaldo "Horror Movie Guy"
-PLAYB5  24 64 # Reinaldo "Horror Movie Guy"
-PLAYC1  24 64 # Reinaldo "Horror Movie Guy"
-PLAYC2C8  24 64 # Reinaldo "Horror Movie Guy"
-PLAYC3C7  24 64 # Reinaldo "Horror Movie Guy"
-PLAYC4C6  24 64 # Reinaldo "Horror Movie Guy"
-PLAYC5  24 64 # Reinaldo "Horror Movie Guy"
-PLAYD1  24 64 # Reinaldo "Horror Movie Guy"
-PLAYD2D8  24 64 # Reinaldo "Horror Movie Guy"
-PLAYD3D7  24 64 # Reinaldo "Horror Movie Guy"
-PLAYD4D6  24 64 # Reinaldo "Horror Movie Guy"
-PLAYD5  24 64 # Reinaldo "Horror Movie Guy"
-PLAYE1  24 64 # Reinaldo "Horror Movie Guy"
-PLAYE2E8  24 64 # Reinaldo "Horror Movie Guy"
-PLAYE3E7  24 64 # Reinaldo "Horror Movie Guy"
-PLAYE4E6  24 64 # Reinaldo "Horror Movie Guy"
-PLAYE5  24 64 # Reinaldo "Horror Movie Guy"
-PLAYF1  24 64 # Reinaldo "Horror Movie Guy"
-PLAYF2F8  24 64 # Reinaldo "Horror Movie Guy"
-PLAYF3F7  24 64 # Reinaldo "Horror Movie Guy"
-PLAYF4F6  24 64 # Reinaldo "Horror Movie Guy"
-PLAYF5  24 64 # Reinaldo "Horror Movie Guy"
-PLAYG1  24 64 # Reinaldo "Horror Movie Guy"
-PLAYG2G8  24 64 # Reinaldo "Horror Movie Guy"
-PLAYG3G7  24 64 # Reinaldo "Horror Movie Guy"
-PLAYG4G6  24 64 # Reinaldo "Horror Movie Guy"
-PLAYG5  24 64 # Reinaldo "Horror Movie Guy"
-PLAYH0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYI0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYJ0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYK0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYL0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYM0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYN0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYO0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYP0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYQ0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYR0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYS0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYT0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYU0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYV0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYW0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYX0   24 64 # Reinaldo "Horror Movie Guy"
-PLAYY0   24 64 # Reinaldo "Horror Movie Guy"
+PLAYA1		# Reinaldo "Horror Movie Guy"
+PLAYA2A8	# Reinaldo "Horror Movie Guy"
+PLAYA3A7	# Reinaldo "Horror Movie Guy"
+PLAYA4A6	# Reinaldo "Horror Movie Guy"
+PLAYA5		# Reinaldo "Horror Movie Guy"
+PLAYB1		# Reinaldo "Horror Movie Guy"
+PLAYB2B8	# Reinaldo "Horror Movie Guy"
+PLAYB3B7	# Reinaldo "Horror Movie Guy"
+PLAYB4B6	# Reinaldo "Horror Movie Guy"
+PLAYB5		# Reinaldo "Horror Movie Guy"
+PLAYC1		# Reinaldo "Horror Movie Guy"
+PLAYC2C8	# Reinaldo "Horror Movie Guy"
+PLAYC3C7	# Reinaldo "Horror Movie Guy"
+PLAYC4C6	# Reinaldo "Horror Movie Guy"
+PLAYC5		# Reinaldo "Horror Movie Guy"
+PLAYD1		# Reinaldo "Horror Movie Guy"
+PLAYD2D8	# Reinaldo "Horror Movie Guy"
+PLAYD3D7	# Reinaldo "Horror Movie Guy"
+PLAYD4D6	# Reinaldo "Horror Movie Guy"
+PLAYD5		# Reinaldo "Horror Movie Guy"
+PLAYE1		# Reinaldo "Horror Movie Guy"
+PLAYE2E8	# Reinaldo "Horror Movie Guy"
+PLAYE3E7	# Reinaldo "Horror Movie Guy"
+PLAYE4E6	# Reinaldo "Horror Movie Guy"
+PLAYE5		# Reinaldo "Horror Movie Guy"
+PLAYF1		# Reinaldo "Horror Movie Guy"
+PLAYF2F8	# Reinaldo "Horror Movie Guy"
+PLAYF3F7	# Reinaldo "Horror Movie Guy"
+PLAYF4F6	# Reinaldo "Horror Movie Guy"
+PLAYF5		# Reinaldo "Horror Movie Guy"
+PLAYG1		# Reinaldo "Horror Movie Guy"
+PLAYG2G8	# Reinaldo "Horror Movie Guy"
+PLAYG3G7	# Reinaldo "Horror Movie Guy"
+PLAYG4G6	# Reinaldo "Horror Movie Guy"
+PLAYG5		# Reinaldo "Horror Movie Guy"
+PLAYH0		# Reinaldo "Horror Movie Guy"
+PLAYI0		# Reinaldo "Horror Movie Guy"
+PLAYJ0		# Reinaldo "Horror Movie Guy"
+PLAYK0		# Reinaldo "Horror Movie Guy"
+PLAYL0 	# Reinaldo "Horror Movie Guy"
+PLAYM0		# Reinaldo "Horror Movie Guy"
+PLAYN0		# Reinaldo "Horror Movie Guy"
+PLAYO0		# Reinaldo "Horror Movie Guy"
+PLAYP0 	# Reinaldo "Horror Movie Guy"
+PLAYQ0  	# Reinaldo "Horror Movie Guy"
+PLAYR0   	# Reinaldo "Horror Movie Guy"
+PLAYS0  	# Reinaldo "Horror Movie Guy"
+PLAYT0  	# Reinaldo "Horror Movie Guy"
+PLAYU0   	# Reinaldo "Horror Movie Guy"
+PLAYV0   	# Reinaldo "Horror Movie Guy"
+PLAYW0   	# Reinaldo "Horror Movie Guy"
+PLAYX0   	# Reinaldo "Horror Movie Guy"
+PLAYY0   	# Reinaldo "Horror Movie Guy"
 PPODA0   23 40 # Stilgar
 PPODB0   23 40 # Stilgar
 PPODC0   23 40 # (FreeDoom Team)
@@ -2123,9 +2353,9 @@ VLCOE0   16 38 # Warfare
 WTRHA0   5 78 # Stilgar
 WTRHB0   5 78 # Stilgar
 WTRHC0   5 78 # Stilgar
-XPL1A0   0 0 # * PLACE HOLDER *
-XPL1B0   0 0 # * PLACE HOLDER *
-XPL1C0   0 0 # * PLACE HOLDER *
-XPL1D0   0 0 # * PLACE HOLDER *
-XPL1E0   0 0 # * PLACE HOLDER *
-XPL1F0   0 0 # * PLACE HOLDER *
+XPL1A0   24 40 # * PLACE HOLDER *
+XPL1B0   24 40 # * PLACE HOLDER *
+XPL1C0   24 40 # * PLACE HOLDER *
+XPL1D0   24 40 # * PLACE HOLDER *
+XPL1E0   24 40 # * PLACE HOLDER *
+XPL1F0   24 40 # * PLACE HOLDER *
