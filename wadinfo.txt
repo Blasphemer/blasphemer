@@ -54,37 +54,37 @@ MUS_CPTD BLAS22X  # Jute Gyte (Episode complete music)
 MUS_INTR BLAS14X  # Jute Gyte (Level complete music)
 
 [levels]
-E1M1	  # Angry Saint
-E1M2  	  # Cacowad
-E1M3      # SFoZ911
-E1M4      # Steve Parker
-E1M5      # Snarboo
-E1M6      # Philippe lesire
-E1M7      # Ryathaen
-E1M8      # Brad Kiefer
+E1M1		# Angry Saint
+E1M2  	  	# Cacowad
+E1M3      	# SFoZ911
+E1M4      	# Steve Parker
+E1M5      	# Snarboo
+E1M6      	# Philippe lesire
+E1M7      	# Ryathaen
+E1M8      	# Brad Kiefer
 E1M9 PH
-E2M1      # Owen "Sarge Baldy" Lloyd (Bugfixed)
-E2M2      # Chris Lutz
-E2M3      # Samian and Cacowad
-E2M4      # Ryathaen
-E2M5      # Brad Kiefer
-E2M6      # Brad Kiefer
-E2M7      # Cacowad
-E2M8      # Cacowad
+E2M1      	# Owen "Sarge Baldy" Lloyd (Bugfixed)
+E2M2      	# Chris Lutz
+E2M3      	# Samian and Cacowad
+E2M4      	# Ryathaen
+E2M5      	# Brad Kiefer
+E2M6      	# Brad Kiefer
+E2M7      	# Cacowad
+E2M8      	# Cacowad
 E2M9 PH
-E3M1 PH
-E3M2 PH
-E3M3 PH
-E3M4 PH
-E3M5 PH
-E3M6 PH
-E3M7 PH
-E3M8	  # Catoptromancy
+E3M1	  	# Suporma
+E3M2 		# Craneo
+E3M3 		# Craneo
+E3M4 		# Ettingrinder
+E3M5 		# Ettingrinder
+E3M6 		# Ettingrinder
+E3M7 		# Ettingrinder
+E3M8	  	# Catoptromancy
 E3M9 PH
-E4M1 DM1 # Jute Gyte
-E4M2 DM2 # Rellik (Conversion by Jute)
-E4M3 DM3 # Rellik (Conversion by Jute)
-E4M4 DM4 # Hellbent (Conversion by Jute)
+E4M1 DM1 	# Jute Gyte
+E4M2 DM2 	# Rellik (Conversion by Jute)
+E4M3 DM3 	# Rellik (Conversion by Jute)
+E4M4 DM4 	# Hellbent (Conversion by Jute)
 E4M5 PH
 E4M6 PH
 E4M7 PH
@@ -99,9 +99,9 @@ E5M6 PH
 E5M7 PH
 E5M8 PH
 E5M9 PH
-E6M1	 # DragonMorpheus
+E6M1	 	# DragonMorpheus
 E6M2 PH
-E6M3	 # Catoptromancy
+E6M3	 	# Catoptromancy
 
 [texture1]
 TEXTURE1
@@ -1944,9 +1944,21 @@ FX13J0   0 0 # * PLACE HOLDER *
 FX13K0   0 0 # * PLACE HOLDER *
 FX13L0   0 0 # * PLACE HOLDER *
 FX13M0   0 0 # * PLACE HOLDER *
-FX14A0   0 0 # * PLACE HOLDER *
-FX14B0   0 0 # * PLACE HOLDER *
-FX14C0   0 0 # * PLACE HOLDER *
+FX14A1   0 0 # * PLACE HOLDER *
+FX14A2A8   0 0 # * PLACE HOLDER *
+FX14A3A7   0 0 # * PLACE HOLDER *
+FX14A4A6   0 0 # * PLACE HOLDER *
+FX14A5   0 0 # * PLACE HOLDER *
+FX14B1   0 0 # * PLACE HOLDER *
+FX14B2B8   0 0 # * PLACE HOLDER *
+FX14B3B7   0 0 # * PLACE HOLDER *
+FX14B4B6   0 0 # * PLACE HOLDER *
+FX14B5   0 0 # * PLACE HOLDER *
+FX14C1   0 0 # * PLACE HOLDER *
+FX14C2C8   0 0 # * PLACE HOLDER *
+FX14C3C7   0 0 # * PLACE HOLDER *
+FX14C4C6   0 0 # * PLACE HOLDER *
+FX14C5   0 0 # * PLACE HOLDER *
 FX14D0   0 0 # * PLACE HOLDER *
 FX14E0   0 0 # * PLACE HOLDER *
 FX14F0   0 0 # * PLACE HOLDER *
@@ -2241,21 +2253,21 @@ RAXEB5   0 0 # BigProjectAlone
 RAXEC0   0 0 # BigProjectAlone
 RAXED0   0 0 # BigProjectAlone
 RAXEE0   0 0 # BigProjectAlone
-SDTHA0   0 0 # * PLACE HOLDER *
-SDTHB0   0 0 # * PLACE HOLDER *
-SDTHC0   0 0 # * PLACE HOLDER *
-SDTHD0   0 0 # * PLACE HOLDER *
-SDTHE0   0 0 # * PLACE HOLDER *
-SDTHF0   0 0 # * PLACE HOLDER *
-SDTHG0   0 0 # * PLACE HOLDER *
-SDTHH0   0 0 # * PLACE HOLDER *
-SDTHI0   0 0 # * PLACE HOLDER *
-SDTHJ0   0 0 # * PLACE HOLDER *
-SDTHK0   0 0 # * PLACE HOLDER *
-SDTHL0   0 0 # * PLACE HOLDER *
-SDTHM0   0 0 # * PLACE HOLDER *
-SDTHN0   0 0 # * PLACE HOLDER *
-SDTHO0   0 0 # * PLACE HOLDER *
+SDTHA0   25 62 # * PLACE HOLDER *
+SDTHB0   25 62 # * PLACE HOLDER *
+SDTHC0   25 62 # * PLACE HOLDER *
+SDTHD0   23 61 # * PLACE HOLDER *
+SDTHE0   23 61 # * PLACE HOLDER *
+SDTHF0   23 61 # * PLACE HOLDER *
+SDTHG0   23 61 # * PLACE HOLDER *
+SDTHH0   30 61 # * PLACE HOLDER *
+SDTHI0   30 61 # * PLACE HOLDER *
+SDTHJ0   32 60 # * PLACE HOLDER *
+SDTHK0   32 60 # * PLACE HOLDER *
+SDTHL0   32 60 # * PLACE HOLDER *
+SDTHM0   29 54 # * PLACE HOLDER *
+SDTHN0   29 54 # * PLACE HOLDER *
+SDTHO0   18 16 # * PLACE HOLDER *
 SFFIA0   0 0 # * PLACE HOLDER *
 SFFIB0   0 0 # * PLACE HOLDER *
 SFFIC0   0 0 # * PLACE HOLDER *
