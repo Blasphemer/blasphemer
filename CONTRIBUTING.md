@@ -1,11 +1,12 @@
 # Premise #
 
-Right now the project is locked to contributors only. If you somehow want to contribute directly to the github repository or add or modify wiki pages or issues, shoot a PM on doomworld to Cacowad.
+Submitting resources to blasphemer can be done using pull requests on github, or just posting your work to the forums or on discord. 
 
-Otherwise if you can't be bothered with git, simply post a request on the Blasphemer discussion megathread here: https://www.doomworld.com/vb/freedoom/70732-blasphemer-discussion/ and we should be able to update the repository\issue\wiki accordingly.  
-Below you'll find the original contribution guidelines, you should always keep those in mind.
+https://www.doomworld.com/vb/freedoom/70732-blasphemer-discussion/
 
-cheers, Cacowad.
+If you have found a bug or other issue, you can post them to the issues page on github.
+
+https://github.com/Blasphemer/blasphemer/issues
 
 # Contribution Guidelines #
 

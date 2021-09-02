@@ -1,7 +1,8 @@
 G. "Stilgar" Wessner - Graphics, Former Project Lead
-Jute Gyte - Music and Sound, Level Design, Project Lead
-Sodaholic - Sounds and Graphics, Project Maintainer, Project Lead
+Jute Gyte - Music and Sound, Level Design, Former Project Lead
+Sodaholic - Sounds and Graphics, Former Project Maintainer, Former Project Lead
 Springy - Project Lead
+Cacowad - Level Design, Project Mantainer
 DooMAD - Graphics
 Blox - Graphics
 Eriance - Weapon Graphics
@@ -26,6 +27,15 @@ Neoworm - Graphics
 Printz - Graphics
 Clebardman - Weapon Graphics
 Artisticdude - Sounds
+Catoptromancy - Graphics Cleanup, Tester, Bugfix
+BethOfDeath - Graphics
+Lokito - Graphics
+Linguica - Graphics
+BigProjectAlone - Graphics
+HorrorMovieGuy - Graphics
+Suporma - Level Design
+Craneo - Level Design
+EttinGrinder - Level Design
 
 For detailed credits regarding who made which resources, refer to the file
 wadinfo.txt.
