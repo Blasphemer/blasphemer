@@ -62,7 +62,7 @@ E1M5      	# Snarboo
 E1M6      	# Philippe lesire
 E1M7      	# Ryathaen
 E1M8      	# Brad Kiefer
-E1M9 PH
+E1M9 		# Fraggle
 E2M1      	# Owen "Sarge Baldy" Lloyd (Bugfixed)
 E2M2      	# Chris Lutz
 E2M3      	# Samian and Cacowad
@@ -244,7 +244,7 @@ WIZSIT   # SuperSomariDX
 WPNUP    # Artisticdude
 
 [graphics]
-ADVISOR  -260 -15 # Stilgar
+ADVISOR  -266 -13 # Stilgar
 IN_X     GOD1	0 0 # * PLACE HOLDER *  
 IN_YAH   GOD1	0 0 # * PLACE HOLDER * 
 MAPE1    0 0 # * PLACE HOLDER *
@@ -1686,12 +1686,12 @@ BLSRA0   -103 -84 # Eriance
 BLSRB0   -103 -84 # Eriance
 BLSRC0   -97 -84 # Eriance
 BLSRD0   -89 -73 # Eriance
-BSKLA0   0 0 # Reinaldo "Horror Movie Guy"
-BSKLB0   0 0 # Reinaldo "Horror Movie Guy"
-BSKLC0   0 0 # Reinaldo "Horror Movie Guy"
-BSKLD0   0 0 # Reinaldo "Horror Movie Guy"
-BSKLE0   0 0 # Reinaldo "Horror Movie Guy"
-BSKLF0   0 0 # Reinaldo "Horror Movie Guy"
+BSKLA0    # Reinaldo "Horror Movie Guy"
+BSKLB0    # Reinaldo "Horror Movie Guy"
+BSKLC0    # Reinaldo "Horror Movie Guy"
+BSKLD0    # Reinaldo "Horror Movie Guy"
+BSKLE0    # Reinaldo "Horror Movie Guy"
+BSKLF0    # Reinaldo "Horror Movie Guy"
 CHDLA0   28 60 # Warfare
 CHDLB0   28 60 # Warfare
 CHDLC0   28 60 # Warfare
@@ -1777,11 +1777,11 @@ FRB1G0   	12 11 # Espi
 FRB1H0   	12 11 # Espi
 FX00A0   3 6 # Printz
 FX00B0   6 4 # Printz
-FX00C0   0 0 # * PLACE HOLDER *
-FX00D0   0 0 # * PLACE HOLDER *
-FX00E0   0 0 # * PLACE HOLDER *
-FX00F0   0 0 # * PLACE HOLDER *
-FX00G0   0 0 # * PLACE HOLDER *
+FX00C0    # * PLACE HOLDER *
+FX00D0    # * PLACE HOLDER *
+FX00E0    # * PLACE HOLDER *
+FX00F0    # * PLACE HOLDER *
+FX00G0    # * PLACE HOLDER *
 FX00H0   9 9 # Leilei
 FX00I0   12 15 # Leilei
 FX00J0   15 18 # Leilei
@@ -1801,11 +1801,11 @@ FX02B0   4 4 # SuperSomariDX
 FX02C0   8 8 # Protox
 FX02D0   8 8 # SuperSomariDX
 FX02E0   15 14 # SuperSomariDX
-FX02F0   0 0 # * PLACE HOLDER *
-FX02G0   0 0 # * PLACE HOLDER *
-FX02H0   0 0 # * PLACE HOLDER *
-FX02I0   0 0 # * PLACE HOLDER *
-FX02J0   0 0 # * PLACE HOLDER *
+FX02F0    # * PLACE HOLDER *
+FX02G0    # * PLACE HOLDER *
+FX02H0    # * PLACE HOLDER *
+FX02I0    # * PLACE HOLDER *
+FX02J0    # * PLACE HOLDER *
 FX03A1   4 5 # Neoworm
 FX03A2A8 11 3 # Neoworm
 FX03A3A7 13 3 # Neoworm
@@ -1819,59 +1819,59 @@ FX03B5   4 8 # Neoworm
 FX03C0   11 11 # Leilei
 FX03D0   21 14 # Leilei
 FX03E0   26 12 # Leilei
-FX03F0   0 0 # * PLACE HOLDER *
-FX03G0   0 0 # * PLACE HOLDER *
+FX03F0   4 8   # * PLACE HOLDER *
+FX03G0    # * PLACE HOLDER *
 FX03H0   11 10 # Leilei
 FX03I0   21 17 # Leilei
 FX03J0   26 8 # Leilei
-FX04A1   0 0 # Eriance
-FX04A2A8   0 0 # Eriance
-FX04A3A7   0 0 # Eriance
-FX04A4A6   0 0 # Eriance
-FX04A5   0 0 # Eriance
-FX04B0   0 0 # * PLACE HOLDER *
-FX04C0   0 0 # * PLACE HOLDER *
-FX04D0   0 0 # * PLACE HOLDER *
-FX04E0   0 0 # * PLACE HOLDER *
-FX04F0   0 0 # * PLACE HOLDER *
-FX05A1A5   0 0 # Protox
-FX05A2A8   0 0 # Protox
-FX05A3A7   0 0 # Protox
-FX05A4A6   0 0 # Protox
-FX05B1B5   0 0 # Protox
-FX05B2B8   0 0 # Protox
-FX05B3B7   0 0 # Protox
-FX05B4B6   0 0 # Protox
-FX05C1C5   0 0 # Protox
-FX05C2C8   0 0 # Protox
-FX05C3C7   0 0 # Protox
-FX05C4C6   0 0 # Protox
-FX05D0   0 0 # * PLACE HOLDER *
-FX05E0   0 0 # * PLACE HOLDER *
-FX05F0   0 0 # * PLACE HOLDER *
-FX05G0   0 0 # * PLACE HOLDER *
-FX05H1   0 0 # * PLACE HOLDER *
-FX05H2H8   0 0 # * PLACE HOLDER *
-FX05H3H7   0 0 # * PLACE HOLDER *
-FX05H4H6   0 0 # * PLACE HOLDER *
-FX05H5   0 0 # * PLACE HOLDER *
-FX05I1   0 0 # * PLACE HOLDER *
-FX05I2I8   0 0 # * PLACE HOLDER *
-FX05I3I7   0 0 # * PLACE HOLDER *
-FX05I4I6   0 0 # * PLACE HOLDER *
-FX05I5   0 0 # * PLACE HOLDER *
-FX05J1   0 0 # * PLACE HOLDER *
-FX05J2J8   0 0 # * PLACE HOLDER *
-FX05J3J7   0 0 # * PLACE HOLDER *
-FX05J4J6   0 0 # * PLACE HOLDER *
-FX05J5   0 0 # * PLACE HOLDER *
-FX06A0   0 0 # * PLACE HOLDER *
-FX06B0   0 0 # * PLACE HOLDER *
-FX06C0   0 0 # * PLACE HOLDER *
-FX06D0   0 0 # * PLACE HOLDER *
-FX06E0   0 0 # * PLACE HOLDER *
-FX06F0   0 0 # * PLACE HOLDER *
-FX06G0   0 0 # * PLACE HOLDER *
+FX04A1    # Eriance
+FX04A2A8    # Eriance
+FX04A3A7    # Eriance
+FX04A4A6    # Eriance
+FX04A5    # Eriance
+FX04B0    # * PLACE HOLDER *
+FX04C0    # * PLACE HOLDER *
+FX04D0    # * PLACE HOLDER *
+FX04E0    # * PLACE HOLDER *
+FX04F0    # * PLACE HOLDER *
+FX05A1A5    # Protox
+FX05A2A8    # Protox
+FX05A3A7    # Protox
+FX05A4A6    # Protox
+FX05B1B5    # Protox
+FX05B2B8    # Protox
+FX05B3B7    # Protox
+FX05B4B6    # Protox
+FX05C1C5    # Protox
+FX05C2C8    # Protox
+FX05C3C7    # Protox
+FX05C4C6    # Protox
+FX05D0    # * PLACE HOLDER *
+FX05E0    # * PLACE HOLDER *
+FX05F0    # * PLACE HOLDER *
+FX05G0    # * PLACE HOLDER *
+FX05H1    # * PLACE HOLDER *
+FX05H2H8    # * PLACE HOLDER *
+FX05H3H7    # * PLACE HOLDER *
+FX05H4H6   # * PLACE HOLDER *
+FX05H5    # * PLACE HOLDER *
+FX05I1    # * PLACE HOLDER *
+FX05I2I8    # * PLACE HOLDER *
+FX05I3I7    # * PLACE HOLDER *
+FX05I4I6    # * PLACE HOLDER *
+FX05I5    # * PLACE HOLDER *
+FX05J1    # * PLACE HOLDER *
+FX05J2J8    # * PLACE HOLDER *
+FX05J3J7    # * PLACE HOLDER *
+FX05J4J6   # * PLACE HOLDER *
+FX05J5    # * PLACE HOLDER *
+FX06A0   # * PLACE HOLDER *
+FX06B0    # * PLACE HOLDER *
+FX06C0    # * PLACE HOLDER *
+FX06D0    # * PLACE HOLDER *
+FX06E0    # * PLACE HOLDER *
+FX06F0    # * PLACE HOLDER *
+FX06G0    # * PLACE HOLDER *
 FX07A0   16 30 # * PLACE HOLDER *
 FX07B0   16 30 # * PLACE HOLDER *
 FX07C0   16 30 # * PLACE HOLDER *
@@ -1879,35 +1879,35 @@ FX07D0   16 30 # * PLACE HOLDER *
 FX07E0   16 30 # * PLACE HOLDER *
 FX07F0   16 30 # * PLACE HOLDER *
 FX07G0   16 30 # * PLACE HOLDER *
-FX08A0   0 0 # * PLACE HOLDER *
-FX08B0   0 0 # * PLACE HOLDER *
-FX08C0   0 0 # * PLACE HOLDER *
-FX08D0   0 0 # * PLACE HOLDER *
-FX08E0   0 0 # * PLACE HOLDER *
-FX08F0   0 0 # * PLACE HOLDER *
-FX08G0   0 0 # * PLACE HOLDER *
-FX08H0   0 0 # * PLACE HOLDER *
-FX08I0   0 0 # * PLACE HOLDER *
-FX08J0   0 0 # * PLACE HOLDER *
-FX08K0   0 0 # * PLACE HOLDER *
-FX09A0   0 0 # SuperSomariDX
-FX09B0   0 0 # SuperSomariDX
-FX09C0   0 0 # * PLACE HOLDER *
-FX09D0   0 0 # * PLACE HOLDER *
-FX09E0   0 0 # * PLACE HOLDER *
-FX09F0   0 0 # * PLACE HOLDER *
-FX09G0   0 0 # * PLACE HOLDER *
-FX09H0   0 0 # * PLACE HOLDER *
-FX09I0   0 0 # * PLACE HOLDER *
-FX09J0   0 0 # * PLACE HOLDER *
-FX09K0   0 0 # * PLACE HOLDER *
-FX10A0   0 0 # Protox
-FX10B0   0 0 # Protox
-FX10C0   0 0 # Protox
-FX10D0   0 0 # Protox
-FX10E0   0 0 # Protox
-FX10F0   0 0 # Protox
-FX10G0   0 0 # Protox
+FX08A0    # * PLACE HOLDER *
+FX08B0    # * PLACE HOLDER *
+FX08C0   # * PLACE HOLDER *
+FX08D0   # * PLACE HOLDER *
+FX08E0   # * PLACE HOLDER *
+FX08F0    # * PLACE HOLDER *
+FX08G0    # * PLACE HOLDER *
+FX08H0    # * PLACE HOLDER *
+FX08I0    # * PLACE HOLDER *
+FX08J0    # * PLACE HOLDER *
+FX08K0    # * PLACE HOLDER *
+FX09A0    # SuperSomariDX
+FX09B0    # SuperSomariDX
+FX09C0    # * PLACE HOLDER *
+FX09D0    # * PLACE HOLDER *
+FX09E0    # * PLACE HOLDER *
+FX09F0    # * PLACE HOLDER *
+FX09G0    # * PLACE HOLDER *
+FX09H0    # * PLACE HOLDER *
+FX09I0    # * PLACE HOLDER *
+FX09J0    # * PLACE HOLDER *
+FX09K0    # * PLACE HOLDER *
+FX10A0    # Protox
+FX10B0    # Protox
+FX10C0    # Protox
+FX10D0    # Protox
+FX10E0    # Protox
+FX10F0    # Protox
+FX10G0    # Protox
 FX11A0	6	6	# Printz
 FX11B0	9	9	# Printz
 FX11C0	11	12	# Printz
@@ -1931,62 +1931,62 @@ FX12E0   	# * PLACE HOLDER *
 FX12F0   	# * PLACE HOLDER *
 FX12G0   	# * PLACE HOLDER *
 FX12H0   	# * PLACE HOLDER *
-FX13A0   0 0 # * PLACE HOLDER *
-FX13B0   0 0 # * PLACE HOLDER *
-FX13C0   0 0 # * PLACE HOLDER *
-FX13D0   0 0 # * PLACE HOLDER *
-FX13E0   0 0 # * PLACE HOLDER *
-FX13F0   0 0 # * PLACE HOLDER *
-FX13G0   0 0 # * PLACE HOLDER *
-FX13H0   0 0 # * PLACE HOLDER *
-FX13I0   0 0 # * PLACE HOLDER *
-FX13J0   0 0 # * PLACE HOLDER *
-FX13K0   0 0 # * PLACE HOLDER *
-FX13L0   0 0 # * PLACE HOLDER *
-FX13M0   0 0 # * PLACE HOLDER *
-FX14A1   0 0 # * PLACE HOLDER *
-FX14A2A8   0 0 # * PLACE HOLDER *
-FX14A3A7   0 0 # * PLACE HOLDER *
-FX14A4A6   0 0 # * PLACE HOLDER *
-FX14A5   0 0 # * PLACE HOLDER *
-FX14B1   0 0 # * PLACE HOLDER *
-FX14B2B8   0 0 # * PLACE HOLDER *
-FX14B3B7   0 0 # * PLACE HOLDER *
-FX14B4B6   0 0 # * PLACE HOLDER *
-FX14B5   0 0 # * PLACE HOLDER *
-FX14C1   0 0 # * PLACE HOLDER *
-FX14C2C8   0 0 # * PLACE HOLDER *
-FX14C3C7   0 0 # * PLACE HOLDER *
-FX14C4C6   0 0 # * PLACE HOLDER *
-FX14C5   0 0 # * PLACE HOLDER *
-FX14D0   0 0 # * PLACE HOLDER *
-FX14E0   0 0 # * PLACE HOLDER *
-FX14F0   0 0 # * PLACE HOLDER *
-FX14G0   0 0 # * PLACE HOLDER *
-FX14H0   0 0 # * PLACE HOLDER *
-FX15A1   	0 0 # BigProjectAlone
-FX15A2A8   	0 0 # BigProjectAlone 
-FX15A3A7   	0 0 # BigProjectAlone 
-FX15A4A6   	0 0 # BigProjectAlone 
-FX15A5   	0 0 # BigProjectAlone 
-FX15B1   	0 0 # BigProjectAlone
-FX15B2B8   	0 0 # BigProjectAlone 
-FX15B3B7   	0 0 # BigProjectAlone 
-FX15B4B6   	0 0 # BigProjectAlone 
-FX15B5   	0 0 # BigProjectAlone 
-FX15C1   	0 0 # BigProjectAlone
-FX15C2C8   	0 0 # BigProjectAlone 
-FX15C3C7   	0 0 # BigProjectAlone 
-FX15C4C6   	0 0 # BigProjectAlone 
-FX15C5   	0 0 # BigProjectAlone 
-FX15D1   	0 0 # BigProjectAlone
-FX15D2D8   	0 0 # BigProjectAlone 
-FX15D3D7   	0 0 # BigProjectAlone 
-FX15D4D6   	0 0 # BigProjectAlone 
-FX15D5   	0 0 # BigProjectAlone 
-FX15E0   	0 0 # BigProjectAlone
-FX15F0   	0 0 # BigProjectAlone
-FX15G0   	0 0 # BigProjectAlone
+FX13A0    # * PLACE HOLDER *
+FX13B0    # * PLACE HOLDER *
+FX13C0    # * PLACE HOLDER *
+FX13D0    # * PLACE HOLDER *
+FX13E0    # * PLACE HOLDER *
+FX13F0    # * PLACE HOLDER *
+FX13G0    # * PLACE HOLDER *
+FX13H0    # * PLACE HOLDER *
+FX13I0    # * PLACE HOLDER *
+FX13J0    # * PLACE HOLDER *
+FX13K0    # * PLACE HOLDER *
+FX13L0   # * PLACE HOLDER *
+FX13M0   # * PLACE HOLDER *
+FX14A1    # * PLACE HOLDER *
+FX14A2A8   # * PLACE HOLDER *
+FX14A3A7   # * PLACE HOLDER *
+FX14A4A6    # * PLACE HOLDER *
+FX14A5    # * PLACE HOLDER *
+FX14B1   # * PLACE HOLDER *
+FX14B2B8    # * PLACE HOLDER *
+FX14B3B7    # * PLACE HOLDER *
+FX14B4B6    # * PLACE HOLDER *
+FX14B5    # * PLACE HOLDER *
+FX14C1    # * PLACE HOLDER *
+FX14C2C8    # * PLACE HOLDER *
+FX14C3C7    # * PLACE HOLDER *
+FX14C4C6    # * PLACE HOLDER *
+FX14C5    # * PLACE HOLDER *
+FX14D0    # * PLACE HOLDER *
+FX14E0   # * PLACE HOLDER *
+FX14F0    # * PLACE HOLDER *
+FX14G0    # * PLACE HOLDER *
+FX14H0    # * PLACE HOLDER *
+FX15A1   	 # BigProjectAlone
+FX15A2A8   	 # BigProjectAlone 
+FX15A3A7   	 # BigProjectAlone 
+FX15A4A6   	 # BigProjectAlone 
+FX15A5   	 # BigProjectAlone 
+FX15B1   	 # BigProjectAlone
+FX15B2B8   	 # BigProjectAlone 
+FX15B3B7   	 # BigProjectAlone 
+FX15B4B6   	 # BigProjectAlone 
+FX15B5   	 # BigProjectAlone 
+FX15C1   	 # BigProjectAlone
+FX15C2C8    # BigProjectAlone 
+FX15C3C7   	 # BigProjectAlone 
+FX15C4C6   	 # BigProjectAlone 
+FX15C5   	 # BigProjectAlone 
+FX15D1   	 # BigProjectAlone
+FX15D2D8   	 # BigProjectAlone 
+FX15D3D7   	 # BigProjectAlone 
+FX15D4D6   	 # BigProjectAlone 
+FX15D5   	 # BigProjectAlone 
+FX15E0   	 # BigProjectAlone
+FX15F0   	 # BigProjectAlone
+FX15G0   	 # BigProjectAlone
 FX16A1    	# * PLACE HOLDER *
 FX16A2A8    	# * PLACE HOLDER *
 FX16A3A7    	# * PLACE HOLDER *
@@ -2023,13 +2023,13 @@ FX17I0   16 15 # 40oz
 FX17J0   16 15 # 40oz
 FX17K0   16 15 # 40oz
 FX17L0   16 15 # 40oz
-FX18A0   0 0 # * PLACE HOLDER *
-FX18B0   0 0 # * PLACE HOLDER *
-FX18C0   0 0 # * PLACE HOLDER *
-FX18D0   0 0 # * PLACE HOLDER *
-FX18E0   0 0 # * PLACE HOLDER *
-FX18F0   0 0 # * PLACE HOLDER *
-FX18G0   0 0 # * PLACE HOLDER *
+FX18A0    # * PLACE HOLDER *
+FX18B0    # * PLACE HOLDER *
+FX18C0    # * PLACE HOLDER *
+FX18D0    # * PLACE HOLDER *
+FX18E0    # * PLACE HOLDER *
+FX18F0    # * PLACE HOLDER *
+FX18G0   # * PLACE HOLDER *
 FX18H0   8 8 # 40oz
 FX18I0   8 8 # 40oz
 FX18J0   8 8 # 40oz
@@ -2045,47 +2045,47 @@ FX18N8N2 FX18M8M2 8 5 # 40oz
 FX18N7N3 FX18M7M3 12 5 # 40oz
 FX18N6N4 FX18M6M4 8 5 # 40oz
 FX18N5 FX18M5   4 5 # 40oz
-FX18O0   0 0 # * PLACE HOLDER *
-FX18P0   0 0 # * PLACE HOLDER *
-FX18Q0   0 0 # * PLACE HOLDER *
-FX18R0   0 0 # * PLACE HOLDER *
-FX18S0   0 0 # * PLACE HOLDER *
-FX20A0   0 0 # * PLACE HOLDER *
-FX20B0   0 0 # * PLACE HOLDER *
-FX20C0   0 0 # * PLACE HOLDER *
-FX20D0   0 0 # * PLACE HOLDER *
-FX20E0   0 0 # * PLACE HOLDER *
-FX20F0   0 0 # * PLACE HOLDER *
-FX20G0   0 0 # * PLACE HOLDER *
-FX20H0   0 0 # * PLACE HOLDER *
-FX20I0   0 0 # * PLACE HOLDER *
-FX21A0   0 0 # * PLACE HOLDER *
-FX21B0   0 0 # * PLACE HOLDER *
-FX21C0   0 0 # * PLACE HOLDER *
-FX21D0   0 0 # * PLACE HOLDER *
-FX21E0   0 0 # * PLACE HOLDER *
-FX21F0   0 0 # * PLACE HOLDER *
-FX21G0   0 0 # * PLACE HOLDER *
-FX21H0   0 0 # * PLACE HOLDER *
-FX21I0   0 0 # * PLACE HOLDER *
+FX18O0    # * PLACE HOLDER *
+FX18P0    # * PLACE HOLDER *
+FX18Q0    # * PLACE HOLDER *
+FX18R0    # * PLACE HOLDER *
+FX18S0    # * PLACE HOLDER *
+FX20A0    # * PLACE HOLDER *
+FX20B0   # * PLACE HOLDER *
+FX20C0    # * PLACE HOLDER *
+FX20D0    # * PLACE HOLDER *
+FX20E0   # * PLACE HOLDER *
+FX20F0    # * PLACE HOLDER *
+FX20G0   # * PLACE HOLDER *
+FX20H0    # * PLACE HOLDER *
+FX20I0   # * PLACE HOLDER *
+FX21A0    # * PLACE HOLDER *
+FX21B0   # * PLACE HOLDER *
+FX21C0    # * PLACE HOLDER *
+FX21D0    # * PLACE HOLDER *
+FX21E0    # * PLACE HOLDER *
+FX21F0    # * PLACE HOLDER *
+FX21G0    # * PLACE HOLDER *
+FX21H0    # * PLACE HOLDER *
+FX21I0    # * PLACE HOLDER *
 FX22A0   2 9 # Leilei
 FX22B0   6 8 # Leilei
 FX22C0   11 20 # Leilei
 FX22D0   11 30 # Leilei
 FX22E0   12 28 # Leilei
 FX22F0   8 2 # Leilei
-FX22G0   0 0 # * PLACE HOLDER *
-FX22H0   0 0 # * PLACE HOLDER *
-FX22I0   0 0 # * PLACE HOLDER *
-FX23A0   0 0 # * PLACE HOLDER *
-FX23B0   0 0 # * PLACE HOLDER *
-FX23C0   0 0 # * PLACE HOLDER *
-FX23D0   0 0 # * PLACE HOLDER *
-FX23E0   0 0 # * PLACE HOLDER *
-FX23F0   0 0 # * PLACE HOLDER *
-FX23G0   0 0 # * PLACE HOLDER *
-FX23H0   0 0 # * PLACE HOLDER *
-FX23I0   0 0 # * PLACE HOLDER *
+FX22G0    # * PLACE HOLDER *
+FX22H0    # * PLACE HOLDER *
+FX22I0    # * PLACE HOLDER *
+FX23A0    # * PLACE HOLDER *
+FX23B0    # * PLACE HOLDER *
+FX23C0    # * PLACE HOLDER *
+FX23D0    # * PLACE HOLDER *
+FX23E0    # * PLACE HOLDER *
+FX23F0    # * PLACE HOLDER *
+FX23G0    # * PLACE HOLDER *
+FX23H0    # * PLACE HOLDER *
+FX23I0    # * PLACE HOLDER *
 GAUNA0   -110 -118 # Eriance
 GAUNB0   -103 -105 # Eriance
 GAUNC0   -96 -90 # Eriance
@@ -2124,17 +2124,17 @@ KGZ1A0   22 61 # Stilgar
 KGZBA0   13 25 # Stilgar
 KGZGA0   13 25 # Stilgar
 KGZYA0   13 25 # Stilgar
-LVASA0   0 0 # * PLACE HOLDER *
-LVASB0   0 0 # * PLACE HOLDER *
-LVASC0   0 0 # * PLACE HOLDER *
-LVASD0   0 0 # * PLACE HOLDER *
-LVASE0   0 0 # * PLACE HOLDER *
-LVASF0   0 0 # * PLACE HOLDER *
-LVASG0   0 0 # * PLACE HOLDER *
-LVASH0   0 0 # * PLACE HOLDER *
-LVASI0   0 0 # * PLACE HOLDER *
-LVASJ0   0 0 # * PLACE HOLDER *
-LVASK0   0 0 # * PLACE HOLDER *
+LVASA0    # * PLACE HOLDER *
+LVASB0    # * PLACE HOLDER *
+LVASC0    # * PLACE HOLDER *
+LVASD0    # * PLACE HOLDER *
+LVASE0    # * PLACE HOLDER *
+LVASF0    # * PLACE HOLDER *
+LVASG0    # * PLACE HOLDER *
+LVASH0    # * PLACE HOLDER *
+LVASI0   # * PLACE HOLDER *
+LVASJ0    # * PLACE HOLDER *
+LVASK0    # * PLACE HOLDER *
 MACEA0	-109	-100 # Eriance
 MACEB0	-109	-100 # Eriance
 MACEC0	-109	-95  # Eriance
@@ -2225,9 +2225,9 @@ PUF1E0   5 5 # * PLACE HOLDER *
 PUF1F0   5 5 # * PLACE HOLDER *
 PUF1G0   5 5 # * PLACE HOLDER *
 PUF1H0   5 5 # * PLACE HOLDER *
-PUF2A0   7 7   # Stilgar, recolored by BethOfDeath aka bpeterson
-PUF2B0   10 10 # Stilgar, recolored by BethOfDeath aka bpeterson
-PUF2C0   13 14 # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF2A0   15 15   # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF2B0   14 14 # Stilgar, recolored by BethOfDeath aka bpeterson
+PUF2C0   14 14 # Stilgar, recolored by BethOfDeath aka bpeterson
 PUF2D0   14 15 # Stilgar, recolored by BethOfDeath aka bpeterson
 PUF2E0   15 16 # Stilgar, recolored by BethOfDeath aka bpeterson
 PUF3A0   4 4  # * PLACE HOLDER *
@@ -2240,19 +2240,19 @@ PUF4C0   6 6 # * PLACE HOLDER *
 PUF4D0   6 6 # * PLACE HOLDER *
 PUF4E0   6 6 # * PLACE HOLDER *
 PUF4F0   6 6 # * PLACE HOLDER *
-RAXEA1   0 0 # BigProjectAlone
-RAXEA2A8   0 0 # BigProjectAlone 
-RAXEA3A7   0 0 # BigProjectAlone 
-RAXEA4A6   0 0 # BigProjectAlone 
-RAXEA5   0 0 # BigProjectAlone 
-RAXEB1   0 0 # BigProjectAlone
-RAXEB2B8   0 0 # BigProjectAlone 
-RAXEB3B7   0 0 # BigProjectAlone 
-RAXEB4B6   0 0 # BigProjectAlone 
-RAXEB5   0 0 # BigProjectAlone 
-RAXEC0   0 0 # BigProjectAlone
-RAXED0   0 0 # BigProjectAlone
-RAXEE0   0 0 # BigProjectAlone
+RAXEA1   # BigProjectAlone
+RAXEA2A8    # BigProjectAlone 
+RAXEA3A7    # BigProjectAlone 
+RAXEA4A6    # BigProjectAlone 
+RAXEA5    # BigProjectAlone 
+RAXEB1    # BigProjectAlone
+RAXEB2B8    # BigProjectAlone 
+RAXEB3B7    # BigProjectAlone 
+RAXEB4B6    # BigProjectAlone 
+RAXEB5    # BigProjectAlone 
+RAXEC0    # BigProjectAlone
+RAXED0    # BigProjectAlone
+RAXEE0    # BigProjectAlone
 SDTHA0   25 62 # * PLACE HOLDER *
 SDTHB0   25 62 # * PLACE HOLDER *
 SDTHC0   25 62 # * PLACE HOLDER *
@@ -2268,82 +2268,82 @@ SDTHL0   32 60 # * PLACE HOLDER *
 SDTHM0   29 54 # * PLACE HOLDER *
 SDTHN0   29 54 # * PLACE HOLDER *
 SDTHO0   18 16 # * PLACE HOLDER *
-SFFIA0   0 0 # * PLACE HOLDER *
-SFFIB0   0 0 # * PLACE HOLDER *
-SFFIC0   0 0 # * PLACE HOLDER *
-SFFID0   0 0 # * PLACE HOLDER *
-SFFIE0   0 0 # * PLACE HOLDER *
-SHRDA0   0 0 # * PLACE HOLDER *
-SHRDB0   0 0 # * PLACE HOLDER *
-SHRDC0   0 0 # * PLACE HOLDER *
-SHRDD0   0 0 # * PLACE HOLDER *
-SHRDE0   0 0 # * PLACE HOLDER *
-SHRDF0   0 0 # * PLACE HOLDER *
+SFFIA0    # * PLACE HOLDER *
+SFFIB0    # * PLACE HOLDER *
+SFFIC0    # * PLACE HOLDER *
+SFFID0    # * PLACE HOLDER *
+SFFIE0    # * PLACE HOLDER *
+SHRDA0    # * PLACE HOLDER *
+SHRDB0    # * PLACE HOLDER *
+SHRDC0    # * PLACE HOLDER *
+SHRDD0    # * PLACE HOLDER *
+SHRDE0    # * PLACE HOLDER *
+SHRDF0    # * PLACE HOLDER *
 SKH1A0   5 75 # Stilgar
 SKH2A0   6 61 # Stilgar
 SKH3A0   6 50 # Stilgar
 SKH4A0   7 36 # Stilgar
-SLDGA0   0 0 # * PLACE HOLDER *
-SLDGB0   0 0 # * PLACE HOLDER *
-SLDGC0   0 0 # * PLACE HOLDER *
-SLDGD0   0 0 # * PLACE HOLDER *
-SLDGE0   0 0 # * PLACE HOLDER *
-SLDGF0   0 0 # * PLACE HOLDER *
-SLDGG0   0 0 # * PLACE HOLDER *
-SLDGH0   0 0 # * PLACE HOLDER *
+SLDGA0    # * PLACE HOLDER *
+SLDGB0    # * PLACE HOLDER *
+SLDGC0    # * PLACE HOLDER *
+SLDGD0    # * PLACE HOLDER *
+SLDGE0    # * PLACE HOLDER *
+SLDGF0    # * PLACE HOLDER *
+SLDGG0    # * PLACE HOLDER *
+SLDGH0    # * PLACE HOLDER *
 SMPLA0   20 36 # Stilgar
-SNFXA0   0 0 # * PLACE HOLDER *
-SNFXB0   0 0 # * PLACE HOLDER *
-SNFXC0   0 0 # * PLACE HOLDER *
-SNFXD0   0 0 # * PLACE HOLDER *
-SNFXE0   0 0 # * PLACE HOLDER *
-SNFXF0   0 0 # * PLACE HOLDER *
-SNFXG0   0 0 # * PLACE HOLDER *
-SNFXH0   0 0 # * PLACE HOLDER *
-SNFXI0   0 0 # * PLACE HOLDER *
-SNFXJ0   0 0 # * PLACE HOLDER *
-SNFXK0   0 0 # * PLACE HOLDER *
-SNFXL0   0 0 # * PLACE HOLDER *
-SNFXM0   0 0 # * PLACE HOLDER *
-SNFXN0   0 0 # * PLACE HOLDER *
-SNFXO0   0 0 # * PLACE HOLDER *
-SPAXA0   0 0 # Protox
-SPAXB0   0 0 # Protox
-SPAXC0   0 0 # Protox
-SPAXD0   0 0 # Protox
-SPAXE0   0 0 # Protox
-SPAXF0   0 0 # Protox
-SPHLA0   9 31 # Stilgar
-SPSHA0   5 6 # 40oz
-SPSHB0   5 6 # 40oz
-SPSHC0   5 6 # 40oz
-SPSHD0   7 6 # 40oz
-SPSHE0   14 8 # 40oz
-SPSHF0   16 15 # 40oz
-SPSHG0   16 23 # 40oz
-SPSHH0   16 23 # 40oz
-SPSHI0   16 21 # 40oz
-SPSHJ0   16 23 # 40oz
-SPSHK0   16 10 # 40oz
-SRTCA0   7 63 # Stilgar
-SRTCB0   7 63 # Stilgar
-SRTCC0   7 63 # Stilgar
-STFFA0   -160 -116 # BigProjectAlone
-STFFB0   -170 -97 # BigProjectAlone
-STFFC0   -113 -80 # BigProjectAlone
-STFFD0   93 -96 # BigProjectAlone
-STFFE0   94 -97 # BigProjectAlone
-STFFF0   90 -98 # BigProjectAlone
-STFFG0   -171 -95 # BigProjectAlone
-STFFH0   -57 -25 # BigProjectAlone
-TELEA0   	8 8 # * PLACE HOLDER *
-TELEB0  TELEC0	8 8 # * PLACE HOLDER *
-TELEC0  TELEE0	16 15 # * PLACE HOLDER *
-TELED0  TELEG0	16 15 # * PLACE HOLDER *
-TELEE0   GOD1 	20 17 # * PLACE HOLDER *
-TELEF0   GOD1 	20 17 # * PLACE HOLDER *
-TELEG0   GOD1	24 22 # * PLACE HOLDER *
-TELEH0   GOD1	24 22 # * PLACE HOLDER *
+SNFXA0    # * PLACE HOLDER *
+SNFXB0    # * PLACE HOLDER *
+SNFXC0    # * PLACE HOLDER *
+SNFXD0    # * PLACE HOLDER *
+SNFXE0    # * PLACE HOLDER *
+SNFXF0    # * PLACE HOLDER *
+SNFXG0    # * PLACE HOLDER *
+SNFXH0    # * PLACE HOLDER *
+SNFXI0    # * PLACE HOLDER *
+SNFXJ0    # * PLACE HOLDER *
+SNFXK0    # * PLACE HOLDER *
+SNFXL0    # * PLACE HOLDER *
+SNFXM0    # * PLACE HOLDER *
+SNFXN0    # * PLACE HOLDER *
+SNFXO0    # * PLACE HOLDER *
+SPAXA0    # Protox
+SPAXB0    # Protox
+SPAXC0    # Protox
+SPAXD0    # Protox
+SPAXE0    # Protox
+SPAXF0    # Protox
+SPHLA0   9 31 	# Stilgar
+SPSHA0   5 6 	# 40oz
+SPSHB0   5 6 	# 40oz
+SPSHC0   5 6 	# 40oz
+SPSHD0   7 6 	# 40oz
+SPSHE0   14 8 	# 40oz
+SPSHF0   16 15	# 40oz
+SPSHG0   16 23	# 40oz
+SPSHH0   16 23	# 40oz
+SPSHI0   16 21	# 40oz
+SPSHJ0   16 23	# 40oz
+SPSHK0   16 10	# 40oz
+SRTCA0   7 63	# Stilgar
+SRTCB0   7 63	# Stilgar
+SRTCC0   7 63	# Stilgar
+STFFA0   -160 -116	# BigProjectAlone
+STFFB0   -170 -97 	# BigProjectAlone
+STFFC0   -113 -80 	# BigProjectAlone
+STFFD0   93 -96 	# BigProjectAlone
+STFFE0   94 -97 	# BigProjectAlone
+STFFF0   90 -98 	# BigProjectAlone
+STFFG0   -171 -95 	# BigProjectAlone
+STFFH0   -57 -25 	# BigProjectAlone
+TELEA0   TELEE0	8 8 # * PLACE HOLDER *
+TELEB0   TELEG0        8 8 # * PLACE HOLDER *
+TELEC0   GOD1          16 15 # * PLACE HOLDER *
+TELED0   GOD1      	16 15 # * PLACE HOLDER *
+TELEE0   GOD1    	20 17 # * PLACE HOLDER *
+TELEF0   GOD1     	20 17 # * PLACE HOLDER *
+TELEG0   GOD1    	24 22 # * PLACE HOLDER *
+TELEH0   GOD1    	24 22 # * PLACE HOLDER *
 TGLTA0   2 2 # Stilgar
 TGLTB0   2 2 # Stilgar
 TGLTC0   3 3 # Stilgar
