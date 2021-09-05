@@ -6,7 +6,8 @@ lumps/sndcurve.lmp: blasphemer_sndcurve.py
 	python blasphemer_sndcurve.py
 
 clean: 
-	rm blasphem.wad 
+	rm blasphem.wad
+	rm blasphdm.wad
 	rm lumps/sndcurve.lmp
 
 prefix?=/usr/local
