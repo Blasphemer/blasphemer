@@ -4,6 +4,8 @@ Submitting resources to blasphemer can be done using pull requests on github, or
 
 https://www.doomworld.com/vb/freedoom/70732-blasphemer-discussion/
 
+https://discord.gg/M7jhmw9zn4
+
 If you have found a bug or other issue, you can post them to the issues page on github.
 
 https://github.com/Blasphemer/blasphemer/issues
