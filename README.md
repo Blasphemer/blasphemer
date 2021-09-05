@@ -11,7 +11,13 @@ https://github.com/Blasphemer/blasphemer/wiki
 It is preferable to handle bug reports or other issues via the "Issues" section of this site rather than forum posts elsewhere.
 https://github.com/Blasphemer/blasphemer/issues
 
-Doomworld thread: https://www.doomworld.com/vb/freedoom/70732-blasphemer-discussion/
+Join us on DoomWorld and Discord!
+
+Doomworld thread:
+https://www.doomworld.com/vb/freedoom/70732-blasphemer-discussion/
+
+Heretic and Hexen Discord server:
+https://discord.gg/M7jhmw9zn4
 
 Blasphemer is licensed under the BSD 3-clause: https://opensource.org/licenses/BSD-3-Clause
 
