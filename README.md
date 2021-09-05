@@ -5,7 +5,9 @@ Blasphemer aims to create a free content package for the Heretic engine, with a 
 Any limit-removing Doom source port that is compatible with Heretic can be used to play Blasphemer. Blasphemer is an iwad, meaning the complete set of resources required for a game but still requires an executable engine to be played. You can turn your favorite Heretic pwads into Lovecraftian nightmares using Blasphemer.
 
 While Blasphemer is currently fully playable, there are still many resources that need to be created or polished. You can become a contributor by submitting a new or modified resource. See the Contributing and wiki for more information:
+
 https://github.com/Blasphemer/blasphemer/blob/master/CONTRIBUTING.md
+
 https://github.com/Blasphemer/blasphemer/wiki
 
 It is preferable to handle bug reports or other issues via the "Issues" section of this site rather than forum posts elsewhere.
