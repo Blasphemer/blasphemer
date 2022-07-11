@@ -1166,39 +1166,39 @@ HEADG0  	29 50 # Nightfang (FreeDoom)
 HEADH0  	29 38 # Nightfang (FreeDoom)
 HEADI0  	27 38 # Nightfang (FreeDoom)
 IMPXA1  	 # All IMPX frames made by Rei
-IMPXA8A2  	 # 
-IMPXA7A3  	 # 
-IMPXA6A4  	 # 
+IMPXA2A8  	 # 
+IMPXA3A7  	 # 
+IMPXA4A6  	 # 
 IMPXA5  	 # 
 IMPXB1  	 # 
-IMPXB8B2  	 # 
-IMPXB7B3  	 # 
-IMPXB6B4  	 # 
+IMPXB2B8  	 # 
+IMPXB3B7  	 # 
+IMPXB4B6  	 # 
 IMPXB5  	 # 
 IMPXC1  	 # 
-IMPXC8C2  	 # 
-IMPXC7C3  	 # 
-IMPXC6C4  	 # 
+IMPXC2C8  	 # 
+IMPXC3C7  	 # 
+IMPXC4C6  	 # 
 IMPXC5  	 # 
 IMPXD1  	 # 
-IMPXD8D2  	 # 
-IMPXD7D3  	 # 
-IMPXD6D4  	 # 
+IMPXD2D8  	 # 
+IMPXD3D7  	 # 
+IMPXD4D6  	 # 
 IMPXD5  	 # 
 IMPXE1  	 # 
-IMPXE8E2  	 # 
-IMPXE7E3  	 # 
-IMPXE6E4  	 # 
+IMPXE2E8  	 # 
+IMPXE3E7  	 # 
+IMPXE4E6  	 # 
 IMPXE5  	 # 
 IMPXF1  	 # 
-IMPXF8F2  	 # 
-IMPXF7F3  	 # 
-IMPXF6F4  	 # 
+IMPXF2F8  	 # 
+IMPXF3F7  	 # 
+IMPXF4F6  	 # 
 IMPXF5  	 # 
 IMPXG1  	# 
-IMPXG8G2  	# 
-IMPXG7G3  	# 
-IMPXG6G4  	# 
+IMPXG2G8  	# 
+IMPXG3G7  	# 
+IMPXG4G6  	# 
 IMPXG5  	# 
 IMPXH0  	# 
 IMPXI0  	# 
@@ -1981,11 +1981,7 @@ FX15C2C8    # BigProjectAlone
 FX15C3C7   	 # BigProjectAlone 
 FX15C4C6   	 # BigProjectAlone 
 FX15C5   	 # BigProjectAlone 
-FX15D1   	 # BigProjectAlone
-FX15D2D8   	 # BigProjectAlone 
-FX15D3D7   	 # BigProjectAlone 
-FX15D4D6   	 # BigProjectAlone 
-FX15D5   	 # BigProjectAlone 
+FX15D0   	 # BigProjectAlone
 FX15E0   	 # BigProjectAlone
 FX15F0   	 # BigProjectAlone
 FX15G0   	 # BigProjectAlone
