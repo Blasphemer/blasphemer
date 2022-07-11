@@ -1068,39 +1068,39 @@ BEASW0  	33 56 # Scuba Steve
 BEASX0  	33 56 # Scuba Steve
 BEASY0  	33 56 # Scuba Steve
 BEASZ0  	33 56 # Scuba Steve
-CHKNA1    # * PLACE HOLDER * jute
-CHKNA2A8  # * PLACE HOLDER * jute
-CHKNA3A7  # * PLACE HOLDER * jute
-CHKNA4A6  # * PLACE HOLDER * jute
-CHKNA5    # * PLACE HOLDER * jute
-CHKNB1    # * PLACE HOLDER * jute
-CHKNB2B8  # * PLACE HOLDER * jute
-CHKNB3B7  # * PLACE HOLDER * jute
-CHKNB4B6  # * PLACE HOLDER * jute
-CHKNB5    # * PLACE HOLDER * jute
-CHKNC1    # * PLACE HOLDER * jute
-CHKNC2C8  # * PLACE HOLDER * jute
-CHKNC3C7  # * PLACE HOLDER * jute
-CHKNC4C6  # * PLACE HOLDER * jute
-CHKNC5    # * PLACE HOLDER * jute
-CHKND1    # * PLACE HOLDER * jute
-CHKND2D8  # * PLACE HOLDER * jute
-CHKND3D7  # * PLACE HOLDER * jute
-CHKND4D6  # * PLACE HOLDER * jute
-CHKND5    # * PLACE HOLDER * jute
-CHKNE0    # * PLACE HOLDER * jute
-CHKNF0    # * PLACE HOLDER * jute
-CHKNG0    # * PLACE HOLDER * jute
-CHKNH0    # * PLACE HOLDER * jute
-CHKNI0    # * PLACE HOLDER * jute
-CHKNJ0    # * PLACE HOLDER * jute
-CHKNK0    # * PLACE HOLDER * jute
-CHKNL0 IMPXR0   # * PLACE HOLDER * Rei
-CHKNM0 IMPXR0   # * PLACE HOLDER * Rei
-CHKNN0 IMPXR0   # * PLACE HOLDER * Rei
-CHKNO0 IMPXR0   # * PLACE HOLDER * Rei
-CHKNP0 IMPXR0   # * PLACE HOLDER * Rei
-CHKNQ0 IMPXR0   # * PLACE HOLDER * Rei
+CHKNA1    # Rei base on original by jute
+CHKNA2A8  # 
+CHKNA3A7  # 
+CHKNA4A6  # 
+CHKNA5    # 
+CHKNB1    # 
+CHKNB2B8  # 
+CHKNB3B7  # 
+CHKNB4B6  # 
+CHKNB5    # 
+CHKNC1    # 
+CHKNC2C8  # 
+CHKNC3C7  # 
+CHKNC4C6  # 
+CHKNC5    # 
+CHKND1    # 
+CHKND2D8  # 
+CHKND3D7  # 
+CHKND4D6  # 
+CHKND5    # 
+CHKNE0    # 
+CHKNF0    # 
+CHKNG0    # 
+CHKNH0    # 
+CHKNI0    # 
+CHKNJ0    # 
+CHKNK0    # 
+CHKNL0    # 
+CHKNM0    # 
+CHKNN0    #
+CHKNO0    # 
+CHKNP0    # 
+CHKNQ0    # 
 CLNKA1  	40 69 # BigProjectAlone
 CLNKA2A8  	30 70 # BigProjectAlone
 CLNKA3A7  	29 70 # BigProjectAlone
