@@ -8,7 +8,6 @@ lumps/sndcurve.lmp: blasphemer_sndcurve.py
 clean: 
 	rm blasphem.wad
 	rm blasphdm.wad
-	rm lumps/sndcurve.lmp
 
 prefix?=/usr/local
 docdir?=/share/doc
