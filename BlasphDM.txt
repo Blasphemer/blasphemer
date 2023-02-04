@@ -281,10 +281,10 @@ USEARTIB 0 0 # * PLACE HOLDER *
 USEARTIC 0 0 # * PLACE HOLDER *   
 USEARTID 0 0 # * PLACE HOLDER *   
 USEARTIE 0 0 # * PLACE HOLDER *   
-INVGEML1 GOD1 0 0 # * PLACE HOLDER *  
-INVGEMR1 GOD1 0 0 # * PLACE HOLDER *  
-INVGEML2 GOD1 0 0 # * PLACE HOLDER *  
-INVGEMR2 GOD1 0 0 # * PLACE HOLDER *  
+INVGEML1 FONTA10 0 0 # * PLACE HOLDER *  
+INVGEMR1 FONTA10 0 0 # * PLACE HOLDER *  
+INVGEML2 FONTA03 0 0 # * PLACE HOLDER *  
+INVGEMR2 FONTA03 0 0 # * PLACE HOLDER *  
 BKEYICON 0 0 # Stilgar
 GKEYICON 0 0 # Stilgar 
 YKEYICON 0 0 # Stilgar
@@ -992,7 +992,7 @@ AMP2A0 7 13  # * PLACE HOLDER *
 AMP2B0 7 13  # * PLACE HOLDER *
 AMP2C0 7 13  # * PLACE HOLDER *
 ARTIATLP -1 -2 # Stilgar
-ARTIEGGC -8 -5 # * PLACE HOLDER *
+ARTIEGGC -3 -3 # * PLACE HOLDER *
 ARTIFBMB -1 -4 # * PLACE HOLDER *
 ARTIINVS -2 -1 # Stilgar
 ARTIINVU -6 -4 # Stilgar
@@ -1396,111 +1396,111 @@ MNTRZ5 	#
 MNTRZ6 	#
 MNTRZ7 	# 
 MNTRZ8 	#
-MUMMA1  33 58 # BigProjectAlone
-MUMMA2A8  30 60 # BigProjectAlone
-MUMMA3A7  30 60 # BigProjectAlone
-MUMMA4A6  23 57 # BigProjectAlone
-MUMMA5  25 58 # BigProjectAlone
-MUMMB1  31 61 # BigProjectAlone
-MUMMB2B8  31 54 # BigProjectAlone
-MUMMB3B7  27 57 # BigProjectAlone
-MUMMB4B6  24 54 # BigProjectAlone
-MUMMB5  25 57 # BigProjectAlone
-MUMMC1  31 59 # BigProjectAlone
-MUMMC2C8  26 56 # BigProjectAlone
-MUMMC3C7  27 59 # BigProjectAlone
-MUMMC4C6  27 55 # BigProjectAlone
-MUMMC5  27 56 # BigProjectAlone
-MUMMD1  30 58 # BigProjectAlone
-MUMMD2D8  19 56 # BigProjectAlone
-MUMMD3D7  24 57 # BigProjectAlone
-MUMMD4D6  25 53 # BigProjectAlone
-MUMMD5  24 59 # BigProjectAlone
-MUMME1  44 57 # BigProjectAlone
-MUMME2E8  29 56 # BigProjectAlone
-MUMME3E7  23 55 # BigProjectAlone
-MUMME4E6  24 55 # BigProjectAlone
-MUMME5  29 63 # BigProjectAlone
-MUMMF1  38 59 # BigProjectAlone
-MUMMF2F8  31 60 # BigProjectAlone
-MUMMF3F7  28 62 # BigProjectAlone
-MUMMF4F6  23 57 # BigProjectAlone
-MUMMF5  37 59 # BigProjectAlone
-MUMMG1  28 55 # BigProjectAlone
-MUMMG2G8  25 58 # BigProjectAlone
-MUMMG3G7  24 58 # BigProjectAlone
-MUMMG4G6  24 57 # BigProjectAlone
-MUMMG5  33 59 # BigProjectAlone
-MUMMH1  26 58 # BigProjectAlone
-MUMMH2H8  18 56 # BigProjectAlone
-MUMMH3H7  24 55 # BigProjectAlone
-MUMMH4H6  22 53 # BigProjectAlone
-MUMMH5  24 59 # BigProjectAlone
-MUMMI0  26 56 # BigProjectAlone
-MUMMJ0  40 54 # BigProjectAlone
-MUMMK0  46 72 # BigProjectAlone
-MUMML0  43 58 # BigProjectAlone
-MUMMM0  44 56 # BigProjectAlone
-MUMMN0  46 33 # BigProjectAlone
-MUMMO0  46 33 # BigProjectAlone
-MUMMP0  46 33 # BigProjectAlone
-MUMMQ0 PH  24 64 # * PLACE HOLDER *
-MUMMR0 PH  24 64 # * PLACE HOLDER *
-MUMMS0 PH  24 64 # * PLACE HOLDER *
-MUMMT0 PH  24 64 # * PLACE HOLDER *
-MUMMU0 PH  24 64 # * PLACE HOLDER *
-MUMMV0 PH  24 64 # * PLACE HOLDER *
-MUMMW0 PH  24 64 # * PLACE HOLDER *
-MUMMX1  28 55 # BigProjectAlone
-MUMMX2X8  25 58 # BigProjectAlone
-MUMMX3X7  24 58 # BigProjectAlone
-MUMMX4X6  24 57 # BigProjectAlone
-MUMMX5  33 59 # BigProjectAlone
-MUMMY1  38 59 # BigProjectAlone
-MUMMY2Y8  31 60 # BigProjectAlone
-MUMMY3Y7  28 62 # BigProjectAlone
-MUMMY4Y6  23 57 # BigProjectAlone
-MUMMY5  37 59 # BigProjectAlone
-SNKEA1  31 59 # Nightfang (FreeDoom)
-SNKEA2A8  23 62 # Nightfang (FreeDoom)
-SNKEA3A7  28 56 # Nightfang (FreeDoom)
-SNKEA4A6  31 53 # Nightfang (FreeDoom)
-SNKEA5  30 53 # Nightfang (FreeDoom)
-SNKEB1  19 64 # Nightfang (FreeDoom)
-SNKEB2B8  21 65 # Nightfang (FreeDoom)
-SNKEB3B7  28 62 # Nightfang (FreeDoom)
-SNKEB4B6  33 61 # Nightfang (FreeDoom)
-SNKEB5  16 65 # Nightfang (FreeDoom)
-SNKEC1  22 63 # Nightfang (FreeDoom)
-SNKEC2C8  23 63 # Nightfang (FreeDoom)
-SNKEC3C7  28 61 # Nightfang (FreeDoom)
-SNKEC4C6  23 58 # Nightfang (FreeDoom)
-SNKEC5  30 57 # Nightfang (FreeDoom)
-SNKED1  18 61 # Nightfang (FreeDoom)
-SNKED2D8  19 62 # Nightfang (FreeDoom)
-SNKED3D7  24 59 # Nightfang (FreeDoom)
-SNKED4D6  26 58 # Nightfang (FreeDoom)
-SNKED5  18 58 # Nightfang (FreeDoom)
-SNKEE1  38 60 # Nightfang (FreeDoom)
-SNKEE2E8  21 64 # Nightfang (FreeDoom)
-SNKEE3E7  26 62 # Nightfang (FreeDoom)
-SNKEE4E6  27 63 # Nightfang (FreeDoom)
-SNKEE5  31 52 # Nightfang (FreeDoom)
-SNKEF1  26 53 # Nightfang (FreeDoom)
-SNKEF2F8  19 57 # Nightfang (FreeDoom)
-SNKEF3F7  33 53 # Nightfang (FreeDoom)
-SNKEF4F6  30 53 # Nightfang (FreeDoom)
-SNKEF5  17 46 # Nightfang (FreeDoom)
-SNKEG0  37 60 # Nightfang (FreeDoom)
-SNKEH0  34 59 # Nightfang (FreeDoom)
-SNKEI0  28 57 # Nightfang (FreeDoom)
-SNKEJ0  23 45 # Nightfang (FreeDoom)
-SNKEK0  35 33 # Nightfang (FreeDoom)
-SNKEL0  35 33 # Nightfang (FreeDoom)
-SNKEM0  35 33 # Nightfang (FreeDoom)
-SNKEN0  35 33 # Nightfang (FreeDoom)
-SNKEO0  35 33 # Nightfang (FreeDoom)
-SNKEP0  35 33 # Nightfang (FreeDoom)
+MUMMA1   # All MUMM* frames made by Rei
+MUMMA2A8  
+MUMMA3A7  
+MUMMA4A6  
+MUMMA5 
+MUMMB1  
+MUMMB2B8 
+MUMMB3B7  
+MUMMB4B6  
+MUMMB5 
+MUMMC1 
+MUMMC2C8 
+MUMMC3C7  
+MUMMC4C6 
+MUMMC5  
+MUMMD1  
+MUMMD2D8 
+MUMMD3D7 
+MUMMD4D6 
+MUMMD5  
+MUMME1  
+MUMME2E8  
+MUMME3E7  
+MUMME4E6  
+MUMME5  
+MUMMF1  
+MUMMF2F8  
+MUMMF3F7  
+MUMMF4F6  
+MUMMF5  
+MUMMG1  
+MUMMG2G8 
+MUMMG3G7 
+MUMMG4G6 
+MUMMG5  
+MUMMH1  
+MUMMH2H8  
+MUMMH3H7  
+MUMMH4H6 
+MUMMH5 
+MUMMI0  
+MUMMJ0  
+MUMMK0  
+MUMML0 
+MUMMM0 
+MUMMN0  
+MUMMO0  
+MUMMP0 26 13
+MUMMQ0 
+MUMMR0 
+MUMMS0
+MUMMT0 
+MUMMU0
+MUMMV0 
+MUMMW0
+MUMMX1  
+MUMMX2X8  
+MUMMX3X7  
+MUMMX4X6  
+MUMMX5  
+MUMMY1  
+MUMMY2Y8  
+MUMMY3Y7 
+MUMMY4Y6 
+MUMMY5  
+SNKEA1  	31 59 # Nightfang (FreeDoom)
+SNKEA2A8  	23 62 # Nightfang (FreeDoom)
+SNKEA3A7  	28 56 # Nightfang (FreeDoom)
+SNKEA4A6  	31 53 # Nightfang (FreeDoom)
+SNKEA5  	30 53 # Nightfang (FreeDoom)
+SNKEB1  	19 64 # Nightfang (FreeDoom)
+SNKEB2B8 	21 65 # Nightfang (FreeDoom)
+SNKEB3B7  	28 62 # Nightfang (FreeDoom)
+SNKEB4B6  	33 61 # Nightfang (FreeDoom)
+SNKEB5  	16 65 # Nightfang (FreeDoom)
+SNKEC1  	22 63 # Nightfang (FreeDoom)
+SNKEC2C8  	23 63 # Nightfang (FreeDoom)
+SNKEC3C7  	28 61 # Nightfang (FreeDoom)
+SNKEC4C6  	23 58 # Nightfang (FreeDoom)
+SNKEC5  	30 57 # Nightfang (FreeDoom)
+SNKED1  	18 61 # Nightfang (FreeDoom)
+SNKED2D8  	19 62 # Nightfang (FreeDoom)
+SNKED3D7  	24 59 # Nightfang (FreeDoom)
+SNKED4D6  	26 58 # Nightfang (FreeDoom)
+SNKED5  	18 58 # Nightfang (FreeDoom)
+SNKEE1  	60 # Nightfang (FreeDoom)
+SNKEE2E8  	21 64 # Nightfang (FreeDoom)
+SNKEE3E7  	26 62 # Nightfang (FreeDoom)
+SNKEE4E6  	27 63 # Nightfang (FreeDoom)
+SNKEE5  	31 52 # Nightfang (FreeDoom)
+SNKEF1  	26 53 # Nightfang (FreeDoom)
+SNKEF2F8  	19 57 # Nightfang (FreeDoom)
+SNKEF3F7  	33 53 # Nightfang (FreeDoom)
+SNKEF4F6  	30 53 # Nightfang (FreeDoom)
+SNKEF5  	17 46 # Nightfang (FreeDoom)
+SNKEG0  	37 60 # Nightfang (FreeDoom)
+SNKEH0  	34 59 # Nightfang (FreeDoom)
+SNKEI0  	28 57 # Nightfang (FreeDoom)
+SNKEJ0  	23 45 # Nightfang (FreeDoom)
+SNKEK0  	35 33 # Nightfang (FreeDoom)
+SNKEL0  	35 33 # Nightfang (FreeDoom)
+SNKEM0  	35 33 # Nightfang (FreeDoom)
+SNKEN0  	35 33 # Nightfang (FreeDoom)
+SNKEO0  	35 33 # Nightfang (FreeDoom)
+SNKEP0  	35 33 # Nightfang (FreeDoom)
 SOR2A0		# * PLACE HOLDER * Linguica (Freedoom)
 SOR2B0		# * PLACE HOLDER * Linguica (Freedoom)
 SOR2C0		# * PLACE HOLDER * Linguica (Freedoom)
@@ -1729,9 +1729,9 @@ CKYYF0   6 25 # Stilgar
 CKYYG0   6 25 # Stilgar
 CKYYH0   6 25 # Stilgar
 CKYYI0   6 25 # Stilgar
-EGGCA0   6 30 # * PLACE HOLDER *
-EGGCB0   6 30 # * PLACE HOLDER *
-EGGCC0   6 30 # * PLACE HOLDER *
+EGGCA0   13 36 # * PLACE HOLDER *
+EGGCB0   13 36 # * PLACE HOLDER *
+EGGCC0   13 36 # * PLACE HOLDER *
 EGGMA0   6 9 # * PLACE HOLDER *
 EGGMB0   6 9 # * PLACE HOLDER *
 EGGMC0   6 9 # * PLACE HOLDER *
