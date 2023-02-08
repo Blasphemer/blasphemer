@@ -1148,23 +1148,23 @@ CLNKL0  	44 67 # BigProjectAlone
 CLNKM0  	39 45 # BigProjectAlone
 CLNKN0  	39 38 # BigProjectAlone
 CLNKO0  	39 38 # BigProjectAlone
-HEADA1  	30 84 # Nightfang (FreeDoom)
-HEADA2A8  	27 84 # Nightfang (FreeDoom)
-HEADA3A7  	26 83 # Nightfang (FreeDoom)
-HEADA4A6  	28 83 # Nightfang (FreeDoom)
-HEADA5  	28 83 # Nightfang (FreeDoom)
-HEADB1  	59 75 # Nightfang (FreeDoom)
-HEADB2B8  	29 75 # Nightfang (FreeDoom)
-HEADB3B7  	58 76 # Nightfang (FreeDoom)
-HEADB4B6  	28 75 # Nightfang (FreeDoom)
-HEADB5  	28 79 # Nightfang (FreeDoom)
-HEADC0  	29 76 # Nightfang (FreeDoom)
-HEADD0  	29 69 # Nightfang (FreeDoom)
-HEADE0  	29 59 # Nightfang (FreeDoom)
-HEADF0  	29 53 # Nightfang (FreeDoom)
-HEADG0  	29 50 # Nightfang (FreeDoom)
-HEADH0  	29 38 # Nightfang (FreeDoom)
-HEADI0  	27 38 # Nightfang (FreeDoom)
+HEADA1  	# HEAD by Oplexitie
+HEADA2A8  	
+HEADA3A7  	
+HEADA4A6  	
+HEADA5  	
+HEADB1  	
+HEADB2B8  	
+HEADB3B7  	
+HEADB4B6  	
+HEADB5  	
+HEADC0  
+HEADD0  
+HEADE0  	
+HEADF0  	
+HEADG0  	
+HEADH0  	
+HEADI0  	
 IMPXA1  	 # All IMPX frames made by Rei
 IMPXA2A8  	 # 
 IMPXA3A7  	 # 
