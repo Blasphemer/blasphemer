@@ -1,0 +1,4 @@
+# Script to make date and version for titlepic
+
+
+convert help1.gif -pointsize 10 -gravity east  -font  NimbusRoman-Bold -fill white  -draw "text 5,95 '2023 v 0.1.8 '" out.png

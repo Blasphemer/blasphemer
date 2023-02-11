@@ -244,7 +244,7 @@ WIZSIT   # SuperSomariDX
 WPNUP    # Artisticdude
 
 [graphics]
-ADVISOR  -266 -13 # Stilgar
+ADVISOR  -257 -10 # Stilgar
 IN_X     GOD1	0 0 # * PLACE HOLDER *  
 IN_YAH   GOD1	0 0 # * PLACE HOLDER * 
 MAPE1    0 0 # * PLACE HOLDER *
@@ -1004,7 +1004,7 @@ ARTITRCH -7 -3 # SuperSomariDX
 ATLPA0   12 35 # Stilgar
 ATLPB0   12 35 # Stilgar
 ATLPC0   12 35 # Stilgar
-BEAKA0   -115 -115 # * PLACE HOLDER *
+BEAKA0   -46 -113 # 
 #Monsters
 BEASA1  	28 64 # Scuba Steve
 BEASA2A8  	24 64 # Scuba Steve
