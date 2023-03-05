@@ -1012,14 +1012,14 @@ BEASA3A7  	24 64 # Scuba Steve
 BEASA4A6  	36 64 # Scuba Steve
 BEASA5  	28 64 # Scuba Steve
 BEASB1  	28 64 # Scuba Steve
-BEASB2B8	36 64 # Scuba Steve
-BEASB3B7  	36 64 # Scuba Steve
-BEASB4B6  	36 64 # Scuba Steve
+BEASB2E8	36 64 # Scuba Steve
+BEASB3E7  	36 64 # Scuba Steve
+BEASB4E6  	36 64 # Scuba Steve
 BEASB5  	28 64 # Scuba Steve
 BEASC1  	28 64 # Scuba Steve
-BEASC2C8  	36 64 # Scuba Steve
-BEASC3C7  	36 64 # Scuba Steve
-BEASC4C6  	36 64 # Scuba Steve
+BEASC2F8  	36 64 # Scuba Steve
+BEASC3F7  	36 64 # Scuba Steve
+BEASC4F6  	36 64 # Scuba Steve
 BEASC5  	28 64 # Scuba Steve
 BEASD1  	28 64 # Scuba Steve
 BEASD2D8  	24 64 # Scuba Steve
@@ -1027,14 +1027,14 @@ BEASD3D7  	24 64 # Scuba Steve
 BEASD4D6  	36 64 # Scuba Steve
 BEASD5  	28 64 # Scuba Steve
 BEASE1  	28 64 # Scuba Steve
-BEASE2E8  	36 64 # Scuba Steve
-BEASE3E7  	36 64 # Scuba Steve
-BEASE4E6  	36 64 # Scuba Steve
+BEASE2B8  	36 64 # Scuba Steve
+BEASE3B7  	36 64 # Scuba Steve
+BEASE4B6  	36 64 # Scuba Steve
 BEASE5  	28 64 # Scuba Steve
 BEASF1  	28 64 # Scuba Steve
-BEASF2F8  	36 64 # Scuba Steve
-BEASF3F7  	36 64 # Scuba Steve
-BEASF4F6  	36 64 # Scuba Steve
+BEASF2C8  	36 64 # Scuba Steve
+BEASF3C7  	36 64 # Scuba Steve
+BEASF4C6  	36 64 # Scuba Steve
 BEASF5  	28 64 # Scuba Steve
 BEASG1  	28 64 # Scuba Steve (FreeDoom)
 BEASG2G8  	24 64 # Scuba Steve (FreeDoom)
@@ -1877,13 +1877,13 @@ FX06D0    # * PLACE HOLDER *
 FX06E0    # * PLACE HOLDER *
 FX06F0    # * PLACE HOLDER *
 FX06G0    # * PLACE HOLDER *
-FX07A0   16 30 # * PLACE HOLDER *
-FX07B0   16 30 # * PLACE HOLDER *
-FX07C0   16 30 # * PLACE HOLDER *
-FX07D0   16 30 # * PLACE HOLDER *
-FX07E0   16 30 # * PLACE HOLDER *
-FX07F0   16 30 # * PLACE HOLDER *
-FX07G0   16 30 # * PLACE HOLDER *
+FX07A0    # Craneo
+FX07B0    # Craneo
+FX07C0    # Craneo
+FX07D0    # Craneo
+FX07E0    # Craneo
+FX07F0    # Craneo
+FX07G0    # Craneo
 FX08A0    # * PLACE HOLDER *
 FX08B0    # * PLACE HOLDER *
 FX08C0   # * PLACE HOLDER *
