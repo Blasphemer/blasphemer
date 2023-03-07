@@ -1780,8 +1780,8 @@ FRB1E0  	12 13 # Espi
 FRB1F0   	12 11 # Espi
 FRB1G0   	12 11 # Espi
 FRB1H0   	12 11 # Espi
-FX00A0   3 6 # Printz
-FX00B0   6 4 # Printz
+FX00A0	7	7 # Talon1024
+FX00B0	7	7 # Talon1024
 FX00C0    # * PLACE HOLDER *
 FX00D0    # * PLACE HOLDER *
 FX00E0    # * PLACE HOLDER *
