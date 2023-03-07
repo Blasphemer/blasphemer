@@ -969,7 +969,7 @@ VTFBB0 6 6 # Stilgar
 WBLSA0 11  45   # Eriance
 WBOWA0 21 38   # Stilgar
 WGNTA0 15 52    # Eriance
-WMCEA0 21 22   # Eriance
+WMCEA0 40 25   # Eriance
 WPHXA0 10 57   # Eriance
 WSKLA0 18 45   # Stilgar
 SOARB0 SOARA0 23 25 # Stilgar (Unanimated!)
@@ -1806,11 +1806,11 @@ FX02B0   4 4 # SuperSomariDX
 FX02C0   8 8 # Protox
 FX02D0   8 8 # SuperSomariDX
 FX02E0   15 14 # SuperSomariDX
-FX02F0    # * PLACE HOLDER *
-FX02G0    # * PLACE HOLDER *
-FX02H0    # * PLACE HOLDER *
-FX02I0    # * PLACE HOLDER *
-FX02J0    # * PLACE HOLDER *
+FX02F0   8 8  # Amuscaria
+FX02G0   12 13 # Amuscaria
+FX02H0   13 14 # Amuscaria
+FX02I0   14 15 # Amuscaria
+FX02J0   14 16 # Amuscaria
 FX03A1   4 5 # Neoworm
 FX03A2A8 11 3 # Neoworm
 FX03A3A7 13 3 # Neoworm
@@ -2136,12 +2136,12 @@ LVASH0    # * PLACE HOLDER *
 LVASI0   # * PLACE HOLDER *
 LVASJ0    # * PLACE HOLDER *
 LVASK0    # * PLACE HOLDER *
-MACEA0	-109	-100 # Eriance
-MACEB0	-109	-100 # Eriance
-MACEC0	-109	-95  # Eriance
-MACED0	-109	-90  # Eriance
-MACEE0	-109	-95  # Eriance
-MACEF0	-109	-100 # Eriance
+MACEA0	-95	-82  # Eriance
+MACEB0	-95	-80  # Eriance
+MACEC0	-95	-66  # Eriance
+MACED0	-95	-77  # Eriance
+MACEE0	-95	-65  # Eriance
+MACEF0	-95	-79  # Eriance
 PHNXA0   -92 -86 # Eriance
 PHNXB0   -92 -86 # Eriance
 PHNXC0   -61 -76 # Eriance
